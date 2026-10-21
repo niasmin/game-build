@@ -1,0 +1,94 @@
+{
+  "apk_sha256": "084f08627db63bb34a8b17408c9784f0af4158dc524694091994281a95d75732",
+  "note": "Art extracted from user-supplied APK. Original hero identities are not verified. No third-party relicensing is implied.",
+  "assets": [
+    {
+      "output": "logo.png",
+      "source": "assets/assets/jspre/native/ab/ab5dfef4-7482-42b2-a4a9-a6e0ec276784.png",
+      "logical_path": "ui/login/cnl/logo",
+      "source_sha256": "65e8a8c2c5d5dc20e0bb8bba1f5bc06281fc1974cb3b7c78cb8db0f010f2b989",
+      "output_sha256": "4d87e06581ef83a547e89ad67b7a0687da9fdfee26f27fafb5adf69ac7faf391",
+      "size": [
+        470,
+        280
+      ]
+    },
+    {
+      "output": "login-background.png",
+      "source": "assets/assets/jspre/native/fc/fcc3ebad-3f01-487d-b12a-b8ce2345fbac.jpg",
+      "logical_path": "ui/login/cnl/1-1",
+      "source_sha256": "d8b7c1fdc65e4c8ba21805c9b50882d1c400f432f4da729e3e7b45f9e08d70ec",
+      "output_sha256": "7248caacaab3ad7ec26e42c20a85af46f7b0cac2b3138fca5b3e089f9a15ddbe",
+      "size": [
+        576,
+        1024
+      ]
+    },
+    {
+      "output": "hero-0.png",
+      "source": "assets/assets/exresdir/native/00/008cb456-0692-4298-a99e-cc13480a6821.astc",
+      "logical_path": "hricon/80506088",
+      "source_sha256": "7c2946c123ff02638a619447d01f977bafd04f24215db60c9b3b3449c6f8018c",
+      "output_sha256": "4b1d7a51bb82d083e8c6f315c2cc6fbaf663d281d69126d5a58dbdd3ac6f5fbb",
+      "size": [
+        130,
+        134
+      ]
+    },
+    {
+      "output": "hero-1.png",
+      "source": "assets/assets/exresdir/native/00/00dad5d4-cf8d-4ff3-b5b0-e81a98fa605c.astc",
+      "logical_path": "hricon/70505088",
+      "source_sha256": "c9d61c03220db834f0fde7df7d55b8e1b5744177df1842c5bc1c81c83b7f20f2",
+      "output_sha256": "9a29899c0c9160e384e1f90b4b3dc6e55ea2621467765970d57837be54fee0e6",
+      "size": [
+        130,
+        134
+      ]
+    },
+    {
+      "output": "hero-2.png",
+      "source": "assets/assets/exresdir/native/02/0223a46f-a09f-4cb7-928d-b5afea6bb173.astc",
+      "logical_path": "hricon/500288",
+      "source_sha256": "03b50dad1fa50b6d11e7bd8996cd1b045744e15d811742a4e624c3a5f0ce9f93",
+      "output_sha256": "1e7f90e7b2cba9ac2f64b59f3efff95c7e7183b04c8a2dddd93e1586aa81159b",
+      "size": [
+        130,
+        134
+      ]
+    },
+    {
+      "output": "hero-3.png",
+      "source": "assets/assets/exresdir/native/03/039acca9-e273-4f59-a087-be6d3af65e5c.astc",
+      "logical_path": "hricon/50508088",
+      "source_sha256": "ead739e41f5965062dc49edbc7158528ba159a04aebfceb2fd200f000d4b61a4",
+      "output_sha256": "0c6f99f81b1da2cebfd86d347bc2afa2743d585eb1952dbfe7fa94cc1849ef7e",
+      "size": [
+        130,
+        134
+      ]
+    },
+    {
+      "output": "hero-4.png",
+      "source": "assets/assets/exresdir/native/04/04d3bb00-de74-4edd-bed4-3836174c44c6.astc",
+      "logical_path": "hricon/400188",
+      "source_sha256": "84700df464ed175389af858039bb1428a2f33e33562b9eb41f2b309674440fd0",
+      "output_sha256": "f2445032c5eef487048e69104e6320b24ecd9f4a62b767b2399f536e7a0de871",
+      "size": [
+        130,
+        134
+      ]
+    },
+    {
+      "output": "hero-5.png",
+      "source": "assets/assets/exresdir/native/05/059682d1-a241-4217-bca7-676d7fafa317.astc",
+      "logical_path": "hricon/10502088",
+      "source_sha256": "03da0b3687f73133a12ec86d6915f4d6a40d9196c471b6e8da66c4ae43c86c99",
+      "output_sha256": "15ed264367ece35cf9c7d579e32acdde85b7160972cecfdccf26a45b890c0f48",
+      "size": [
+        130,
+        134
+      ]
+    }
+  ]
+}

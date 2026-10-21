@@ -1,0 +1,45 @@
+{
+  "evidence_id": "ev_2fbb93bec1e996440fc83e92c4ffb824216445efe0f532955a855cdf324c1aeb",
+  "operation": "inspect_artifact",
+  "provider": {
+    "id": "rea-artifact-graph",
+    "name": "REA safe artifact graph provider",
+    "version": "1"
+  },
+  "source": {
+    "name": "original.apk",
+    "digest": {
+      "sha256": "084f08627db63bb34a8b17408c9784f0af4158dc524694091994281a95d75732"
+    },
+    "local_path": "/workspace/game-analysis/original.apk",
+    "format": "apk",
+    "architecture": null
+  },
+  "file_count": 8063,
+  "engine": "3.4.1",
+  "design_resolution": {
+    "width": 720,
+    "height": 1280,
+    "policy": 2
+  },
+  "script_bundles_encrypted": true,
+  "main_script": "assets/assets/main/index.jsc",
+  "main_script_size": 2194176,
+  "launch_scene": "db://assets/scenes/game.scene",
+  "native_libraries": [
+    "lib/arm64-v8a/libcocos.so",
+    "lib/armeabi-v7a/libcocos.so",
+    "lib/x86/libcocos.so",
+    "lib/x86_64/libcocos.so"
+  ],
+  "limitations": [
+    "Inspection derives bounded static hypotheses and next probes; it does not execute the artifact or claim format-specific semantics.",
+    "ZIP inventory lists central-directory entries only. Non-entry bytes, including an APK Signing Block before the central directory or a ZIP comment after it, are not occurrences."
+  ],
+  "reconstruction_scope": "Independent browser prototype using selected packaged artwork; no recovered original gameplay, account services, backend or balance.",
+  "thai_config_archive": {
+    "member": "assets/areaCfg/config_th.zip",
+    "nested_members": 322,
+    "status": "ZIP inventory inspected; binary configuration payloads not decoded"
+  }
+}
