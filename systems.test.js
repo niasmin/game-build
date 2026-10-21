@@ -1,5 +1,5 @@
 import test from 'node:test';import assert from 'node:assert/strict';import {readFileSync} from 'node:fs';
-import {configureRules,initialSave,parseSave,effectiveHero,levelCap} from './game.js?v=0.4.0';
+import {configureRules,initialSave,parseSave,effectiveHero,levelCap} from './game.js?v=0.5.0';
 import {configureExpanded,dayState,buyOffer,claimTask,recordAction,equip,unequip,equipmentBonus,totalStats,starPlan,raiseStar,sanitizeExpanded} from './systems.js';
 const read=n=>JSON.parse(readFileSync(new URL('./public/data/'+n+'.json',import.meta.url)));
 const data=read('original-heroes'),rules=read('original-rules'),campaign=read('original-campaign'),config=read('original-expanded-systems'),items=Object.fromEntries(read('original-items').items.map(i=>[i.base_id,i]));configureRules(rules,data.heroes);configureExpanded(config,items,data.heroes,rules);

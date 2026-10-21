@@ -1,5 +1,5 @@
 // Packaged rules with explicit local-only service adaptations.
-import {rewards,heroStats} from './game.js?v=0.4.0';
+import {rewards,heroStats} from './game.js?v=0.5.0';
 let config={},items={},heroes=[],rules={};
 export function configureExpanded(c,i,h,r){config=c;items=i;heroes=h;rules=r;}
 export function expanded(){return config;}

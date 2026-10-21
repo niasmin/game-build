@@ -1,0 +1,14 @@
+{
+  "base_path": "/game-build/",
+  "model_tests_passed": 22,
+  "checks": [
+    "admin password setup and signed coupon creation",
+    "wrong admin password denied",
+    "different browser rejects unknown issuer",
+    "trusted issuer import and exact inventory reward",
+    "claim receipt and replay prevention persist after reload",
+    "coupon and admin forms fit four viewport widths"
+  ],
+  "page_errors": [],
+  "failed_responses": []
+}

@@ -2,8 +2,8 @@
 // No native game code or third-party skeletal runtime executes in the browser.
 const supported=new Set([101010001, 102010001, 102020001, 103010001, 103020001, 201010001, 202010001, 202020001, 204020001, 205030001, 401010001, 402010001, 402020001]);
 const images=new Map(),clocks=new Map();let manifest,loading=false;
-async function prepare(){if(loading)return;loading=true;try{manifest=await fetch('./public/assets/recovered/characters/sprite-sheets.json?v=0.4.0').then(r=>r.json());}catch{manifest={characters:[]};}}
-function sheet(path){if(!images.has(path)){const image=new Image();image.src=path+'?v=0.4.0';images.set(path,image);while(images.size>12){const oldest=images.keys().next().value;images.get(oldest).src='';images.delete(oldest);}}const result=images.get(path);images.delete(path);images.set(path,result);return result;}
+async function prepare(){if(loading)return;loading=true;try{manifest=await fetch('./public/assets/recovered/characters/sprite-sheets.json?v=0.5.0').then(r=>r.json());}catch{manifest={characters:[]};}}
+function sheet(path){if(!images.has(path)){const image=new Image();image.src=path+'?v=0.5.0';images.set(path,image);while(images.size>12){const oldest=images.keys().next().value;images.get(oldest).src='';images.delete(oldest);}}const result=images.get(path);images.delete(path);images.set(path,result);return result;}
 export function characterCanvas(h,event,turn){const id=Number(h.skin?.mdid);if(!supported.has(id))return '';const pose=h.hp<=0?'die':event?.actor===h.id?(event.rage?'skill':'attack'):event?.target===h.id?'hit':'idle';return `<canvas class="original-character" width="180" height="200" data-character="${id}" data-side="${h.side}" data-identity="${h.id}" data-pose="${pose}" data-turn="${turn}" aria-label="แอนิเมชันขุนพลจาก APK"></canvas>`;}
 prepare();
 function draw(now){if(manifest&&!document.hidden){for(const canvas of document.querySelectorAll('canvas.original-character')){const id=Number(canvas.dataset.character),meta=manifest.characters.find(x=>Number(x.id)===id);if(!meta)continue;
