@@ -1,0 +1,285 @@
+{
+  "method": "ARM64 static loader references 16-byte embedded asset key at virtual address 0x9ca6c9, XXTEA and optional gzip; no target execution",
+  "records": [
+    {
+      "member": "assets/assets/config_en/index.jsc",
+      "status": "decoded",
+      "bytes": 618,
+      "sha256": "a2abbda0a8b64f311e42c071519df4784bb4331b981171454ba79bbec6b10f66",
+      "output": "assets/assets/config_en/index.js"
+    },
+    {
+      "member": "assets/assets/config_id/index.jsc",
+      "status": "decoded",
+      "bytes": 618,
+      "sha256": "1e141db4a59fdc31ffa7504f17b027082a62288215aa2491e389b81e72ca6183",
+      "output": "assets/assets/config_id/index.js"
+    },
+    {
+      "member": "assets/assets/config_th/index.jsc",
+      "status": "decoded",
+      "bytes": 618,
+      "sha256": "3fa57d564f52ab3b044ce4e9433abc0e1bb95d16f029a961c8216e4d5a01ef66",
+      "output": "assets/assets/config_th/index.js"
+    },
+    {
+      "member": "assets/assets/config_vi/index.jsc",
+      "status": "decoded",
+      "bytes": 618,
+      "sha256": "1ae56caa8ad7e4605a2eeae6732340e2aaaafe4b0145aed05acf0a62554301e1",
+      "output": "assets/assets/config_vi/index.js"
+    },
+    {
+      "member": "assets/assets/config_zh/index.jsc",
+      "status": "decoded",
+      "bytes": 618,
+      "sha256": "cee6a8b7e86115a93f6b63ef3e3f782f9003a855c726b82da93d38205654c5ca",
+      "output": "assets/assets/config_zh/index.js"
+    },
+    {
+      "member": "assets/assets/exresdir/index.jsc",
+      "status": "decoded",
+      "bytes": 615,
+      "sha256": "99c9245dbabde150d06fc956048c270a626365398b3caf6f46475aa3923f128a",
+      "output": "assets/assets/exresdir/index.js"
+    },
+    {
+      "member": "assets/assets/exresdir_en/index.jsc",
+      "status": "decoded",
+      "bytes": 624,
+      "sha256": "86d04d6749f0a7b9bf3f845c6067e16eceb00944ebc6c86b8a743ad9cb0cab51",
+      "output": "assets/assets/exresdir_en/index.js"
+    },
+    {
+      "member": "assets/assets/exresdir_id/index.jsc",
+      "status": "decoded",
+      "bytes": 624,
+      "sha256": "de1a7b938c5fd9af2ab9ac00f232cbd90e95aebd7b7301caed4e32589002cd26",
+      "output": "assets/assets/exresdir_id/index.js"
+    },
+    {
+      "member": "assets/assets/exresdir_th/index.jsc",
+      "status": "decoded",
+      "bytes": 624,
+      "sha256": "3f2a55a5d3f94958b0303dca960ad1e2ac622a4686bfad6a82c3c814c06caa70",
+      "output": "assets/assets/exresdir_th/index.js"
+    },
+    {
+      "member": "assets/assets/exresdir_vi/index.jsc",
+      "status": "decoded",
+      "bytes": 624,
+      "sha256": "8dc17e1eeea3d7dbd047653af6b982c8db2e3c8d914ea756fe610e9a39619e0d",
+      "output": "assets/assets/exresdir_vi/index.js"
+    },
+    {
+      "member": "assets/assets/exresdir_zh/index.jsc",
+      "status": "decoded",
+      "bytes": 624,
+      "sha256": "c1698b3628480a80c0d3e5ad3608efa1fe0ea13f2f67cb540860a7188aa923ad",
+      "output": "assets/assets/exresdir_zh/index.js"
+    },
+    {
+      "member": "assets/assets/jsaudio_en/index.jsc",
+      "status": "decoded",
+      "bytes": 621,
+      "sha256": "2d4bc53cc5137e57241247cb919fbe69be101ad65606d6b3f2c306d53454d49c",
+      "output": "assets/assets/jsaudio_en/index.js"
+    },
+    {
+      "member": "assets/assets/jsaudio_id/index.jsc",
+      "status": "decoded",
+      "bytes": 621,
+      "sha256": "9940daa02f2364a4ec3945e1d7f8c65e036bdf8fa78248d70848e32b51748d03",
+      "output": "assets/assets/jsaudio_id/index.js"
+    },
+    {
+      "member": "assets/assets/jsaudio_th/index.jsc",
+      "status": "decoded",
+      "bytes": 621,
+      "sha256": "3ee33469dfc4cb610d02ec9a0ec1fd238dbca9be4113b9518851dc33ba241523",
+      "output": "assets/assets/jsaudio_th/index.js"
+    },
+    {
+      "member": "assets/assets/jsaudio_vi/index.jsc",
+      "status": "decoded",
+      "bytes": 621,
+      "sha256": "92490b140e486cc9de73ad09b2e071fbe9b3ac5f86d04a4077e37ae7a7fb71e8",
+      "output": "assets/assets/jsaudio_vi/index.js"
+    },
+    {
+      "member": "assets/assets/jsaudio_zh/index.jsc",
+      "status": "decoded",
+      "bytes": 621,
+      "sha256": "052e539ccb7594aee0ce5ffc6abb7fd530126be5c38e5c73f750c52bb40b3824",
+      "output": "assets/assets/jsaudio_zh/index.js"
+    },
+    {
+      "member": "assets/assets/jspre/index.jsc",
+      "status": "decoded",
+      "bytes": 606,
+      "sha256": "85040901b6cc111ab63a0a7b0b41b5a720d30580cecede5fb5ec7843288bf0c3",
+      "output": "assets/assets/jspre/index.js"
+    },
+    {
+      "member": "assets/assets/jspre_en/index.jsc",
+      "status": "decoded",
+      "bytes": 615,
+      "sha256": "9dc12e077b03bacf1e621e87d75546f8c0baebc0c9241917a44fd0a3ea5378de",
+      "output": "assets/assets/jspre_en/index.js"
+    },
+    {
+      "member": "assets/assets/jspre_id/index.jsc",
+      "status": "decoded",
+      "bytes": 615,
+      "sha256": "0fc1b6dddfc1e7276d2de9b87cee60fdf4d4e8bb3bed18870573e381ae7ca08c",
+      "output": "assets/assets/jspre_id/index.js"
+    },
+    {
+      "member": "assets/assets/jspre_th/index.jsc",
+      "status": "decoded",
+      "bytes": 615,
+      "sha256": "8cdbcd831601a8156466ecebdff5b86259895e47d2e873e524ac22e070b82af1",
+      "output": "assets/assets/jspre_th/index.js"
+    },
+    {
+      "member": "assets/assets/jspre_vi/index.jsc",
+      "status": "decoded",
+      "bytes": 615,
+      "sha256": "bae1cd6d1491858518e70e5b2abcd6241f2341b8720cca71a30ea4c1e94f84f9",
+      "output": "assets/assets/jspre_vi/index.js"
+    },
+    {
+      "member": "assets/assets/jspre_zh/index.jsc",
+      "status": "decoded",
+      "bytes": 615,
+      "sha256": "121051722ecaee2b1368da8a013d3a9f45d1ae55ec298a6f33ac7064a23d6686",
+      "output": "assets/assets/jspre_zh/index.js"
+    },
+    {
+      "member": "assets/assets/jsres/index.jsc",
+      "status": "decoded",
+      "bytes": 606,
+      "sha256": "a9e874dfa99125b2cde7958cafb2646581369cedf8a476b87906c87115a60b66",
+      "output": "assets/assets/jsres/index.js"
+    },
+    {
+      "member": "assets/assets/jsres_en/index.jsc",
+      "status": "decoded",
+      "bytes": 615,
+      "sha256": "7689e223e441ff03672c0b72ba21226b95ab4fd81ba9a184a19e18846183e2b9",
+      "output": "assets/assets/jsres_en/index.js"
+    },
+    {
+      "member": "assets/assets/jsres_id/index.jsc",
+      "status": "decoded",
+      "bytes": 615,
+      "sha256": "e114e90d6015b904fe28f6dd368c19107484c4c672ae71fc96042b0ba210b0a8",
+      "output": "assets/assets/jsres_id/index.js"
+    },
+    {
+      "member": "assets/assets/jsres_th/index.jsc",
+      "status": "decoded",
+      "bytes": 615,
+      "sha256": "ee9e6edf519b64dc65379fec0f2b874bbf9efc8051f43827a19c11e9fa7fa798",
+      "output": "assets/assets/jsres_th/index.js"
+    },
+    {
+      "member": "assets/assets/jsres_vi/index.jsc",
+      "status": "decoded",
+      "bytes": 615,
+      "sha256": "985c7055493facce72dcaf7f6ed66d8d08c5808319a3ca3bfe99f0cc897fba86",
+      "output": "assets/assets/jsres_vi/index.js"
+    },
+    {
+      "member": "assets/assets/jsres_zh/index.jsc",
+      "status": "decoded",
+      "bytes": 615,
+      "sha256": "14deef1d7d2bb979b09780a12b7057801fd66f8c72b93be2d35c75231e3152c5",
+      "output": "assets/assets/jsres_zh/index.js"
+    },
+    {
+      "member": "assets/assets/main/index.jsc",
+      "status": "decoded",
+      "bytes": 8296318,
+      "sha256": "2cfd75fcc9cec58af1578be488d0464485456d6ccd8b2b8993b4eb242319932c",
+      "output": "assets/assets/main/index.js"
+    },
+    {
+      "member": "assets/assets/resources/index.jsc",
+      "status": "decoded",
+      "bytes": 618,
+      "sha256": "f61acfd36194a0e5bcfeb48ac0cc5fc8c3d58fe21990f0d0e2194e5a4ab34784",
+      "output": "assets/assets/resources/index.js"
+    },
+    {
+      "member": "assets/jsb-adapter/jsb-builtin.jsc",
+      "status": "decoded",
+      "bytes": 166605,
+      "sha256": "5b2eb531b45cab45af52cd899a9e1ac60d7026dd428fe10c6bb4b3f19e14f3d0",
+      "output": "assets/jsb-adapter/jsb-builtin.js"
+    },
+    {
+      "member": "assets/jsb-adapter/jsb-engine.jsc",
+      "status": "decoded",
+      "bytes": 157146,
+      "sha256": "2aefea1a655a958dc99c9ffa93675b102c3eafb5df82d3b4d5dee8fcb6e42182",
+      "output": "assets/jsb-adapter/jsb-engine.js"
+    },
+    {
+      "member": "assets/main.jsc",
+      "status": "decoded",
+      "bytes": 2412,
+      "sha256": "2379b850ec36bc561307259c227c6493adb0386d3503f797dcebbfecd914c8f1",
+      "output": "assets/main.js"
+    },
+    {
+      "member": "assets/src/application.jsc",
+      "status": "decoded",
+      "bytes": 5516,
+      "sha256": "24e39fe2b7684106700315818b5b67f30c6142968c71a114baac968c9f407667",
+      "output": "assets/src/application.js"
+    },
+    {
+      "member": "assets/src/assets/libs/bccore.jsc",
+      "status": "decoded",
+      "bytes": 80382,
+      "sha256": "bf2a50c9bb84cb0fee30f3bcb4a4a34b62a1795eef71d19e3d8da6f81ba0aafb",
+      "output": "assets/src/assets/libs/bccore.js"
+    },
+    {
+      "member": "assets/src/assets/libs/qrcode.jsc",
+      "status": "decoded",
+      "bytes": 62053,
+      "sha256": "bf976cf4b74112868490861a0b16cb70fb3a66aba819f0abed85a32c8d9c50e2",
+      "output": "assets/src/assets/libs/qrcode.js"
+    },
+    {
+      "member": "assets/src/assets/war/bcwar.jsc",
+      "status": "decoded",
+      "bytes": 217197,
+      "sha256": "8a3b3a893b22f9ce6ff41a991db86ac58d570865030eb81e3dee6cba55a6cf97",
+      "output": "assets/src/assets/war/bcwar.js"
+    },
+    {
+      "member": "assets/src/chunks/bundle.jsc",
+      "status": "decoded",
+      "bytes": 1176,
+      "sha256": "9e18b071497482de999b306f79003a98c6e180dd8726d996a0ec528c08d1dcbe",
+      "output": "assets/src/chunks/bundle.js"
+    },
+    {
+      "member": "assets/src/cocos-js/cc.jsc",
+      "status": "decoded",
+      "bytes": 2395670,
+      "sha256": "bb282322cde3e631902406f56038703db57cc4e53c6bec3cfccb54dc12708b7e",
+      "output": "assets/src/cocos-js/cc.js"
+    },
+    {
+      "member": "assets/src/system.bundle.jsc",
+      "status": "decoded",
+      "bytes": 6275,
+      "sha256": "19e620b486d369fc7c5a40a5e8761206ba2b0df63e17b8fc95423974d463f529",
+      "output": "assets/src/system.bundle.js"
+    }
+  ]
+}

@@ -1,34 +1,37 @@
-# APK investigation and browser reconstruction
+# APK reconstruction: recovered evidence and remaining gaps
 
-The supplied Google Drive file is `samkok-new-force-11-1-97.apk` (153,360,028 bytes), not a source ZIP.
-SHA-256: `084f08627db63bb34a8b17408c9784f0af4158dc524694091994281a95d75732`.
+## Original artifact
 
-REA 6.7.0 `inspect-artifact` completed its package inspection. Its full Evidence is retained at `/workspace/game-analysis/rea-artifact.json`; the portable summary is `apk-evidence.json`.
-Evidence ID: `ev_2fbb93bec1e996440fc83e92c4ffb824216445efe0f532955a855cdf324c1aeb`.
+The supplied Google Drive file is `samkok-new-force-11-1-97.apk`, 153,360,028 bytes, SHA-256 `084f08627db63bb34a8b17408c9784f0af4158dc524694091994281a95d75732`.
+REA6.7.0 inventoried8,063 members. Full Evidence: `/workspace/game-analysis/rea-artifact.json`, ID `ev_2fbb93bec1e996440fc83e92c4ffb824216445efe0f532955a855cdf324c1aeb`.
 
-## Established from packaged files
+The package is `com.jsjssea.google`, launcher `com.cocos.game.AppActivity`. Packaged settings identify Cocos Creator3.4.1, Android, portrait720×1280 and `db://assets/scenes/game.scene`.
 
-- 8,063 APK members; manifest package `com.jsjssea.google`, launcher `com.cocos.game.AppActivity`.
-- `assets/src/settings.json` reports Cocos Creator 3.4.1, Android, portrait design resolution 720 × 1280, and launch scene `db://assets/scenes/game.scene`.
-- Main bundle configuration explicitly declares `encrypted: true`; `assets/assets/main/index.jsc` is 2,194,176 bytes. A browser cannot simply execute this file as JavaScript source.
-- Four packaged `libcocos.so` architectures and Android SDK integrations are present. These Android native components are not browser modules.
-- Selected original artwork is extracted and ASTC textures converted to PNG. `public/assets/original/provenance.json` records source members, logical Cocos paths and SHA-256 digests. Portrait identifiers were recovered, but their character-name mapping was not verified.
-- Apktool 3.0.3 decoded the manifest/resources with original DEX files preserved. Its JAR was checked against the official GitHub release asset SHA-256, `dbf930b076c6b9be08d57c449cacefc3bdd6b71ebd59b3066fc0e1f5b14f9423`.
+## Recovery completed after the first prototype
 
-## What the web project implements
+The initial prototype used newly invented six-hero gameplay. It was not a faithful port. The expanded reconstruction replaces that foundation with recovered configuration and artwork.
 
-A standalone playable browser prototype with newly written combat rules, team selection, campaign progression and local browser saves. It uses selected supplied artwork for visual continuity. These mechanics, balance, characters and progression are design choices, not recovered original behavior. No account login, payment integration, multiplayer, original backend or original save compatibility is implemented. It makes no requests to original game services.
+- All40 encrypted `.jsc` files were decoded to JavaScript, including the8.3MB main bundle and217KB battle renderer. ARM64 loader instructions reference an embedded16-byte asset-decryption key at virtual address `0x9ca6c9`; XXTEA decoding and gzip decompression recover UTF-8 scripts. The key is not printed or stored in this project. `docs/script-recovery-receipt.json` preserves source member names and decoded SHA-256 digests. Optional reproducible extractor: `scripts/recover-cocos-scripts.py` (Python `pyelftools` and `xxtea` required; exact APK only).
+- Main bundle contains1,644 named SystemJS modules. Focused static REA analysis of `maincityview`, `mainlinectrl`, `configmgr`, `heroctrl` completed with Evidence ID `ev_8afad62f8a7ae034f5e5593e45cbd95e11678c6ffd4a0b00007fcc6dcf43680a`; full record `/workspace/game-analysis/rea-recovered-gameplay.json`. Analysis is limited to those four selected sources and does not prove execution or whole-game coverage.
+- All161 Thai binary configuration payloads are decoded using their header and alternating XOR bytes. Portable curated records are in `public/data/`. Original hero IDs, Thai names, base attributes, skill descriptions and portrait mappings replace guessed equivalents. Attribute2=HP,3=attack,4=physical defense,5=magic defense is corroborated by the recovered `HeroAttrT` enum.
+- Recovered configuration also includes4,795 item records,4,000 hero level-cost entries, star conditions, faction/synergy data and recruitment cost/pool metadata. Their presence does not establish server RNG probabilities.
+- Original portrait mapping follows hero skin record → icon ID → Cocos UUID → native image. Correctly mapped portraits are in `public/assets/original/heroes/`. This supersedes the first prototype's unverified six illustrative portraits.
+- Original city, login, battlefield and sliced UI atlas art is recovered to `public/assets/recovered/`; asset provenance records include logical Cocos names and source identities. Original maincity prefab node dimensions/positions are inspected as static layout evidence.
 
-This is a starting reconstruction, not a complete or behavior-equivalent port. Matching the original requires accessible gameplay scripts or deeper native/runtime analysis, reference playthroughs/screens, and documentation or an authorized replacement for any required backend. No source-equivalence or gameplay-parity validation has occurred.
+Recovered scripts remain in `/workspace/game-analysis/recovered-scripts` for local investigation. They are not copied wholesale to the public website: Android bindings and embedded platform/service configuration are not a runnable or appropriate browser bundle.
 
-## Reproduce artwork extraction (optional)
+## What is not yet a complete port
 
-The web game runs from the included PNG files and does not require these Python packages. To re-extract from your own copy of the same APK:
+The APK's bundled `cc.js` is a native JSB engine, not an HTML5 runtime. An official matching3.4.1 HTML5 engine was built from source commit `393bb3a3e70dc1cc9f81c791e4bdb24bd06bf9e6` under `/workspace/game-analysis/cocos-runtime`. A separate local harness at `/workspace/game-analysis/original-web` rendered the authentic original login screen with zero page errors. Narrow adaptations expose global engine exports, supply recovered custom AppMessage/Spine web behavior, materialize packaged config ZIPs, and select the original H5 adapter. This validates original frontend startup to login, not authenticated gameplay. Outbound original-service requests were blocked with CSP. See `docs/screenshots/authentic-cocos-login.png`. This experimental runtime and its full recovered scripts are not published as the playable web site.
 
-```sh
-python -m venv /tmp/samkok-art-env
-/tmp/samkok-art-env/bin/pip install Pillow texture2ddecoder==1.0.6
-/tmp/samkok-art-env/bin/python scripts/extract-assets.py /absolute/path/to/original.apk
-```
+Recovered `warctrl` receives network message30001, passes it to `recvWarData`, then `GWarMgr.startWar`. The shipped battle code plays server-provided data; that does not establish a recovered authoritative combat simulator. The offline website must distinguish recovered names/stats/descriptions/art from its local simulated effects and state.
 
-Extracted third-party artwork retains its original rights; it is not relicensed as project-authored code. Publication of artwork is separate from local analysis and has not been performed.
+No original server, official accounts, payment processing, multiplayer, official summon rates or authoritative server-side damage formulas are reconstructed merely by recovering the APK. No requests to original game services are made. Original account/save compatibility and gameplay/visual parity remain unverified without reference runtime captures and supported backend behavior.
+
+Original artwork retains its original rights; no third-party relicensing is implied.
+
+## Expanded website implementation and validation
+
+The shipped website is the data-driven offline adaptation, not the full original Cocos runtime. It uses74 source-mapped heroes, source item names/factions, source guard order/rewards, source career level-cost/attribute tables and star ceilings, original backgrounds/menu art/font, and original starter-character animations rasterized offline into PNG sheets. `characters.js` draws those sheets without publishing a skeletal-animation runtime. Attack/hit/skill/idle/death clips exist for the3starter characters. Other heroes currently use correctly mapped portraits.
+
+Starting purse, local enemy lineup/stat scaling, attack/energy/timing/target selection and deterministic recruitment outcomes remain local design choices. The first2guard reward IDs map to the original young GuanYu/ZhangFei heroes. Formation allows6standard slots, corroborated by recovered `dmblview`. No claim is made that1837battles were played or all original skill effects implemented.

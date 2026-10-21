@@ -36,10 +36,18 @@
     "Inspection derives bounded static hypotheses and next probes; it does not execute the artifact or claim format-specific semantics.",
     "ZIP inventory lists central-directory entries only. Non-entry bytes, including an APK Signing Block before the central directory or a ZIP comment after it, are not occurrences."
   ],
-  "reconstruction_scope": "Independent browser prototype using selected packaged artwork; no recovered original gameplay, account services, backend or balance.",
+  "reconstruction_scope": "Expanded offline browser adaptation using recovered original Thai config and mapped artwork; authoritative server combat and online systems remain unresolved.",
   "thai_config_archive": {
     "member": "assets/areaCfg/config_th.zip",
     "nested_members": 322,
     "status": "ZIP inventory inspected; binary configuration payloads not decoded"
-  }
+  },
+  "script_recovery": {
+    "decoded": 40,
+    "total": 40,
+    "receipt": "script-recovery-receipt.json",
+    "main_decoded_bytes": 8296318,
+    "named_modules": 1644
+  },
+  "recovered_gameplay_evidence": "ev_8afad62f8a7ae034f5e5593e45cbd95e11678c6ffd4a0b00007fcc6dcf43680a"
 }

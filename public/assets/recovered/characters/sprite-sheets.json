@@ -1,0 +1,134 @@
+{
+  "method": "Offline rasterization of recovered original Spine3.8.84 skeleton/atlas; browser uses PNG sprite sheets, no Spine runtime bundled.",
+  "characters": [
+    {
+      "id": "201010001",
+      "frame_width": 220,
+      "frame_height": 240,
+      "bounds": {
+        "x": -175.01887942307167,
+        "y": -13.000000431112099,
+        "w": 236.01887945072426,
+        "h": 198.67064794000993
+      },
+      "animations": {
+        "idle": {
+          "file": "public/assets/recovered/characters/201010001/idle.png",
+          "frames": 16,
+          "duration": 2,
+          "sha256": "52e21f5340e8e090719f1293b82293b6f3c75a41f5db7995b13b3a0ffd25a0d9"
+        },
+        "attack": {
+          "file": "public/assets/recovered/characters/201010001/attack.png",
+          "frames": 12,
+          "duration": 1.600000023841858,
+          "sha256": "eaca6e735b9a0321deb452ff30c360c245d085269784d3cf2a0a7e1be80f4db0"
+        },
+        "skill": {
+          "file": "public/assets/recovered/characters/201010001/skill.png",
+          "frames": 16,
+          "duration": 2.4000000953674316,
+          "sha256": "6c2f8a091731a7d5aba69e4a0938d30ab8f2aaa61dd2465753db4fffb970099c"
+        },
+        "hit": {
+          "file": "public/assets/recovered/characters/201010001/hit.png",
+          "frames": 6,
+          "duration": 0.5,
+          "sha256": "333303dc6d04b460b7fec2682302b83af26e376affef5ea394cbabd35f3727d1"
+        },
+        "die": {
+          "file": "public/assets/recovered/characters/201010001/die.png",
+          "frames": 12,
+          "duration": 0.3333333432674408,
+          "sha256": "3211ebe2c8fa93c0287dcad4fbe138d571bcaae01846d658b03a254dfb0e491e"
+        }
+      }
+    },
+    {
+      "id": "202020001",
+      "frame_width": 220,
+      "frame_height": 240,
+      "bounds": {
+        "x": -80.99765720380208,
+        "y": -12.999999999999995,
+        "w": 158.13625490984808,
+        "h": 268.3291603935385
+      },
+      "animations": {
+        "idle": {
+          "file": "public/assets/recovered/characters/202020001/idle.png",
+          "frames": 16,
+          "duration": 2,
+          "sha256": "87e9077538f6784737cab2752dec9dce4b33532b7a7db4a704e185e7f39a1f4f"
+        },
+        "attack": {
+          "file": "public/assets/recovered/characters/202020001/attack.png",
+          "frames": 12,
+          "duration": 1.8333333730697632,
+          "sha256": "2bd0e5576a1ab1b1fd1b1c4ee08b451063fc731ce8562349a4d3f98526a09099"
+        },
+        "skill": {
+          "file": "public/assets/recovered/characters/202020001/skill.png",
+          "frames": 16,
+          "duration": 2.366666555404663,
+          "sha256": "6e2eb0539eb7fb43322508c1e1c59d45c3ee52ac8d2ef2e652100a2d9e618463"
+        },
+        "hit": {
+          "file": "public/assets/recovered/characters/202020001/hit.png",
+          "frames": 6,
+          "duration": 0.5,
+          "sha256": "4b9fe9d2cef41b3ffe35489a49bafe42a86773454359fbe8e5d02eee21950656"
+        },
+        "die": {
+          "file": "public/assets/recovered/characters/202020001/die.png",
+          "frames": 12,
+          "duration": 0.3333333432674408,
+          "sha256": "3cdc5ac597e3277664aae6f25a38f0c6c841a7cdecff9572859e690985b70ba7"
+        }
+      }
+    },
+    {
+      "id": "202010001",
+      "frame_width": 220,
+      "frame_height": 240,
+      "bounds": {
+        "x": -61.00000060333269,
+        "y": -156.8483279412536,
+        "w": 183.21999778228172,
+        "h": 321.11760134207395
+      },
+      "animations": {
+        "idle": {
+          "file": "public/assets/recovered/characters/202010001/idle.png",
+          "frames": 16,
+          "duration": 2,
+          "sha256": "c6e630700fe065c57f886fc35c99fd4c0ba641655248e7a005f5ef8ca17cf5df"
+        },
+        "attack": {
+          "file": "public/assets/recovered/characters/202010001/attack.png",
+          "frames": 12,
+          "duration": 2.1666667461395264,
+          "sha256": "19908777a0a5ea8a5b3ddfa7f7618c832e76181435d7e079423560d503c0835d"
+        },
+        "skill": {
+          "file": "public/assets/recovered/characters/202010001/skill.png",
+          "frames": 16,
+          "duration": 2.5,
+          "sha256": "ef37ad2c2c7b7d61149cde3ca1b2741322db401b3fb1a875695cd43f55a26d9c"
+        },
+        "hit": {
+          "file": "public/assets/recovered/characters/202010001/hit.png",
+          "frames": 6,
+          "duration": 0.5,
+          "sha256": "1ab21f1dc78813bbe129dd4e0430b484540fc7ffc264820f1a95fff6d9ee22ef"
+        },
+        "die": {
+          "file": "public/assets/recovered/characters/202010001/die.png",
+          "frames": 12,
+          "duration": 0.3333333432674408,
+          "sha256": "f99edab343c07ee4d2e903ee0a9bee1fc2bb7484ff3ad66ee38e36eb819270f7"
+        }
+      }
+    }
+  ]
+}

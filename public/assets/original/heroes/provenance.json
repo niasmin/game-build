@@ -1,0 +1,520 @@
+[
+  {
+    "base_id": 105010,
+    "source": "assets/assets/exresdir/native/31/314c82b1-0822-43e7-bcf0-e2c6e0554fc6.astc",
+    "logical_path": "hricon/10501088",
+    "source_sha256": "1c96d0fd3f6e8e45fbe6ef0d06a9e139c8941dc50bd8f067a9821980ce0aae65",
+    "output_sha256": "3cb286b5ff5dac797d6e87f755acdc06ea1984d1fc542e9699b117768d2923cc"
+  },
+  {
+    "base_id": 105020,
+    "source": "assets/assets/exresdir/native/05/059682d1-a241-4217-bca7-676d7fafa317.astc",
+    "logical_path": "hricon/10502088",
+    "source_sha256": "03da0b3687f73133a12ec86d6915f4d6a40d9196c471b6e8da66c4ae43c86c99",
+    "output_sha256": "15ed264367ece35cf9c7d579e32acdde85b7160972cecfdccf26a45b890c0f48"
+  },
+  {
+    "base_id": 105030,
+    "source": "assets/assets/exresdir/native/fd/fd71edcd-a29a-4247-a7d4-eaaa76e6187d.astc",
+    "logical_path": "hricon/10503088",
+    "source_sha256": "bc90166a6e4abae817b8304d5c5c757f646fe060a5e953863e00a088ccd853ad",
+    "output_sha256": "b41b624539a8d90b67ee64133e3de43619e2e8c5e43eb3cf0f36edfa5f9c58e3"
+  },
+  {
+    "base_id": 104010,
+    "source": "assets/assets/exresdir/native/ec/ec4ac8ff-e93c-46cc-8def-8032080f5572.astc",
+    "logical_path": "hricon/10401088",
+    "source_sha256": "ee5f5713f16815442482b0862bc53e2c395a27cd1e034f23addd27f910aa6e7a",
+    "output_sha256": "b23f10500df5ce494cede7bed280f5119ad3a90c2f1923aa34d7e0f42bad02e4"
+  },
+  {
+    "base_id": 104020,
+    "source": "assets/assets/exresdir/native/0b/0bddadcc-dd5d-498c-87a9-73358b51b74e.astc",
+    "logical_path": "hricon/10402088",
+    "source_sha256": "24b1f9eaae860a0fc84cad6b77b984ea1130181fd1571bbd5bfa728e77bd6924",
+    "output_sha256": "297b65521c13bc63c52a79359da041e7700475def88f1916f2dc92e0743a3c75"
+  },
+  {
+    "base_id": 104030,
+    "source": "assets/assets/exresdir/native/80/8056828b-ca8f-4769-95d0-d49493543a37.astc",
+    "logical_path": "hricon/10403088",
+    "source_sha256": "19fcaee0f269dcc8fd9101ff186d5a90813e671add8132f354bd60904108986e",
+    "output_sha256": "d4d7ff9e3406c0f68d2aa3086c40f51f03e9936ae507624b978dd4e3b907fa2b"
+  },
+  {
+    "base_id": 104040,
+    "source": "assets/assets/exresdir/native/13/13ec2050-5111-4ccc-a50c-fa191e48d95d.astc",
+    "logical_path": "hricon/10404088",
+    "source_sha256": "f79b0fba4cdc22eb0f62bea0c9fce53a9c50d25fc642fbd80eeefb72d5243773",
+    "output_sha256": "ba620eab069dbf1a1adde59922944a68c10daf1da9494845c53f5a5312282c46"
+  },
+  {
+    "base_id": 104050,
+    "source": "assets/assets/exresdir/native/a9/a9aa444e-245a-4d25-9ab1-7b4cbd20b294.astc",
+    "logical_path": "hricon/10405088",
+    "source_sha256": "f32b3b022dbac8432bb8fbe00b51d2f10a0b0af16b2f759fb72c343e836d6852",
+    "output_sha256": "be7743308352189504e3b78cb2a1cd81310402d9f07401d878b1ed9f452869f6"
+  },
+  {
+    "base_id": 103010,
+    "source": "assets/assets/exresdir/native/2b/2b6bd038-7ed1-464c-839d-4819dddc30ec.astc",
+    "logical_path": "hricon/10301088",
+    "source_sha256": "91885b4418b2d5eba2d7ed0213d71bd7a1dde5995e23a0ecc27eccbf1d8d9805",
+    "output_sha256": "062963df33877f729114cafef8f95c55b099b0b5784d267a6fce0d98e5aaf367"
+  },
+  {
+    "base_id": 103020,
+    "source": "assets/assets/exresdir/native/bd/bd8af12f-b54a-4943-8368-382ab0fac4d4.astc",
+    "logical_path": "hricon/10302088",
+    "source_sha256": "0ac54d6d37c305d4b3787519c89a7d2217aecf56e0a5424addcd5a570fde0d53",
+    "output_sha256": "34e403611cdcbe16176c22765cc0c0d03e94aae8023ea9e8415a7574ae5bebba"
+  },
+  {
+    "base_id": 102010,
+    "source": "assets/assets/exresdir/native/a4/a4dbc0b6-c986-4043-a24e-540ddbf93196.astc",
+    "logical_path": "hricon/10201088",
+    "source_sha256": "bc2793f1e834203a4238da512a525ca620834fdab84af08ac6d986d3f232acc2",
+    "output_sha256": "b09849957c1d6c4c6b02ab535b0bd0fe489e9e595340844b14da9e5cd885dbec"
+  },
+  {
+    "base_id": 102020,
+    "source": "assets/assets/exresdir/native/f6/f63d60dc-2769-450e-9eda-ddbe4a9fa6ea.astc",
+    "logical_path": "hricon/10202088",
+    "source_sha256": "da61ba01cee403381a08da1b05684e87ddab5101fd6a0c394da352fc557b7f82",
+    "output_sha256": "254f00ab269010934eaa42e791855534240a5c61f5e87e5358dac384e8365f6a"
+  },
+  {
+    "base_id": 101010,
+    "source": "assets/assets/exresdir/native/e0/e0c6c6f7-f5fd-416d-a168-cc8be5799160.astc",
+    "logical_path": "hricon/10101088",
+    "source_sha256": "0a6d4e2d91dfe44fa1973b69953d376eda1021b1a5d21a5b2b9cf9bf97b41b53",
+    "output_sha256": "d76192659096a09dbf965ae806b066608bf8ee0be2cab1fe06cb74c97679321c"
+  },
+  {
+    "base_id": 205010,
+    "source": "assets/assets/exresdir/native/f1/f13f509c-180a-4ac5-a232-e25c926186d7.astc",
+    "logical_path": "hricon/20501088",
+    "source_sha256": "60b7fd2324064d831ad049043b679db384d2e0e3fd9964157eab2d5eb7a0d4ec",
+    "output_sha256": "a4fbfb0ef004366aabe9c621ba1831c76810384896c36a715b4d06e9befbcb59"
+  },
+  {
+    "base_id": 205020,
+    "source": "assets/assets/exresdir/native/20/203e7251-06d6-41ad-bd7c-3e12be6d2a73.astc",
+    "logical_path": "hricon/20502088",
+    "source_sha256": "34f9f6f67dfd1eba4ae6bd5c99c2e25e1ded4f06c6de4d39dd3a8f3babee5815",
+    "output_sha256": "ae502f7c9b5bcfe204246b18d3c277d04e889bb1be2278778606c1413bf17669"
+  },
+  {
+    "base_id": 205030,
+    "source": "assets/assets/exresdir/native/43/4340fc4e-a71b-49e6-b5a3-caa2b2c4cfcb.astc",
+    "logical_path": "hricon/20503088",
+    "source_sha256": "37684f02826fbfe96dbb69576b058ced481d833a04cb4d99d746fbe7a6cd0a82",
+    "output_sha256": "a66ed739f4842bd4747e86f1614fadd885e72a10f83ebacfafbc29dbcc0e50ba"
+  },
+  {
+    "base_id": 204010,
+    "source": "assets/assets/exresdir/native/26/26e5a322-4768-4de8-8aa8-7f38da904f0c.astc",
+    "logical_path": "hricon/20401088",
+    "source_sha256": "45d6a1d153e5f3769bb7aecf41dd1627a7da9dd7d93b4ff96df5e51538e2c6e6",
+    "output_sha256": "d9ff0c65d3ebf43549d64c6371b2410520addda5fae45907a2e2433605f2bfc7"
+  },
+  {
+    "base_id": 204020,
+    "source": "assets/assets/exresdir/native/43/43b7c61a-7d31-4e12-8803-80f7edf60305.astc",
+    "logical_path": "hricon/20402088",
+    "source_sha256": "d846a6ba84931bbd1d57a9d04e4823cca22bd7a5e3919e7512d7b3d2d1db138d",
+    "output_sha256": "440502a9c2e7b565622dd601553be6d81be18620804a6f661ce71e9749f64792"
+  },
+  {
+    "base_id": 204030,
+    "source": "assets/assets/exresdir/native/dc/dcba0de7-17c4-4204-8545-926f200d0e30.astc",
+    "logical_path": "hricon/20403088",
+    "source_sha256": "bd7f718fc3970a9b2185497f9199338fa3c91ccafd871c0258cd121312d09fee",
+    "output_sha256": "5e5eca58b2da4113d66e33cf870233c8a67c2bdb7ace3bdd0e9f45ae669ca384"
+  },
+  {
+    "base_id": 204040,
+    "source": "assets/assets/exresdir/native/41/41933f32-ed9d-4f44-bb33-6d063a612aad.astc",
+    "logical_path": "hricon/20404088",
+    "source_sha256": "01fb19209aecd116a25fc091611d6f508a83b65f327de91cc50ba13326beed2b",
+    "output_sha256": "9aa491e4da2e21e3850223af662498c9cac39ba7066bb6f7f5a55fc9b3e93c9a"
+  },
+  {
+    "base_id": 204050,
+    "source": "assets/assets/exresdir/native/5d/5db0a001-678b-4307-aeb7-b3d512205c08.astc",
+    "logical_path": "hricon/20405088",
+    "source_sha256": "50392d6f582f9914634f9f6c3a5bb4534d10e45437db160187808c81bf48a16c",
+    "output_sha256": "c22df138b15d3854998da0e0eed46972075386fbabd4358f0561d881fcfe6585"
+  },
+  {
+    "base_id": 203010,
+    "source": "assets/assets/exresdir/native/0d/0df025f7-71bc-47b4-b356-aaf04956c65b.astc",
+    "logical_path": "hricon/20301088",
+    "source_sha256": "e9049412cdcb62b4339a53306010bd5c1a12957dda34f8cc77d59a077edf1581",
+    "output_sha256": "5b11f9e4509d3b828ac385cbf3ce1ae9719c0beaf999c1b56fc234201e80d20e"
+  },
+  {
+    "base_id": 203020,
+    "source": "assets/assets/exresdir/native/e6/e6a64e1d-4899-48de-9eed-ca8910afc403.astc",
+    "logical_path": "hricon/20302088",
+    "source_sha256": "06eedecfd43f6ef672d231f52d1b9ff04668fecdd5c87930dcfe3c3093cf8625",
+    "output_sha256": "cbd6af7f0c6f1ca3c747e19662b22265fd5189a802a08ccbe410a3c4dc3873e2"
+  },
+  {
+    "base_id": 202010,
+    "source": "assets/assets/exresdir/native/a9/a9074826-08b4-4161-97d0-bd1fba9b9baa.astc",
+    "logical_path": "hricon/20201088",
+    "source_sha256": "8dbd5530f632ff33a0221656c891f2755422abaa7dbacff85c438af000a2781f",
+    "output_sha256": "c9c35c853f5c66209b5ae1a2c0335cf2d52b29ee459415ced0909866519c2017"
+  },
+  {
+    "base_id": 202020,
+    "source": "assets/assets/exresdir/native/28/28784ff7-ebf3-4866-bf52-9c02f0992e40.astc",
+    "logical_path": "hricon/20202088",
+    "source_sha256": "b2544541a1331c01d43c9baf061316384e41d3b95f045cbab9502a88047601fa",
+    "output_sha256": "8148dea502e2d0d15c0e4e901a407713ef120acb7b38d1a96600bc0df1be720e"
+  },
+  {
+    "base_id": 201010,
+    "source": "assets/assets/exresdir/native/46/4696fa43-d561-47c2-a5fc-fca0a8535d74.astc",
+    "logical_path": "hricon/20101088",
+    "source_sha256": "acb0c85f52eeb86a22c5df84e63018e168247e903dc06879ec37808563ee7e66",
+    "output_sha256": "0b5a677e4eb8b2e23a5ec2e681a4c15d83027370c678d198a144aede49e7ecc1"
+  },
+  {
+    "base_id": 305010,
+    "source": "assets/assets/exresdir/native/5b/5b7f378f-889d-444e-b9a1-d1e4aadb673f.astc",
+    "logical_path": "hricon/30501088",
+    "source_sha256": "9c5757b1ffe9682f632099abe901559b64823366811fc60ad7d406b22b489a31",
+    "output_sha256": "a3c0ad44200e704ff74f0bb66737f643968de853354777670bd06aba52fa0a09"
+  },
+  {
+    "base_id": 305020,
+    "source": "assets/assets/exresdir/native/2c/2c7081c5-120d-40c9-b12c-7f17e07de904.astc",
+    "logical_path": "hricon/30502088",
+    "source_sha256": "99c4fc222ca5a73a11ba93f8bc8f36807ab1f945bb63ef457b1f12fdb32f1582",
+    "output_sha256": "f63911c60eba2972f9bdf23aab880166f1f0e50ec3bb4fe254a4203b04f931d0"
+  },
+  {
+    "base_id": 305030,
+    "source": "assets/assets/exresdir/native/9c/9c83d772-181a-4d67-9a5b-c41bb3b827fc.astc",
+    "logical_path": "hricon/30503088",
+    "source_sha256": "e6373e42ee136b184de262566f19d8c57aa9a432ef3823e0cf2459249026f932",
+    "output_sha256": "ad54b601962302758e79c8562c676ad175e006b8ab1f8d9243c3149948a37855"
+  },
+  {
+    "base_id": 304010,
+    "source": "assets/assets/exresdir/native/ad/addce299-5f73-455c-a350-b92445436bb6.astc",
+    "logical_path": "hricon/30401088",
+    "source_sha256": "eb8e5f2fd2525ebc68690ae9c87274a577abebb2e95e908cc2dc8e4871b9921e",
+    "output_sha256": "613fc81adfeee63567efaab3aab620bd3b027a2f6f08937ed93fd7aa9e417477"
+  },
+  {
+    "base_id": 304020,
+    "source": "assets/assets/exresdir/native/95/95985627-58be-49e7-9f38-ba8a8ad62aa4.astc",
+    "logical_path": "hricon/30402088",
+    "source_sha256": "56e9ae474cf63fc569b4e0563656bedbf75ba45fa482ddd7521af98f99901d48",
+    "output_sha256": "32f44ed0c1b76f19cb89fea4d875ccbbd3f7a20877cdd050fcaba248d0656726"
+  },
+  {
+    "base_id": 304030,
+    "source": "assets/assets/exresdir/native/2b/2b224610-1c84-4b2c-8111-7e4371dd57cd.astc",
+    "logical_path": "hricon/30403088",
+    "source_sha256": "a1c4c831645c44eb6d0a75f05e3208e1fad6513ed5e132e82fe842f501e05904",
+    "output_sha256": "47827cacf27ef394d80c413292844a9362929d0e5a5cb8e7158ff90f22a3e8e6"
+  },
+  {
+    "base_id": 304040,
+    "source": "assets/assets/exresdir/native/a5/a54813ca-732b-4b28-b0c1-31143caefaa1.astc",
+    "logical_path": "hricon/30404088",
+    "source_sha256": "140ab4786b285b747487e099481c69656d1fc97f1c7dead37e8b63f8899c0fdd",
+    "output_sha256": "be3a1b54e00900336916c4c5e73fb74378594b351fd80ee4c0e5042b3a18df16"
+  },
+  {
+    "base_id": 304050,
+    "source": "assets/assets/exresdir/native/d6/d6d2ae6f-49e3-4769-ac73-c229f12e2089.astc",
+    "logical_path": "hricon/30405088",
+    "source_sha256": "84381a2b90d8ec0ced80d4ce5dffd7ecee2cc85f0670aa556a21ea3d20f0b9be",
+    "output_sha256": "5a84ccc15c2b9634e83722f32c18982297431c486646b799930580fceef842ec"
+  },
+  {
+    "base_id": 303010,
+    "source": "assets/assets/exresdir/native/ca/ca8abda9-c9f9-4514-b2ed-9bcb0118d403.astc",
+    "logical_path": "hricon/30301088",
+    "source_sha256": "bd25d768cd60d962ea35dabeb8bbdae4256bbde8436d70573844415feed18092",
+    "output_sha256": "5e8b62a15291a179a24d1dfba80d1a7dba8df6182c9a840a95a72188e4aaba13"
+  },
+  {
+    "base_id": 303020,
+    "source": "assets/assets/exresdir/native/f6/f6f9b76a-cfaf-4bc3-b6b0-ac2a8f965c18.astc",
+    "logical_path": "hricon/30302088",
+    "source_sha256": "7d8b228902df2f960f792d565333df348304dea40c6f501bf6dc327524c827d5",
+    "output_sha256": "c3837861d3943b5cd9ac1ede865d2c55d186719284a268fc37280e9d9e4a2ee2"
+  },
+  {
+    "base_id": 302010,
+    "source": "assets/assets/exresdir/native/c0/c018352b-75c0-44b4-9079-bcb9dfcd5358.astc",
+    "logical_path": "hricon/30201088",
+    "source_sha256": "afb1bfd0c8e572a09f0125ccecdbbbbfed0761a21bd4620d671e6048579bc033",
+    "output_sha256": "8225ad00402824785c5d2e1e2743d6c551a5bf177caaa7f9b306fb8c7dd6ff31"
+  },
+  {
+    "base_id": 302020,
+    "source": "assets/assets/exresdir/native/1e/1ef1a0ad-9419-49ec-a883-7da78ec2a055.astc",
+    "logical_path": "hricon/30202088",
+    "source_sha256": "baa4f9af0e18f998060136a2566476d61db33a3a5fded49b57b1da7c211cf94a",
+    "output_sha256": "a2244a0741b96a0f5d3ebddb7c6d42efd4383458616ac2df5d0b4f8f148943e7"
+  },
+  {
+    "base_id": 301010,
+    "source": "assets/assets/exresdir/native/d3/d3675366-87f7-46ac-ad95-283823c78aac.astc",
+    "logical_path": "hricon/30101088",
+    "source_sha256": "9d316947d398c9a3a6f50670278cfc9cc487680fd7e199c330e7ef7790487002",
+    "output_sha256": "1c6183673794b9a546d469df2d9468cd8acea28607accd2d34e1d1d6e604fce3"
+  },
+  {
+    "base_id": 405010,
+    "source": "assets/assets/exresdir/native/38/381c1c4e-b520-4008-abce-e0a210d56f29.astc",
+    "logical_path": "hricon/40501088",
+    "source_sha256": "df1ac5f698c51e89c7b0876cd70c50631f866b8918d02f0619b9411be7b7d9c8",
+    "output_sha256": "9d7d536ac2e6b2bd569ddfc60fdaf9daf5c2df731fbafdcad5a213a2dc6a5b2a"
+  },
+  {
+    "base_id": 405020,
+    "source": "assets/assets/exresdir/native/de/de1eb559-be66-4196-b60a-bab7a5275325.astc",
+    "logical_path": "hricon/40502088",
+    "source_sha256": "d4ae934fa3d1676260c73c14b3fc6b736794b96ffe9e2129e900279093ea6347",
+    "output_sha256": "c1367858a034a3237e18e067103c16d4d1d0da6860c841dbfc92b5bffc1399e1"
+  },
+  {
+    "base_id": 405030,
+    "source": "assets/assets/exresdir/native/b8/b8155c01-f3c9-4394-9cbf-9280598612c9.astc",
+    "logical_path": "hricon/40503088",
+    "source_sha256": "9bb97b4329a2d66df6ad30b7ac35e3599f22fc35f088cb3c6d93f67ac86335df",
+    "output_sha256": "e1c010d368a1cdf4f931944a4cb6008332cce8edee04dea5257a08097b5b812c"
+  },
+  {
+    "base_id": 404010,
+    "source": "assets/assets/exresdir/native/1a/1ab004cf-a503-4b72-a585-4ce88356879e.astc",
+    "logical_path": "hricon/40401088",
+    "source_sha256": "6a201981bcbceaf2cf7d59d3a1d05f309ae15423768806b118ec0bf6eebca657",
+    "output_sha256": "79d62cf0b050933f970221b50bdec5f0159799a3a5aeaad57081ad0662e6af13"
+  },
+  {
+    "base_id": 404020,
+    "source": "assets/assets/exresdir/native/65/65d5336b-abaf-4be6-b07c-50b17030bdf6.astc",
+    "logical_path": "hricon/40402088",
+    "source_sha256": "7498c50837defbb9786d5504662ee87d6e89af36aec542a4834bcae293f89e4b",
+    "output_sha256": "aaf6f3f7670747b820dbac70cdc614c4bdde5bd8c456113fd6cec2e701220ef4"
+  },
+  {
+    "base_id": 404030,
+    "source": "assets/assets/exresdir/native/9a/9a7976c5-a949-4a2c-a209-ff1cf33ec0a8.astc",
+    "logical_path": "hricon/40403088",
+    "source_sha256": "f7882e269effc8ba67acce0a813288c4845c678067078600e2673e1cf229ce20",
+    "output_sha256": "5df613e9a751a1e0cb57e77a558d2ad83d24765aa77d1317f563cb29bdfbb242"
+  },
+  {
+    "base_id": 404040,
+    "source": "assets/assets/exresdir/native/4e/4ebf9660-d5d8-4f64-a235-ed62fd94d854.astc",
+    "logical_path": "hricon/40404088",
+    "source_sha256": "d54ed9977b8eb560a7989b41b6b328b260465c84c5b87852fc351e5fade61255",
+    "output_sha256": "54bf70cfeee01ee2c1e49c5950c320270054fcdf26484bae064930fc552a33aa"
+  },
+  {
+    "base_id": 404050,
+    "source": "assets/assets/exresdir/native/9f/9f7ea7eb-4296-4d8a-8b60-b52086fe0bdb.astc",
+    "logical_path": "hricon/40405088",
+    "source_sha256": "975bd85dda8c7b0752e926afcd706d589e62d9f3f4f11840198a5360e99292f7",
+    "output_sha256": "98095d0371036c9b6cb1321b917ffe728b052b6a77bbc79ccb5b377a4105834f"
+  },
+  {
+    "base_id": 403010,
+    "source": "assets/assets/exresdir/native/ea/eaa83879-df5b-4363-bf26-5549611b5430.astc",
+    "logical_path": "hricon/40301088",
+    "source_sha256": "0f81ed63d2be767d1fa85a8b2d55ac3741abc278a7b461a9c0d3f0b8b2c81a9c",
+    "output_sha256": "c991d9707952403d76fb5e18ed1df0fc48f221ddc3e6fa0fa05229bf4ff3aa86"
+  },
+  {
+    "base_id": 403020,
+    "source": "assets/assets/exresdir/native/86/86fb0198-eceb-4210-8dbb-6350e3f1a830.astc",
+    "logical_path": "hricon/40302088",
+    "source_sha256": "609c94fa3c9b637bbc72ad8a0264a0d15af52f86e6dc62db32fcf4ac64e87de2",
+    "output_sha256": "5978f09d3b1140e11e5b94234bea2f40ac518e30693fec3e35bff7d44b91e2ed"
+  },
+  {
+    "base_id": 402010,
+    "source": "assets/assets/exresdir/native/54/54dbf182-167d-4be1-bec7-dde03c490cf2.astc",
+    "logical_path": "hricon/40201088",
+    "source_sha256": "9d3a1bba31bbf563b4f581d625a0da5cbac9cc6b3f20a163bd7e8fadcf34621d",
+    "output_sha256": "8ff2c2f7e3da8035fa8856b75129039ca668a2ef5829969f2ce97ae5bb1841c3"
+  },
+  {
+    "base_id": 402020,
+    "source": "assets/assets/exresdir/native/fa/fa805c95-e2f5-49b7-aa07-4a7130dbc683.astc",
+    "logical_path": "hricon/40202088",
+    "source_sha256": "5da8d32054ffa5fc0501c41f188e8859df05b0577339d0c37e60180c01a954a9",
+    "output_sha256": "53681b9b75c0cd9c269f2e8cdd0938ad94e18f46691e6b8937d3d697fe0d06f5"
+  },
+  {
+    "base_id": 401010,
+    "source": "assets/assets/exresdir/native/72/7223a2ef-2498-404f-a931-d3ce504ac25e.astc",
+    "logical_path": "hricon/40101088",
+    "source_sha256": "bec5825ab934b04240874a8f805eb3cfad191c491a41459760930528802c8a23",
+    "output_sha256": "686d84f27af632fc244c88b8d5b500d113834657203fc39b8c6e2f459a298e7d"
+  },
+  {
+    "base_id": 505010,
+    "source": "assets/assets/exresdir/native/d5/d5cea679-7b84-44d2-8d34-37521893bad7.astc",
+    "logical_path": "hricon/50501088",
+    "source_sha256": "8730587874bf5e5408d94c45a6a45f9c797d4e72bf7cd13bd0fa8b7f3dadef79",
+    "output_sha256": "c51886bd4399286553ff08cdc3de2ec5f15d1efc0fe833f72493dab0fbee5289"
+  },
+  {
+    "base_id": 505020,
+    "source": "assets/assets/exresdir/native/5a/5a80dd56-ced7-4571-bf28-bfcfe037a87a.astc",
+    "logical_path": "hricon/50502088",
+    "source_sha256": "2b758cee5b9f2d2a7f1c1bc4cb9b654bf51fa0d26214294cda4d2648461ad343",
+    "output_sha256": "8da5725a8fed93f5e91759eee8b2f22947fab564b8b60dfae99e00ba3b719468"
+  },
+  {
+    "base_id": 505050,
+    "source": "assets/assets/exresdir/native/27/2778f0e0-2c5f-47f0-9eb3-8163bd6a79a2.astc",
+    "logical_path": "hricon/50505088",
+    "source_sha256": "ed39099271ebd963c89ccf9883217942c5781dec12122239e019b8217f6b0855",
+    "output_sha256": "738721c82d9f98799f0856c397c6307e00fb6f3ddbcfceace2b2f05dc490b5c8"
+  },
+  {
+    "base_id": 505040,
+    "source": "assets/assets/exresdir/native/c9/c9861312-9b07-4d33-bcac-f8cf475aef32.astc",
+    "logical_path": "hricon/50504088",
+    "source_sha256": "ce2d66078493870bc486e278ab3e9d4b76854be8d577dbcf70fa8bde30e5b662",
+    "output_sha256": "b8f538ae1c44b38ee8d683ba177e45c6b6e7d4e6ada071462d06b185ed6912fa"
+  },
+  {
+    "base_id": 505060,
+    "source": "assets/assets/exresdir/native/b4/b4536f8b-899e-4434-bcf8-acdfcfb45f1f.astc",
+    "logical_path": "hricon/50506088",
+    "source_sha256": "ddef98cead68fc224c587f63999234e00c712c4bd124d7d1bcf4217000e69f1f",
+    "output_sha256": "f9b85174370ee96f2b084a0632bfcc96a1f4c14bc788528e19c66920333779bb"
+  },
+  {
+    "base_id": 505030,
+    "source": "assets/assets/exresdir/native/0f/0f7db44c-b253-4cfd-ba17-fda009bd2432.astc",
+    "logical_path": "hricon/50503088",
+    "source_sha256": "78834aa27fbaa45b5b1b542c13051eba9cc1cdf7f35d6aa56a8b44f53edda1ac",
+    "output_sha256": "bfd69b59ce0014594a7fc96dc6394293668581f26c6de644541fc146e7e40ebc"
+  },
+  {
+    "base_id": 505070,
+    "source": "assets/assets/exresdir/native/77/7793b62a-6ddc-4741-add0-c7eaeb0a9b26.astc",
+    "logical_path": "hricon/50507088",
+    "source_sha256": "cd9c3497a16bdff85d6ace80f83b89cabcd86afed9e29a975229db6cf2d3fe42",
+    "output_sha256": "6ab213c30716dc0371e6e6a9dc6d5dc77cc4dd486c53cabfd4905b9f326e1372"
+  },
+  {
+    "base_id": 505080,
+    "source": "assets/assets/exresdir/native/03/039acca9-e273-4f59-a087-be6d3af65e5c.astc",
+    "logical_path": "hricon/50508088",
+    "source_sha256": "ead739e41f5965062dc49edbc7158528ba159a04aebfceb2fd200f000d4b61a4",
+    "output_sha256": "0c6f99f81b1da2cebfd86d347bc2afa2743d585eb1952dbfe7fa94cc1849ef7e"
+  },
+  {
+    "base_id": 705010,
+    "source": "assets/assets/exresdir/native/58/5803814b-740a-4a26-bec1-91fe1f4c8721.astc",
+    "logical_path": "hricon/70501088",
+    "source_sha256": "accb3f38058b5faad4cb55d4990d68116e6050121faf015b84de57d90ef94c6d",
+    "output_sha256": "471147d850662d42ea0a890209dd0fe5cb5358f0b498090f5cdae19005f1afff"
+  },
+  {
+    "base_id": 705020,
+    "source": "assets/assets/exresdir/native/c0/c0db9086-c40c-4117-92b4-70cbecd2b0ab.astc",
+    "logical_path": "hricon/70502088",
+    "source_sha256": "7d3e98e28a351c7ebc59cd0512644b733f8313394af26f258696461a38021527",
+    "output_sha256": "8b62e7c7ea532fd14d800545a9406a3301a6e5e9e2455001a7d926013d4e2dcd"
+  },
+  {
+    "base_id": 705030,
+    "source": "assets/assets/exresdir/native/f2/f2279a35-1a30-4326-bf4d-77cf15a17f95.astc",
+    "logical_path": "hricon/70503088",
+    "source_sha256": "8be67ba58201558a6873cb4d76813a852114ee46df1d46bde333440c7e6930db",
+    "output_sha256": "ec3083dc0a82fb5b010a261adbec9f3e0678e5d5267ed5e51632d743c81e55b6"
+  },
+  {
+    "base_id": 705040,
+    "source": "assets/assets/exresdir/native/9b/9b6f5ba8-c4e2-4452-b94d-f6522f141520.astc",
+    "logical_path": "hricon/70504088",
+    "source_sha256": "e2025edc89908c95f7534037f0de7987dff5c25e7d1abfce6ec5787712068d3e",
+    "output_sha256": "ecf62d1f9861f831dae3bb0e22496751ccfc762e147f2a8c26f68568ac2d2e77"
+  },
+  {
+    "base_id": 705050,
+    "source": "assets/assets/exresdir/native/00/00dad5d4-cf8d-4ff3-b5b0-e81a98fa605c.astc",
+    "logical_path": "hricon/70505088",
+    "source_sha256": "c9d61c03220db834f0fde7df7d55b8e1b5744177df1842c5bc1c81c83b7f20f2",
+    "output_sha256": "9a29899c0c9160e384e1f90b4b3dc6e55ea2621467765970d57837be54fee0e6"
+  },
+  {
+    "base_id": 705060,
+    "source": "assets/assets/exresdir/native/bf/bf6604eb-70d8-4ffb-8bf5-05549b8f39ef.astc",
+    "logical_path": "hricon/70506088",
+    "source_sha256": "e11d10df67ce9611a78985d211c466651a621c2827eed03f7a2764bf305884ab",
+    "output_sha256": "7fb0ad51ecc3e6670d532d304d215e6448b938dc640e43fb96aaee141b2254bf"
+  },
+  {
+    "base_id": 705070,
+    "source": "assets/assets/exresdir/native/87/87548f74-44e9-44cf-9a4d-9b7d958a9184.astc",
+    "logical_path": "hricon/70507088",
+    "source_sha256": "f46f14871e9c6f0c00ba98d72db7dfc2d511f804656fa1f94b3e335ccf72590f",
+    "output_sha256": "2c0848481d0a0c8a456732f5043316c00067387a5909a7c912c51afba3e44379"
+  },
+  {
+    "base_id": 705080,
+    "source": "assets/assets/exresdir/native/3e/3e44d355-7ca0-46fd-9fb8-1ec39fbca1e0.astc",
+    "logical_path": "hricon/70508088",
+    "source_sha256": "6128856b88a24375c54ca94292c60c16720b14b077da690f11d48af612699fcc",
+    "output_sha256": "6132a7f88cda587bd9838856b3fa98358df47481ec635fe32a488a9e866bc0c8"
+  },
+  {
+    "base_id": 805010,
+    "source": "assets/assets/exresdir/native/e9/e9f9768c-2018-4051-a6a4-d60c2c19f55e.astc",
+    "logical_path": "hricon/80501088",
+    "source_sha256": "4c8928ec4cc7bab5f5b5108432f820f2167a4537189ff86a06f8346867ad17ed",
+    "output_sha256": "e67afa1d225ed5b89c68401a75486f3b8c786a69c382b1a5236bc9b9406e140e"
+  },
+  {
+    "base_id": 805020,
+    "source": "assets/assets/exresdir/native/5e/5e11033d-b8de-4488-83f4-d26e7717eef4.astc",
+    "logical_path": "hricon/80502088",
+    "source_sha256": "6fd22fc9de26dfd0f588c9d4407dc9e18e5b37ff5bd0fb25a0744472ca4c857e",
+    "output_sha256": "d4eab9cfdb137bde5564416a07fef2dab2898a8312b3436176da7995ea9518f5"
+  },
+  {
+    "base_id": 805030,
+    "source": "assets/assets/exresdir/native/5e/5e45b2f8-bcf7-4600-802e-c6e48b365c60.astc",
+    "logical_path": "hricon/80503088",
+    "source_sha256": "537dfacdbcd7787d2c7aaf0197ca881c7af66655ba09c5c75045812dba9021ab",
+    "output_sha256": "b66630c7a020629c2a1dd06c60a6a186b99cfd7789021cfbc5d459a312e14a08"
+  },
+  {
+    "base_id": 805040,
+    "source": "assets/assets/exresdir/native/12/12fa72fd-eaaa-431f-9143-60c079071e1b.astc",
+    "logical_path": "hricon/80504088",
+    "source_sha256": "88a814de71685997a8ac21b06d4068c7ffbdd2fa02826e8b0e681f61dd0387cb",
+    "output_sha256": "c0c5d9a5b8d202b949b6fb03badca77fadc226f1702bdccf48320cc73d98ec51"
+  },
+  {
+    "base_id": 805050,
+    "source": "assets/assets/exresdir/native/99/9975075a-56fd-4fb9-a4dd-e20a579c28d2.astc",
+    "logical_path": "hricon/80505088",
+    "source_sha256": "403d91ce6950336e3d32e80c9e125f8edb9e74d61252f5bd5e12bb6906b61e97",
+    "output_sha256": "7b9a11a476c382c4aaa4a46ed30355e8e0a348292b0c1a946179ed1fa4d671b6"
+  },
+  {
+    "base_id": 805060,
+    "source": "assets/assets/exresdir/native/00/008cb456-0692-4298-a99e-cc13480a6821.astc",
+    "logical_path": "hricon/80506088",
+    "source_sha256": "7c2946c123ff02638a619447d01f977bafd04f24215db60c9b3b3449c6f8018c",
+    "output_sha256": "4b1d7a51bb82d083e8c6f315c2cc6fbaf663d281d69126d5a58dbdd3ac6f5fbb"
+  }
+]

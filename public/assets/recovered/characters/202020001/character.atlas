@@ -1,0 +1,335 @@
+
+202020001.png
+size: 1008,602
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti/role_jiao_a_dasa
+  rotate: false
+  xy: 752, 48
+  size: 72, 60
+  orig: 72, 60
+  offset: 0, 0
+  index: -1
+shenti/role_jiao_c_dasa
+  rotate: false
+  xy: 472, 12
+  size: 86, 54
+  orig: 86, 54
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_bozigffsts
+  rotate: false
+  xy: 942, 252
+  size: 60, 72
+  orig: 60, 72
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_jiansgert
+  rotate: false
+  xy: 734, 348
+  size: 138, 84
+  orig: 138, 84
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_jiansghdj
+  rotate: false
+  xy: 354, 130
+  size: 126, 66
+  orig: 126, 66
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_piaobaidgy
+  rotate: false
+  xy: 2, 220
+  size: 270, 152
+  orig: 270, 152
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_piaobailvdt
+  rotate: false
+  xy: 588, 334
+  size: 144, 266
+  orig: 144, 266
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_piaobailvhk
+  rotate: false
+  xy: 274, 102
+  size: 78, 270
+  orig: 78, 270
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_piaobailvjde
+  rotate: false
+  xy: 2, 374
+  size: 386, 226
+  orig: 386, 226
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_tunfsts
+  rotate: false
+  xy: 172, 20
+  size: 98, 68
+  orig: 98, 68
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_xiongdfaer
+  rotate: false
+  xy: 588, 190
+  size: 134, 142
+  orig: 134, 142
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_yaodaifser
+  rotate: false
+  xy: 354, 84
+  size: 122, 44
+  orig: 122, 44
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_yaodaifssdhj
+  rotate: false
+  xy: 968, 332
+  size: 38, 108
+  orig: 38, 108
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_yaodaifssgjk
+  rotate: false
+  xy: 940, 442
+  size: 64, 158
+  orig: 64, 158
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_yaodaifsshj
+  rotate: false
+  xy: 946, 22
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_yaodaifssjdew
+  rotate: false
+  xy: 942, 212
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_yaodaifssjdjlt
+  rotate: false
+  xy: 874, 326
+  size: 92, 106
+  orig: 92, 106
+  offset: 0, 0
+  index: -1
+shenti/role_shou_a_fdhjae
+  rotate: false
+  xy: 646, 26
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+shenti/role_shou_a_fdssg
+  rotate: false
+  xy: 938, 154
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+shenti/role_shou_b_fddhj
+  rotate: false
+  xy: 926, 66
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+shenti/role_shou_b_fdhjae
+  rotate: false
+  xy: 686, 14
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+shenti/role_shoubi_l_fsrgwt
+  rotate: false
+  xy: 272, 18
+  size: 74, 82
+  orig: 74, 82
+  offset: 0, 0
+  index: -1
+shenti/role_shoubi_l_fssddr
+  rotate: false
+  xy: 776, 238
+  size: 82, 108
+  orig: 82, 108
+  offset: 0, 0
+  index: -1
+shenti/role_shoubi_r_fsrgwtu
+  rotate: false
+  xy: 860, 214
+  size: 80, 110
+  orig: 80, 110
+  offset: 0, 0
+  index: -1
+shenti/role_shoubi_r_fsshsjs
+  rotate: false
+  xy: 752, 110
+  size: 66, 84
+  orig: 66, 84
+  offset: 0, 0
+  index: -1
+shenti/role_touying
+  rotate: false
+  xy: 348, 56
+  size: 122, 26
+  orig: 122, 26
+  offset: 0, 0
+  index: -1
+shenti/role_tui_l_sghjrgdj
+  rotate: false
+  xy: 864, 140
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+shenti/role_tui_l_sghjrwr
+  rotate: false
+  xy: 668, 70
+  size: 82, 118
+  orig: 82, 118
+  offset: 0, 0
+  index: -1
+shenti/role_tui_l_sghshsd
+  rotate: false
+  xy: 172, 90
+  size: 98, 128
+  orig: 98, 128
+  offset: 0, 0
+  index: -1
+shenti/role_tui_r_sgdhjkk
+  rotate: false
+  xy: 894, 30
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+shenti/role_tui_r_sghgdf
+  rotate: false
+  xy: 732, 8
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+shenti/role_tui_r_sghgdst
+  rotate: false
+  xy: 782, 14
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+shenti/role_tui_r_sghjrwr
+  rotate: false
+  xy: 580, 66
+  size: 86, 122
+  orig: 86, 122
+  offset: 0, 0
+  index: -1
+shenti/role_tui_r_sghjsts
+  rotate: false
+  xy: 826, 48
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+shenti/role_tui_r_sghsghj
+  rotate: false
+  xy: 482, 68
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: -1
+tou/role_tou_a_faliuhaidhj
+  rotate: false
+  xy: 820, 118
+  size: 42, 76
+  orig: 42, 76
+  offset: 0, 0
+  index: -1
+tou/role_tou_a_faliuhaisr
+  rotate: false
+  xy: 894, 66
+  size: 30, 72
+  orig: 30, 72
+  offset: 0, 0
+  index: -1
+tou/role_tou_a_fhdhe
+  rotate: false
+  xy: 430, 6
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+tou/role_tou_a_fhsdd
+  rotate: false
+  xy: 2, 4
+  size: 168, 214
+  orig: 168, 214
+  offset: 0, 0
+  index: -1
+tou/role_tou_a_fhsddg
+  rotate: false
+  xy: 734, 434
+  size: 204, 166
+  orig: 204, 166
+  offset: 0, 0
+  index: -1
+tou/role_tou_a_meidgswh
+  rotate: false
+  xy: 560, 32
+  size: 84, 32
+  orig: 84, 32
+  offset: 0, 0
+  index: -1
+tou/role_tou_a_meidsgr
+  rotate: false
+  xy: 348, 2
+  size: 80, 52
+  orig: 80, 52
+  offset: 0, 0
+  index: -1
+tou/role_tou_a_yanshdj
+  rotate: false
+  xy: 938, 122
+  size: 64, 30
+  orig: 64, 30
+  offset: 0, 0
+  index: -1
+tou/role_tou_a_yansset
+  rotate: false
+  xy: 776, 196
+  size: 78, 40
+  orig: 78, 40
+  offset: 0, 0
+  index: -1
+wuqi/role_wuqi_a_fgaaetjjklg
+  rotate: false
+  xy: 724, 202
+  size: 50, 130
+  orig: 50, 130
+  offset: 0, 0
+  index: -1
+wuqi/role_wuqi_a_fghfdh
+  rotate: false
+  xy: 354, 236
+  size: 28, 136
+  orig: 28, 136
+  offset: 0, 0
+  index: -1
+wuqi/role_wuqi_a_fghio
+  rotate: false
+  xy: 390, 198
+  size: 196, 402
+  orig: 196, 402
+  offset: 0, 0
+  index: -1
