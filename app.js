@@ -1,5 +1,5 @@
-import {SAVE_KEY,configureRules,levelCosts,text,rewards,initialSave,parseSave,heroStats,upgrade,recruit,makeBattle,tickBattle,award} from './game.js?v=0.2.0';
-import {characterCanvas} from './characters.js?v=0.2.0';
+import {SAVE_KEY,configureRules,levelCosts,text,rewards,initialSave,parseSave,heroStats,upgrade,recruit,makeBattle,tickBattle,award} from './game.js?v=0.2.1';
+import {characterCanvas} from './characters.js?v=0.2.1';
 const root=document.querySelector('#game'),modal=document.querySelector('#modal');let data,campaign,items={},assets=[],save,view='login',filter='',query='',battle=null,lastEvents=[],timer=null,paused=false,speed=1,selected=null;const esc=s=>text(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));const num=n=>Number(n||0).toLocaleString('th-TH');const hero=id=>data.heroes.find(h=>h.base_id===+id);const img=h=>`<img src="${h.portrait}" alt="${esc(h.name)}" loading="lazy">`;const findArt=(logical,fallback='')=>assets.find(a=>a.logical===logical)?.url||fallback;const coinNames={1:'ตำลึง',2:'อีแปะ',3:'ยา EXP',4:'ประสบการณ์',6:'ญาณกล้าขุนพล',7:'แต้มมิตรภาพ',8:'ชื่อเสียงรับสมัคร'};
 function toast(s){const n=document.querySelector('#toast');n.textContent=s;n.classList.add('show');setTimeout(()=>n.classList.remove('show'),2400);}
 function persist(){try{localStorage.setItem(SAVE_KEY,JSON.stringify(save));}catch{toast('อุปกรณ์นี้ไม่อนุญาตบันทึกข้อมูล');}}

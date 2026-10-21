@@ -9,7 +9,7 @@ prepare();
 function draw(now){if(manifest&&!document.hidden){for(const canvas of document.querySelectorAll('canvas.original-character')){const id=Number(canvas.dataset.character),meta=manifest.characters.find(x=>Number(x.id)===id);if(!meta)continue;
  const key=canvas.dataset.identity,signature=canvas.dataset.pose+':'+canvas.dataset.turn;let clock=clocks.get(key);if(!clock||clock.signature!==signature){clock={signature,start:now};clocks.set(key,clock);}
  let pose=canvas.dataset.pose,anim=meta.animations[pose]||meta.animations.idle;let elapsed=(now-clock.start)/1000;
- if(pose!=='idle'&&pose!=='die'&&elapsed>anim.duration){pose='idle';anim=meta.animations.idle;elapsed-=anim.duration;}
+ if(pose!=='idle'&&pose!=='die'&&elapsed>anim.duration){const finishedDuration=anim.duration;pose='idle';anim=meta.animations.idle;elapsed-=finishedDuration;}
  const image=sheet('./'+anim.file);if(!image.complete||!image.naturalWidth)continue;
  let frame=Math.floor(elapsed/Math.max(.1,anim.duration)*anim.frames);frame=pose==='die'?Math.min(anim.frames-1,frame):frame%anim.frames;
  const ctx=canvas.getContext('2d');ctx.clearRect(0,0,canvas.width,canvas.height);ctx.save();if(canvas.dataset.side==='enemy'){ctx.translate(canvas.width,0);ctx.scale(-1,1);}
