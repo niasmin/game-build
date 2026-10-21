@@ -1,0 +1,26 @@
+{
+  "checks": [
+    "login daily task paid once",
+    "source shop purchase and daily limit",
+    "shop action tracks source task",
+    "equip replace return inventory",
+    "source star recipe consumes copies and replacement token",
+    "star progress persists after reload",
+    "four screens no horizontal overflow 360/390/720/1440",
+    "online system clearly reports unavailable service"
+  ],
+  "page_errors": [],
+  "failed_responses": [],
+  "model_tests": {
+    "passed": 21,
+    "failed": 0,
+    "skipped": 0
+  },
+  "production": {
+    "base_path": "/game-build/",
+    "device_scale_factor": 2,
+    "all13_original_characters_rendered": true,
+    "page_errors": [],
+    "failed_responses": []
+  }
+}
