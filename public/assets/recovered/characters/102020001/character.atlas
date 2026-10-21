@@ -1,0 +1,503 @@
+
+102020001.png
+size: 883,772
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti/role_jia_a_rjianjia
+  rotate: false
+  xy: 776, 198
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+shenti/role_jia_a_rjianjia1
+  rotate: false
+  xy: 470, 468
+  size: 87, 88
+  orig: 87, 88
+  offset: 0, 0
+  index: -1
+shenti/role_jia_a_rjianjia2
+  rotate: false
+  xy: 2, 7
+  size: 129, 56
+  orig: 129, 56
+  offset: 0, 0
+  index: -1
+shenti/role_jia_a_rjianjia3
+  rotate: false
+  xy: 834, 331
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+shenti/role_jia_a_rjianjia4
+  rotate: false
+  xy: 749, 94
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+shenti/role_jia_a_wjing1
+  rotate: false
+  xy: 562, 483
+  size: 87, 168
+  orig: 87, 168
+  offset: 0, 0
+  index: -1
+shenti/role_jia_a_wjing2
+  rotate: false
+  xy: 546, 327
+  size: 62, 139
+  orig: 62, 139
+  offset: 0, 0
+  index: -1
+shenti/role_jia_qun1
+  rotate: false
+  xy: 2, 131
+  size: 137, 193
+  orig: 137, 193
+  offset: 0, 0
+  index: -1
+shenti/role_jia_qun2
+  rotate: false
+  xy: 774, 474
+  size: 41, 158
+  orig: 41, 158
+  offset: 0, 0
+  index: -1
+shenti/role_jia_qunzlian
+  rotate: false
+  xy: 610, 344
+  size: 49, 137
+  orig: 49, 137
+  offset: 0, 0
+  index: -1
+shenti/role_jia_rcejia1
+  rotate: false
+  xy: 2, 65
+  size: 145, 64
+  orig: 145, 64
+  offset: 0, 0
+  index: -1
+shenti/role_jia_rcejia2
+  rotate: false
+  xy: 294, 474
+  size: 174, 82
+  orig: 174, 82
+  offset: 0, 0
+  index: -1
+shenti/role_jia_rcejia3
+  rotate: false
+  xy: 231, 150
+  size: 60, 174
+  orig: 60, 174
+  offset: 0, 0
+  index: -1
+shenti/role_jia_rcejia4
+  rotate: false
+  xy: 295, 73
+  size: 60, 125
+  orig: 60, 125
+  offset: 0, 0
+  index: -1
+shenti/role_jia_rcejia5
+  rotate: false
+  xy: 622, 248
+  size: 46, 94
+  orig: 46, 94
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_a_rdabi1
+  rotate: false
+  xy: 225, 38
+  size: 68, 110
+  orig: 68, 110
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_a_rsho
+  rotate: false
+  xy: 616, 193
+  size: 61, 53
+  orig: 61, 53
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_a_rsho1
+  rotate: false
+  xy: 217, 2
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_a_rsho2
+  rotate: false
+  xy: 749, 134
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_a_rxiaobi1
+  rotate: false
+  xy: 679, 193
+  size: 25, 75
+  orig: 25, 75
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_a_rxiaobi2
+  rotate: false
+  xy: 427, 89
+  size: 70, 90
+  orig: 70, 90
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_bozi
+  rotate: false
+  xy: 812, 277
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_kua1
+  rotate: false
+  xy: 510, 255
+  size: 110, 70
+  orig: 110, 70
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_kua2
+  rotate: false
+  xy: 759, 269
+  size: 51, 84
+  orig: 51, 84
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_kua3
+  rotate: false
+  xy: 357, 2
+  size: 75, 74
+  orig: 75, 74
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_ldabi
+  rotate: false
+  xy: 357, 78
+  size: 68, 110
+  orig: 68, 110
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_ldatui1
+  rotate: false
+  xy: 293, 200
+  size: 74, 134
+  orig: 74, 134
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_ljiao
+  rotate: false
+  xy: 706, 203
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_lsho1
+  rotate: false
+  xy: 242, 5
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_lsho2
+  rotate: false
+  xy: 697, 127
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_lsho3
+  rotate: false
+  xy: 295, 12
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_lxiaobi
+  rotate: false
+  xy: 499, 89
+  size: 62, 90
+  orig: 62, 90
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_lxiaotui1
+  rotate: false
+  xy: 149, 40
+  size: 74, 112
+  orig: 74, 112
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_pifengfdshg2
+  rotate: false
+  xy: 294, 653
+  size: 357, 117
+  orig: 357, 117
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_pifengfdshg3
+  rotate: false
+  xy: 817, 364
+  size: 64, 241
+  orig: 64, 241
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_pifengfdshg4
+  rotate: false
+  xy: 294, 558
+  size: 266, 93
+  orig: 266, 93
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_qunho
+  rotate: false
+  xy: 2, 326
+  size: 234, 170
+  orig: 234, 170
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_rdatui1
+  rotate: false
+  xy: 468, 334
+  size: 76, 132
+  orig: 76, 132
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_rjiao
+  rotate: false
+  xy: 510, 193
+  size: 104, 60
+  orig: 104, 60
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_rxiaotui1
+  rotate: false
+  xy: 369, 190
+  size: 78, 112
+  orig: 78, 112
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_sshenti
+  rotate: false
+  xy: 238, 336
+  size: 138, 136
+  orig: 138, 136
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_yaodai1
+  rotate: false
+  xy: 832, 221
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_yaodai2
+  rotate: false
+  xy: 619, 79
+  size: 123, 39
+  orig: 123, 39
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_yaodai3
+  rotate: false
+  xy: 434, 9
+  size: 114, 78
+  orig: 114, 78
+  offset: 0, 0
+  index: -1
+shenti/role_touying
+  rotate: false
+  xy: 585, 51
+  size: 122, 26
+  orig: 122, 26
+  offset: 0, 0
+  index: -1
+tou/role_tou_erduo
+  rotate: false
+  xy: 834, 177
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+tou/role_tou_fa1
+  rotate: false
+  xy: 141, 154
+  size: 88, 170
+  orig: 88, 170
+  offset: 0, 0
+  index: -1
+tou/role_tou_fa10
+  rotate: false
+  xy: 378, 304
+  size: 88, 168
+  orig: 88, 168
+  offset: 0, 0
+  index: -1
+tou/role_tou_fa11
+  rotate: false
+  xy: 661, 364
+  size: 66, 132
+  orig: 66, 132
+  offset: 0, 0
+  index: -1
+tou/role_tou_fa2
+  rotate: false
+  xy: 761, 355
+  size: 54, 117
+  orig: 54, 117
+  offset: 0, 0
+  index: -1
+tou/role_tou_fa3
+  rotate: false
+  xy: 670, 270
+  size: 45, 92
+  orig: 45, 92
+  offset: 0, 0
+  index: -1
+tou/role_tou_fa4
+  rotate: false
+  xy: 824, 607
+  size: 57, 163
+  orig: 57, 163
+  offset: 0, 0
+  index: -1
+tou/role_tou_fa5
+  rotate: false
+  xy: 170, 7
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+tou/role_tou_fa6
+  rotate: false
+  xy: 585, 6
+  size: 75, 43
+  orig: 75, 43
+  offset: 0, 0
+  index: -1
+tou/role_tou_fa7
+  rotate: false
+  xy: 662, 9
+  size: 72, 40
+  orig: 72, 40
+  offset: 0, 0
+  index: -1
+tou/role_tou_fa8
+  rotate: false
+  xy: 449, 181
+  size: 59, 121
+  orig: 59, 121
+  offset: 0, 0
+  index: -1
+tou/role_tou_mmao1
+  rotate: false
+  xy: 812, 141
+  size: 20, 55
+  orig: 20, 55
+  offset: 0, 0
+  index: -1
+tou/role_tou_mmao2
+  rotate: false
+  xy: 468, 318
+  size: 40, 14
+  orig: 40, 14
+  offset: 0, 0
+  index: -1
+tou/role_tou_tokui
+  rotate: false
+  xy: 653, 634
+  size: 169, 136
+  orig: 169, 136
+  offset: 0, 0
+  index: -1
+tou/role_tou_tokui1
+  rotate: false
+  xy: 550, 8
+  size: 33, 79
+  orig: 33, 79
+  offset: 0, 0
+  index: -1
+tou/role_tou_tokui2
+  rotate: false
+  xy: 717, 275
+  size: 40, 82
+  orig: 40, 82
+  offset: 0, 0
+  index: -1
+tou/role_tou_tou
+  rotate: false
+  xy: 651, 498
+  size: 121, 134
+  orig: 121, 134
+  offset: 0, 0
+  index: -1
+tou/role_tou_yanbai1
+  rotate: false
+  xy: 133, 2
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+tou/role_tou_yanbai2
+  rotate: false
+  xy: 834, 146
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+tou/role_tou_yanqiu1
+  rotate: false
+  xy: 709, 51
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+tou/role_tou_yanqiu2
+  rotate: false
+  xy: 585, 79
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+tou/role_tou_zui1
+  rotate: false
+  xy: 468, 304
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+wuqi/role_wuqi_wuqi1
+  rotate: false
+  xy: 2, 498
+  size: 290, 272
+  orig: 290, 272
+  offset: 0, 0
+  index: -1
+wuqi/role_wuqi_wuqi2
+  rotate: false
+  xy: 563, 101
+  size: 54, 90
+  orig: 54, 90
+  offset: 0, 0
+  index: -1
+wuqi/role_wuqi_wuqi3
+  rotate: false
+  xy: 619, 120
+  size: 76, 71
+  orig: 76, 71
+  offset: 0, 0
+  index: -1
+wuqi/role_wuqi_wuqi4
+  rotate: false
+  xy: 729, 359
+  size: 30, 137
+  orig: 30, 137
+  offset: 0, 0
+  index: -1

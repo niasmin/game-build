@@ -2,9 +2,254 @@
   "method": "Offline rasterization of recovered original Spine3.8.84 skeleton/atlas; browser uses PNG sprite sheets, no Spine runtime bundled.",
   "characters": [
     {
+      "id": "101010001",
+      "frame_width": 440,
+      "frame_height": 480,
+      "bounds": {
+        "x": -60.99999998973347,
+        "y": -14.710393099420855,
+        "w": 224.4623568149923,
+        "h": 182.79202886525178
+      },
+      "animations": {
+        "idle": {
+          "file": "public/assets/recovered/characters/101010001/idle.png",
+          "frames": 16,
+          "duration": 2,
+          "sha256": "f1a7c1f904d901b179b1991f5a67c4350f12cfd0489cb1d945c541e1b282cf7d"
+        },
+        "attack": {
+          "file": "public/assets/recovered/characters/101010001/attack.png",
+          "frames": 12,
+          "duration": 1.0333333015441895,
+          "sha256": "fb0a979c61494da3553d468782c3f76119367d86ab36b9898ac22a8ac018c31a"
+        },
+        "skill": {
+          "file": "public/assets/recovered/characters/101010001/skill.png",
+          "frames": 16,
+          "duration": 1.6333333253860474,
+          "sha256": "bfcce50645f524e72e65f66bc6486c6539fbde5218a0eb1e23ac853c0e7a13c6"
+        },
+        "hit": {
+          "file": "public/assets/recovered/characters/101010001/hit.png",
+          "frames": 6,
+          "duration": 0.5,
+          "sha256": "5d7cd3ad5f6d70658ade25866d1559168081de8bb27df30287176cbaeaa47a49"
+        },
+        "die": {
+          "file": "public/assets/recovered/characters/101010001/die.png",
+          "frames": 12,
+          "duration": 0.3333333432674408,
+          "sha256": "6702d9b680419f237680d640d4ecefc4e1fec84275d4ffaebf3157a8fa7fa74e"
+        }
+      },
+      "crop": {
+        "x": 40,
+        "y": 158,
+        "width": 352,
+        "height": 299
+      }
+    },
+    {
+      "id": "102010001",
+      "frame_width": 440,
+      "frame_height": 480,
+      "bounds": {
+        "x": -68.3547130476042,
+        "y": -13.366127002427604,
+        "w": 173.9148173535071,
+        "h": 187.62247558735766
+      },
+      "animations": {
+        "idle": {
+          "file": "public/assets/recovered/characters/102010001/idle.png",
+          "frames": 16,
+          "duration": 2,
+          "sha256": "d7f4bf8b3dc9fa595ca62e3c1bde783d83971f0b3d1bed5b030bf83a1af4541c"
+        },
+        "attack": {
+          "file": "public/assets/recovered/characters/102010001/attack.png",
+          "frames": 12,
+          "duration": 2,
+          "sha256": "d721e5403b0ddba4b3eb3dcbbbd9ed1350809958289a82e9b89e4ae82b6e4034"
+        },
+        "skill": {
+          "file": "public/assets/recovered/characters/102010001/skill.png",
+          "frames": 16,
+          "duration": 2,
+          "sha256": "c213e0e6a97e8950a6603edb7fb0c4e74d824fd47e1b99dd705a2e32e709a4ac"
+        },
+        "hit": {
+          "file": "public/assets/recovered/characters/102010001/hit.png",
+          "frames": 6,
+          "duration": 0.5,
+          "sha256": "ccc0295927e645c21d2174e3e3b5656f6e58197630263406d5cf564f08e6cc75"
+        },
+        "die": {
+          "file": "public/assets/recovered/characters/102010001/die.png",
+          "frames": 12,
+          "duration": 0.3333333432674408,
+          "sha256": "c5127095e88cf17e3930215b2d53b4e69ede6b02d42f5463a0e85f9e7c6782e4"
+        }
+      },
+      "crop": {
+        "x": 77,
+        "y": 102,
+        "width": 339,
+        "height": 354
+      }
+    },
+    {
+      "id": "102020001",
+      "frame_width": 440,
+      "frame_height": 480,
+      "bounds": {
+        "x": -76.24006750693725,
+        "y": -12.999999999999995,
+        "w": 299.9824106789886,
+        "h": 181.59030354397208
+      },
+      "animations": {
+        "idle": {
+          "file": "public/assets/recovered/characters/102020001/idle.png",
+          "frames": 16,
+          "duration": 2,
+          "sha256": "1916fdac14c6376eac13a5278bb5f2e12f35c7ff7ee4f594158c6f7650388ced"
+        },
+        "attack": {
+          "file": "public/assets/recovered/characters/102020001/attack.png",
+          "frames": 12,
+          "duration": 2,
+          "sha256": "a5a7c839bc87f5170fa125042fab4390d224e2e46cb4d3827ba6bf2a43480c65"
+        },
+        "skill": {
+          "file": "public/assets/recovered/characters/102020001/skill.png",
+          "frames": 16,
+          "duration": 2.5999999046325684,
+          "sha256": "f6bfb601d467a90f84093c20a7b28b32ac83928142cf5a94f19af130a6b54b73"
+        },
+        "hit": {
+          "file": "public/assets/recovered/characters/102020001/hit.png",
+          "frames": 6,
+          "duration": 0.5,
+          "sha256": "ff00a5bd05f4410f427d8d16a8d9c732a3c8901fb6761dc3557e43a01da05e99"
+        },
+        "die": {
+          "file": "public/assets/recovered/characters/102020001/die.png",
+          "frames": 12,
+          "duration": 0.4000000059604645,
+          "sha256": "67830bbff343ee389323ceabfe2afd837ec241d311a2f24f0e9feaeeada8224b"
+        }
+      },
+      "crop": {
+        "x": 36,
+        "y": 243,
+        "width": 237,
+        "height": 217
+      }
+    },
+    {
+      "id": "103010001",
+      "frame_width": 440,
+      "frame_height": 480,
+      "bounds": {
+        "x": -236.11944458969487,
+        "y": -26.65782984228658,
+        "w": 300.16827965643824,
+        "h": 234.15267292978515
+      },
+      "animations": {
+        "idle": {
+          "file": "public/assets/recovered/characters/103010001/idle.png",
+          "frames": 16,
+          "duration": 2,
+          "sha256": "3f88cefeac93510b11a7b0ef54b58a06f7ef9b6145c94f41b1aebf16f1817490"
+        },
+        "attack": {
+          "file": "public/assets/recovered/characters/103010001/attack.png",
+          "frames": 12,
+          "duration": 2.566666603088379,
+          "sha256": "92e81137e9ce7c34045bab3e58c0f8ab4072169de5c9ad8d778f5c126c1b1177"
+        },
+        "skill": {
+          "file": "public/assets/recovered/characters/103010001/skill.png",
+          "frames": 16,
+          "duration": 4.433333396911621,
+          "sha256": "c461a09116344bf6b143c492c4b099a096935feab38a42e057b240e7bfac891e"
+        },
+        "hit": {
+          "file": "public/assets/recovered/characters/103010001/hit.png",
+          "frames": 6,
+          "duration": 0.5,
+          "sha256": "f288337d4e76a67c690d6d313e4530d1eb3d1ce43fdebf4d3a8272273b3f4f70"
+        },
+        "die": {
+          "file": "public/assets/recovered/characters/103010001/die.png",
+          "frames": 12,
+          "duration": 0.4000000059604645,
+          "sha256": "b26b268df559b296105e95c9c6e088b67fb2b01654907a709d313e13f79cd97a"
+        }
+      },
+      "crop": {
+        "x": 168,
+        "y": 197,
+        "width": 272,
+        "height": 247
+      }
+    },
+    {
+      "id": "103020001",
+      "frame_width": 440,
+      "frame_height": 480,
+      "bounds": {
+        "x": -61.53926446719093,
+        "y": -13.000008583068839,
+        "w": 292.97367898123565,
+        "h": 169.78963310816494
+      },
+      "animations": {
+        "idle": {
+          "file": "public/assets/recovered/characters/103020001/idle.png",
+          "frames": 16,
+          "duration": 2,
+          "sha256": "874764f338354b3125b557d52e6f5dee1d63fbb1ced401a4724666528299d97a"
+        },
+        "attack": {
+          "file": "public/assets/recovered/characters/103020001/attack.png",
+          "frames": 12,
+          "duration": 1.7666666507720947,
+          "sha256": "4e3f1884b305a8e338b6a57e3068529630d9b1be02615c5b64f1fe6e5d38b4e6"
+        },
+        "skill": {
+          "file": "public/assets/recovered/characters/103020001/skill.png",
+          "frames": 16,
+          "duration": 4,
+          "sha256": "e91e73e172950238eea042c8e5051d95bb3bfba9d2f0f9a9d325a44c8f958d91"
+        },
+        "hit": {
+          "file": "public/assets/recovered/characters/103020001/hit.png",
+          "frames": 6,
+          "duration": 0.5,
+          "sha256": "65a614d9a89e5b548cbad932db727240ed2ee47c5ed4c9047380576a41759acf"
+        },
+        "die": {
+          "file": "public/assets/recovered/characters/103020001/die.png",
+          "frames": 12,
+          "duration": 0.4000000059604645,
+          "sha256": "541dd4328d52b139c9ec35a72881218eeb77724737256d29b8e2a7fae0556711"
+        }
+      },
+      "crop": {
+        "x": 25,
+        "y": 239,
+        "width": 219,
+        "height": 220
+      }
+    },
+    {
       "id": "201010001",
-      "frame_width": 220,
-      "frame_height": 240,
+      "frame_width": 440,
+      "frame_height": 480,
       "bounds": {
         "x": -175.01887942307167,
         "y": -13.000000431112099,
@@ -16,81 +261,44 @@
           "file": "public/assets/recovered/characters/201010001/idle.png",
           "frames": 16,
           "duration": 2,
-          "sha256": "52e21f5340e8e090719f1293b82293b6f3c75a41f5db7995b13b3a0ffd25a0d9"
+          "sha256": "0d22492a7712c7c67980c2cdbc46f2263046fbe823b33121ad3ccff8adaa419c"
         },
         "attack": {
           "file": "public/assets/recovered/characters/201010001/attack.png",
           "frames": 12,
           "duration": 1.600000023841858,
-          "sha256": "eaca6e735b9a0321deb452ff30c360c245d085269784d3cf2a0a7e1be80f4db0"
+          "sha256": "96e2c5c25418982f5cc61c841cb4217e6206afe513c5a175817cb7f47ed93088"
         },
         "skill": {
           "file": "public/assets/recovered/characters/201010001/skill.png",
           "frames": 16,
           "duration": 2.4000000953674316,
-          "sha256": "6c2f8a091731a7d5aba69e4a0938d30ab8f2aaa61dd2465753db4fffb970099c"
+          "sha256": "574480d487dbfc1600b1e8f2471490169931ffea64bd9ef3c61e0a4e0edb4f1a"
         },
         "hit": {
           "file": "public/assets/recovered/characters/201010001/hit.png",
           "frames": 6,
           "duration": 0.5,
-          "sha256": "333303dc6d04b460b7fec2682302b83af26e376affef5ea394cbabd35f3727d1"
+          "sha256": "719a7cc104dcd1dda2e6492dbd6551f71650f274d25f7c00138ff79c3b20bc41"
         },
         "die": {
           "file": "public/assets/recovered/characters/201010001/die.png",
           "frames": 12,
           "duration": 0.3333333432674408,
-          "sha256": "3211ebe2c8fa93c0287dcad4fbe138d571bcaae01846d658b03a254dfb0e491e"
+          "sha256": "448012e3bb3810ae43e2265e16b82e18bf427db9b72f4a2547ca21942f8e6bde"
         }
-      }
-    },
-    {
-      "id": "202020001",
-      "frame_width": 220,
-      "frame_height": 240,
-      "bounds": {
-        "x": -80.99765720380208,
-        "y": -12.999999999999995,
-        "w": 158.13625490984808,
-        "h": 268.3291603935385
       },
-      "animations": {
-        "idle": {
-          "file": "public/assets/recovered/characters/202020001/idle.png",
-          "frames": 16,
-          "duration": 2,
-          "sha256": "87e9077538f6784737cab2752dec9dce4b33532b7a7db4a704e185e7f39a1f4f"
-        },
-        "attack": {
-          "file": "public/assets/recovered/characters/202020001/attack.png",
-          "frames": 12,
-          "duration": 1.8333333730697632,
-          "sha256": "2bd0e5576a1ab1b1fd1b1c4ee08b451063fc731ce8562349a4d3f98526a09099"
-        },
-        "skill": {
-          "file": "public/assets/recovered/characters/202020001/skill.png",
-          "frames": 16,
-          "duration": 2.366666555404663,
-          "sha256": "6e2eb0539eb7fb43322508c1e1c59d45c3ee52ac8d2ef2e652100a2d9e618463"
-        },
-        "hit": {
-          "file": "public/assets/recovered/characters/202020001/hit.png",
-          "frames": 6,
-          "duration": 0.5,
-          "sha256": "4b9fe9d2cef41b3ffe35489a49bafe42a86773454359fbe8e5d02eee21950656"
-        },
-        "die": {
-          "file": "public/assets/recovered/characters/202020001/die.png",
-          "frames": 12,
-          "duration": 0.3333333432674408,
-          "sha256": "3cdc5ac597e3277664aae6f25a38f0c6c841a7cdecff9572859e690985b70ba7"
-        }
+      "crop": {
+        "x": 204,
+        "y": 190,
+        "width": 236,
+        "height": 269
       }
     },
     {
       "id": "202010001",
-      "frame_width": 220,
-      "frame_height": 240,
+      "frame_width": 440,
+      "frame_height": 480,
       "bounds": {
         "x": -61.00000060333269,
         "y": -156.8483279412536,
@@ -102,33 +310,334 @@
           "file": "public/assets/recovered/characters/202010001/idle.png",
           "frames": 16,
           "duration": 2,
-          "sha256": "c6e630700fe065c57f886fc35c99fd4c0ba641655248e7a005f5ef8ca17cf5df"
+          "sha256": "e54f8ea7fe75503aee2e92aaf038969ef5c242bd4ef5cb34ba8f37d298bedd89"
         },
         "attack": {
           "file": "public/assets/recovered/characters/202010001/attack.png",
           "frames": 12,
           "duration": 2.1666667461395264,
-          "sha256": "19908777a0a5ea8a5b3ddfa7f7618c832e76181435d7e079423560d503c0835d"
+          "sha256": "77f77036de28a6f2539a5cb1d05ea589e1a6e0893cd47ba750d5349f227a460e"
         },
         "skill": {
           "file": "public/assets/recovered/characters/202010001/skill.png",
           "frames": 16,
           "duration": 2.5,
-          "sha256": "ef37ad2c2c7b7d61149cde3ca1b2741322db401b3fb1a875695cd43f55a26d9c"
+          "sha256": "544004ec5a6e6d27a95c5d5e46987bfe7168d69b33fdb24841eb55cbd1fc636d"
         },
         "hit": {
           "file": "public/assets/recovered/characters/202010001/hit.png",
           "frames": 6,
           "duration": 0.5,
-          "sha256": "1ab21f1dc78813bbe129dd4e0430b484540fc7ffc264820f1a95fff6d9ee22ef"
+          "sha256": "1cd8fcd0f03bde7696d319618d67ed209b1c0aa63ac0f15cf0ffb596f03f27e3"
         },
         "die": {
           "file": "public/assets/recovered/characters/202010001/die.png",
           "frames": 12,
           "duration": 0.3333333432674408,
-          "sha256": "f99edab343c07ee4d2e903ee0a9bee1fc2bb7484ff3ad66ee38e36eb819270f7"
+          "sha256": "9c316bd9af667c012e2b7fc3765403d50f9008fdab4b1251a1c8f62efe73c564"
         }
+      },
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 369,
+        "height": 289
+      }
+    },
+    {
+      "id": "202020001",
+      "frame_width": 440,
+      "frame_height": 480,
+      "bounds": {
+        "x": -80.99765720380208,
+        "y": -12.999999999999995,
+        "w": 158.13625490984808,
+        "h": 268.3291603935385
+      },
+      "animations": {
+        "idle": {
+          "file": "public/assets/recovered/characters/202020001/idle.png",
+          "frames": 16,
+          "duration": 2,
+          "sha256": "5a6fe99cd3c258a739a0c4b9cc9b4254d77a6eed4f0f2dc60064fde2a4d2ccd1"
+        },
+        "attack": {
+          "file": "public/assets/recovered/characters/202020001/attack.png",
+          "frames": 12,
+          "duration": 1.8333333730697632,
+          "sha256": "ca2046b998e1180e5140c9e17fce9bf3939f3f33f1adb664756a7b305d7a01d9"
+        },
+        "skill": {
+          "file": "public/assets/recovered/characters/202020001/skill.png",
+          "frames": 16,
+          "duration": 2.366666555404663,
+          "sha256": "1287f39261f2466f02214670a02b3c899ea922ab8800da408fccb3e31446c9b9"
+        },
+        "hit": {
+          "file": "public/assets/recovered/characters/202020001/hit.png",
+          "frames": 6,
+          "duration": 0.5,
+          "sha256": "3aef1b905fec43e3bb0123490d5cecdf8a495730ddc225a7087e6d0284205809"
+        },
+        "die": {
+          "file": "public/assets/recovered/characters/202020001/die.png",
+          "frames": 12,
+          "duration": 0.3333333432674408,
+          "sha256": "97fe698ecdc5d039ff1fe3f205ed168ff0ace2430bf1d9e20784810acfe30f13"
+        }
+      },
+      "crop": {
+        "x": 90,
+        "y": 57,
+        "width": 281,
+        "height": 402
+      }
+    },
+    {
+      "id": "204020001",
+      "frame_width": 440,
+      "frame_height": 480,
+      "bounds": {
+        "x": -179.73589177811135,
+        "y": -13.004102245729838,
+        "w": 297.89840129354207,
+        "h": 190.5738970978688
+      },
+      "animations": {
+        "idle": {
+          "file": "public/assets/recovered/characters/204020001/idle.png",
+          "frames": 16,
+          "duration": 2,
+          "sha256": "afd0fdb71d4da88761f70cef3bbce8b56eaaf863c7d0fab79306c012695cb39a"
+        },
+        "attack": {
+          "file": "public/assets/recovered/characters/204020001/attack.png",
+          "frames": 12,
+          "duration": 1.2000000476837158,
+          "sha256": "a08f945d55d2a32ffe1710426c30a3906190d5fe64bfb786e221d59ad7b3f384"
+        },
+        "skill": {
+          "file": "public/assets/recovered/characters/204020001/skill.png",
+          "frames": 16,
+          "duration": 4,
+          "sha256": "e249e6075110bf9aec0d81c193ea70d1ae09514578473f3cec9ade2756388da4"
+        },
+        "hit": {
+          "file": "public/assets/recovered/characters/204020001/hit.png",
+          "frames": 6,
+          "duration": 0.5,
+          "sha256": "9756e18bac9c58abad9d2d1bd319d4c9f2b7f8e3b2991160db7a0f39a57cff12"
+        },
+        "die": {
+          "file": "public/assets/recovered/characters/204020001/die.png",
+          "frames": 12,
+          "duration": 0.3333333432674408,
+          "sha256": "93c437e109a5cc4ce29f088bcd910516bba444b0756590ab98e98f8a38342366"
+        }
+      },
+      "crop": {
+        "x": 69,
+        "y": 221,
+        "width": 327,
+        "height": 254
+      }
+    },
+    {
+      "id": "205030001",
+      "frame_width": 440,
+      "frame_height": 480,
+      "bounds": {
+        "x": -76.39757967160291,
+        "y": -55.027417095832746,
+        "w": 291.3843690779406,
+        "h": 295.94680677694714
+      },
+      "animations": {
+        "idle": {
+          "file": "public/assets/recovered/characters/205030001/idle.png",
+          "frames": 16,
+          "duration": 2,
+          "sha256": "2ffb73fc564356224ff8bc1c9b49c8072dc3850928771fd42c3b19bf7ddbb614"
+        },
+        "attack": {
+          "file": "public/assets/recovered/characters/205030001/attack.png",
+          "frames": 12,
+          "duration": 2,
+          "sha256": "7bbc2fc0a9fad84c5124474204e9b99439872c2c30cc569d8a9ff364402f6c10"
+        },
+        "skill": {
+          "file": "public/assets/recovered/characters/205030001/skill.png",
+          "frames": 16,
+          "duration": 2.6666667461395264,
+          "sha256": "e5c1b58c179281058ca39cbe87c7b1cd6321ed8d0de4eb96659d59430ca7e985"
+        },
+        "hit": {
+          "file": "public/assets/recovered/characters/205030001/hit.png",
+          "frames": 6,
+          "duration": 0.5,
+          "sha256": "9e16fe456b2a6e9006583b918dcb08cc99955be4e4aebf53bbb5bf8d6763b305"
+        },
+        "die": {
+          "file": "public/assets/recovered/characters/205030001/die.png",
+          "frames": 12,
+          "duration": 0.3333333432674408,
+          "sha256": "51dae4b6c9c2aeb9147767a3fd8728622f86a1a0e8d0b373470bb047e3fc2424"
+        }
+      },
+      "crop": {
+        "x": 0,
+        "y": 52,
+        "width": 250,
+        "height": 365
+      }
+    },
+    {
+      "id": "401010001",
+      "frame_width": 440,
+      "frame_height": 480,
+      "bounds": {
+        "x": -61.00000090499901,
+        "y": -50.97481935193647,
+        "w": 237.957363648471,
+        "h": 207.37978696013747
+      },
+      "animations": {
+        "idle": {
+          "file": "public/assets/recovered/characters/401010001/idle.png",
+          "frames": 16,
+          "duration": 2,
+          "sha256": "b38cf5d53097efe801ba7446e01c419b8b4dea615e0ae684b30e9bcf1129fd07"
+        },
+        "attack": {
+          "file": "public/assets/recovered/characters/401010001/attack.png",
+          "frames": 12,
+          "duration": 1.7333333492279053,
+          "sha256": "1e38a514d409f1f0be18c168b8c381ae36cef057712d59e69a24e432b4cceb4b"
+        },
+        "skill": {
+          "file": "public/assets/recovered/characters/401010001/skill.png",
+          "frames": 16,
+          "duration": 3.133333444595337,
+          "sha256": "0f058678fb06a27309893e39daab5e40c70d326fb5005808727ec6c2c33ad2a6"
+        },
+        "hit": {
+          "file": "public/assets/recovered/characters/401010001/hit.png",
+          "frames": 6,
+          "duration": 0.5,
+          "sha256": "383c8cf5845e275fd8b7e3a3461c069f039d0613245f1f813eb25ec1c2254ced"
+        },
+        "die": {
+          "file": "public/assets/recovered/characters/401010001/die.png",
+          "frames": 12,
+          "duration": 0.3333333432674408,
+          "sha256": "0b97d5f287e2980d96d9a52d34777e200cf29d3cbc3ae1cbd54f91dee14f472a"
+        }
+      },
+      "crop": {
+        "x": 23,
+        "y": 145,
+        "width": 211,
+        "height": 260
+      }
+    },
+    {
+      "id": "402010001",
+      "frame_width": 440,
+      "frame_height": 480,
+      "bounds": {
+        "x": -93.3404677619117,
+        "y": -13.05759978294372,
+        "w": 245.6588756799156,
+        "h": 185.56260622386492
+      },
+      "animations": {
+        "idle": {
+          "file": "public/assets/recovered/characters/402010001/idle.png",
+          "frames": 16,
+          "duration": 2,
+          "sha256": "28b6a5654b924864535b65c9ea59132d86bffbf80b9b9935a8e13175b15ab421"
+        },
+        "attack": {
+          "file": "public/assets/recovered/characters/402010001/attack.png",
+          "frames": 12,
+          "duration": 1.8333333730697632,
+          "sha256": "ecf02814f198deb1862df2560713869911c463b3de5faa5025b6e64c32cf5cb5"
+        },
+        "skill": {
+          "file": "public/assets/recovered/characters/402010001/skill.png",
+          "frames": 16,
+          "duration": 2.8333332538604736,
+          "sha256": "2c26842cd5481b8a9756cfc199373c2bf09ec011873f168695c441c0056fdd2d"
+        },
+        "hit": {
+          "file": "public/assets/recovered/characters/402010001/hit.png",
+          "frames": 6,
+          "duration": 0.5,
+          "sha256": "b4f86dd35f3e55963f48f3b4ed1c44d6f4352dd8e686c9ebd8828d1912cc52a5"
+        },
+        "die": {
+          "file": "public/assets/recovered/characters/402010001/die.png",
+          "frames": 12,
+          "duration": 0.3333333432674408,
+          "sha256": "fc1450d06a1edd660f5b213c72ff985abce85bf3c627c7b164b8ab22f3bdf845"
+        }
+      },
+      "crop": {
+        "x": 36,
+        "y": 182,
+        "width": 347,
+        "height": 277
+      }
+    },
+    {
+      "id": "402020001",
+      "frame_width": 440,
+      "frame_height": 480,
+      "bounds": {
+        "x": -63.9003535107964,
+        "y": -13.000008567204306,
+        "w": 269.73829894524187,
+        "h": 261.6565293873023
+      },
+      "animations": {
+        "idle": {
+          "file": "public/assets/recovered/characters/402020001/idle.png",
+          "frames": 16,
+          "duration": 2,
+          "sha256": "e1653fb04e7c9f60f0265a1e8436b213ec2ed5a91ed4e228681bdf2ac0ec0057"
+        },
+        "attack": {
+          "file": "public/assets/recovered/characters/402020001/attack.png",
+          "frames": 12,
+          "duration": 1.899999976158142,
+          "sha256": "04ea8d8aef1bedd1bf480064b70f9891411810cf7078be24988e076d6499ebcf"
+        },
+        "skill": {
+          "file": "public/assets/recovered/characters/402020001/skill.png",
+          "frames": 16,
+          "duration": 3,
+          "sha256": "90df9afb3ace230f04a2a1cbfbbf1a487d5226fd50000db881c4f7b701790077"
+        },
+        "hit": {
+          "file": "public/assets/recovered/characters/402020001/hit.png",
+          "frames": 6,
+          "duration": 0.5,
+          "sha256": "bc62614944713dfc070de8940e407808ec4ffdb90975ce228cb5411f65b2cbbd"
+        },
+        "die": {
+          "file": "public/assets/recovered/characters/402020001/die.png",
+          "frames": 12,
+          "duration": 0.3333333432674408,
+          "sha256": "95be26d0226fe22bd26d22b63f9ed6844637bf4fdbf0cf276241128a0f7696a7"
+        }
+      },
+      "crop": {
+        "x": 41,
+        "y": 104,
+        "width": 286,
+        "height": 355
       }
     }
-  ]
+  ],
+  "viewport_method": "Per-character viewport is the union of visible alpha bounds across the recovered idle animation, padded10pixels and anchored at the feet. Source sprite frames retain original animations."
 }

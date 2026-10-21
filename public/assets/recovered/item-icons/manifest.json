@@ -1,0 +1,4861 @@
+{
+  "source_apk_sha256": "084f08627db63bb34a8b17408c9784f0af4158dc524694091994281a95d75732",
+  "logical_bundle": "jsres",
+  "native_bundle": "jspre",
+  "method": "Matched original jsres itemicon_0 logical frame names to jspre native atlas PLIST and ASTC by shared original UUIDs. Crop and unrotate with original trim offset restored. Item identities mapped only by original item_cfg.icon numeric value.",
+  "source_atlas": "jspre/native/a5/a5fff8aa-7eef-48d6-af58-4a062c9fa97c.plist",
+  "source_atlas_sha256": "36e375c57d9fd7e1b236f805c0dc5ded33c5daf78401eabdf64b5bc5ad79862a",
+  "source_texture": "jspre/native/78/7843ccc5-2af8-4800-b660-eca54032c2af.astc",
+  "source_texture_sha256": "abc36fa63b910dd227033260ae656e0040f938d433af033c74880bd71ff5f179",
+  "icons": [
+    {
+      "icon_id": 1,
+      "file": "1.png",
+      "url": "./public/assets/recovered/item-icons/1.png",
+      "logical": "ui/icon/itemicon_0/1",
+      "source_frame": "1.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{-1,0}",
+        "spriteSize": "{44,34}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{133,359},{44,34}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "877e39394684dbcbd321d33a781f266f4cfd06a7b24e002eddf2b033ebd74009",
+      "items": [
+        {
+          "item_id": 1,
+          "name": "ตำลึง"
+        }
+      ]
+    },
+    {
+      "icon_id": 10,
+      "file": "10.png",
+      "url": "./public/assets/recovered/item-icons/10.png",
+      "logical": "ui/icon/itemicon_0/10",
+      "source_frame": "10.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{38,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{361,323},{38,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "983032961ebb2d5c0b9629f6465f08362b25f42952dc91f9b7ba54ee79118509",
+      "items": [
+        {
+          "item_id": 10,
+          "name": "ผลงานกิลด์"
+        }
+      ]
+    },
+    {
+      "icon_id": 11,
+      "file": "11.png",
+      "url": "./public/assets/recovered/item-icons/11.png",
+      "logical": "ui/icon/itemicon_0/11",
+      "source_frame": "11.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{1,1}",
+        "spriteSize": "{40,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{401,277},{40,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "377ca7dd8d11bbc6d9c692cbaf34efed802579a7adfaf4d70b7760d4af108f27",
+      "items": [
+        {
+          "item_id": 11,
+          "name": "หยกหัวใจขุนพล"
+        }
+      ]
+    },
+    {
+      "icon_id": 13,
+      "file": "13.png",
+      "url": "./public/assets/recovered/item-icons/13.png",
+      "logical": "ui/icon/itemicon_0/13",
+      "source_frame": "13.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{40,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{137,679},{40,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "9e6701763776a9fff9035d577b147fd805dbf65c06ddafe26da6ed8df4144682",
+      "items": [
+        {
+          "item_id": 13,
+          "name": "EXP ระดับขั้นกุนซือ"
+        }
+      ]
+    },
+    {
+      "icon_id": 14,
+      "file": "14.png",
+      "url": "./public/assets/recovered/item-icons/14.png",
+      "logical": "ui/icon/itemicon_0/14",
+      "source_frame": "14.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{1,709},{44,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "4c854687be7b7259d3fc2cfe663de029f364d9ed429dca1c02336596486f8ae8",
+      "items": [
+        {
+          "item_id": 14,
+          "name": "ค่าค่ายกล"
+        }
+      ]
+    },
+    {
+      "icon_id": 15,
+      "file": "15.png",
+      "url": "./public/assets/recovered/item-icons/15.png",
+      "logical": "ui/icon/itemicon_0/15",
+      "source_frame": "15.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,1}",
+        "spriteSize": "{38,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{435,585},{38,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "e6ed14aef4859b4b661eaf689e5c2867ed85c38fd4e9094447f3cf88ed693342",
+      "items": [
+        {
+          "item_id": 15,
+          "name": "ผลงานรบ"
+        }
+      ]
+    },
+    {
+      "icon_id": 16,
+      "file": "16.png",
+      "url": "./public/assets/recovered/item-icons/16.png",
+      "logical": "ui/icon/itemicon_0/16",
+      "source_frame": "16.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{42,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{269,541},{42,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "d9e3ecd7cc2e2a9e1c5a0c031192a52df869a6a95c512b24e272503a6925f1ff",
+      "items": [
+        {
+          "item_id": 16,
+          "name": "เหรียญตกปลา"
+        }
+      ]
+    },
+    {
+      "icon_id": 17,
+      "file": "17.png",
+      "url": "./public/assets/recovered/item-icons/17.png",
+      "logical": "ui/icon/itemicon_0/17",
+      "source_frame": "17.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{42,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{223,633},{42,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "032fbd7179a5076c225250eb6aff365e592bb3cad5afed3645fe92e27822256c",
+      "items": [
+        {
+          "item_id": 17,
+          "name": "แก่นมหาสมุทร"
+        }
+      ]
+    },
+    {
+      "icon_id": 18,
+      "file": "18.png",
+      "url": "./public/assets/recovered/item-icons/18.png",
+      "logical": "ui/icon/itemicon_0/18",
+      "source_frame": "18.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,1}",
+        "spriteSize": "{42,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{353,367},{42,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "f52e0c1d17e5049390455d41d7e0ba9ec4f1739b4fd94fcd01411d400c646c76",
+      "items": [
+        {
+          "item_id": 18,
+          "name": "เกียรติยศหน้าใหม่"
+        }
+      ]
+    },
+    {
+      "icon_id": 19,
+      "file": "19.png",
+      "url": "./public/assets/recovered/item-icons/19.png",
+      "logical": "ui/icon/itemicon_0/19",
+      "source_frame": "19.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{48,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{1,409},{48,42}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "e294da13455194687bd45617f1ac581886c3cac4c769f1542a56ab560da7e04d",
+      "items": [
+        {
+          "item_id": 19,
+          "name": "เกียรติยศองอาจ"
+        }
+      ]
+    },
+    {
+      "icon_id": 2,
+      "file": "2.png",
+      "url": "./public/assets/recovered/item-icons/2.png",
+      "logical": "ui/icon/itemicon_0/2",
+      "source_frame": "2.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,-1}",
+        "spriteSize": "{42,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{353,411},{42,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "0e2a48f301c9e1479733729f8b24fc95df20526845744bfc151ba7054a4e7347",
+      "items": [
+        {
+          "item_id": 2,
+          "name": "อีแปะ"
+        }
+      ]
+    },
+    {
+      "icon_id": 20,
+      "file": "20.png",
+      "url": "./public/assets/recovered/item-icons/20.png",
+      "logical": "ui/icon/itemicon_0/20",
+      "source_frame": "20.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,1}",
+        "spriteSize": "{48,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{247,49},{48,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "68047bd7c227783463c856a02f54afaf6716e1f473d0a84016d028b2e360c565",
+      "items": [
+        {
+          "item_id": 20,
+          "name": "เกียรติยศบุกตะลุย"
+        }
+      ]
+    },
+    {
+      "icon_id": 20110101,
+      "file": "20110101.png",
+      "url": "./public/assets/recovered/item-icons/20110101.png",
+      "logical": "ui/icon/itemicon_0/20110101",
+      "source_frame": "20110101.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{40,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{401,321},{40,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "be32575dfd4f4f05ad07449b24012760aa26d1c76a741f7815888b6706ad1167",
+      "items": [
+        {
+          "item_id": 20110101,
+          "name": "ยาอัปขั้น"
+        }
+      ]
+    },
+    {
+      "icon_id": 20110103,
+      "file": "20110103.png",
+      "url": "./public/assets/recovered/item-icons/20110103.png",
+      "logical": "ui/icon/itemicon_0/20110103",
+      "source_frame": "20110103.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{1,0}",
+        "spriteSize": "{42,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{405,83},{42,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "2fcc27a27eb6609a8f387d34e6e03c9cec3e581c475830a8ddf8ae05a99cc89e",
+      "items": [
+        {
+          "item_id": 20110103,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20110104,
+      "file": "20110104.png",
+      "url": "./public/assets/recovered/item-icons/20110104.png",
+      "logical": "ui/icon/itemicon_0/20110104",
+      "source_frame": "20110104.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{46,50}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{1,201},{46,50}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "2f1737900d99406258c6776fb051007c0bca197a119f879fd55bb2eed7ec7822",
+      "items": [
+        {
+          "item_id": 20110104,
+          "name": "หินเลื่อนขั้นทัพทหาร"
+        }
+      ]
+    },
+    {
+      "icon_id": 20110201,
+      "file": "20110201.png",
+      "url": "./public/assets/recovered/item-icons/20110201.png",
+      "logical": "ui/icon/itemicon_0/20110201",
+      "source_frame": "20110201.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,38}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{261,365},{44,38}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "5c2bd7133970b9ccdced5384cb48e86b9419e63e23ad954a686635ad6ac4e88c",
+      "items": [
+        {
+          "item_id": 20110201,
+          "name": "หินตีบวกอุปกรณ์"
+        }
+      ]
+    },
+    {
+      "icon_id": 20110202,
+      "file": "20110202.png",
+      "url": "./public/assets/recovered/item-icons/20110202.png",
+      "logical": "ui/icon/itemicon_0/20110202",
+      "source_frame": "20110202.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{38,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{435,629},{38,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "3a12b2c6d59556b5d555295a91eb1be5a54d6cc2f97f455569ffc9309e141975",
+      "items": [
+        {
+          "item_id": 20110202,
+          "name": "หินตีบวกพรชะตา"
+        }
+      ]
+    },
+    {
+      "icon_id": 20110203,
+      "file": "20110203.png",
+      "url": "./public/assets/recovered/item-icons/20110203.png",
+      "logical": "ui/icon/itemicon_0/20110203",
+      "source_frame": "20110203.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{38,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{361,277},{38,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "f61093cd04b1df34f0251fccb005512c477af48d37ba009e693f5a1427c7bf59",
+      "items": [
+        {
+          "item_id": 20110203,
+          "name": "หินหลอมโชคชะตา"
+        }
+      ]
+    },
+    {
+      "icon_id": 20110204,
+      "file": "20110204.png",
+      "url": "./public/assets/recovered/item-icons/20110204.png",
+      "logical": "ui/icon/itemicon_0/20110204",
+      "source_frame": "20110204.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{40,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{45,351},{40,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "49fc495a11e7f9407cf7dcdc33f0ef19f0e8f3a79c275b5eb0f8a2f7fac6eab4",
+      "items": [
+        {
+          "item_id": 20110204,
+          "name": "หินหลอมเทพพรชะตา"
+        }
+      ]
+    },
+    {
+      "icon_id": 20110301,
+      "file": "20110301.png",
+      "url": "./public/assets/recovered/item-icons/20110301.png",
+      "logical": "ui/icon/itemicon_0/20110301",
+      "source_frame": "20110301.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{-1,1}",
+        "spriteSize": "{36,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{105,97},{36,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "3be37eae3eabe176eb9944c5d764cb1f231d98d523048ac3840f72d5f5a541bf",
+      "items": [
+        {
+          "item_id": 20110301,
+          "name": "ยาสัตว์เทพทั่วไป"
+        }
+      ]
+    },
+    {
+      "icon_id": 20110302,
+      "file": "20110302.png",
+      "url": "./public/assets/recovered/item-icons/20110302.png",
+      "logical": "ui/icon/itemicon_0/20110302",
+      "source_frame": "20110302.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{-1,0}",
+        "spriteSize": "{38,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{391,671},{38,42}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "be55744bc8f03a810f141232a422c950d13569f5dab897c1c024ebc433ed69b2",
+      "items": [
+        {
+          "item_id": 20110302,
+          "name": "ยาสัตว์เทพล้ำค่า"
+        }
+      ]
+    },
+    {
+      "icon_id": 20110303,
+      "file": "20110303.png",
+      "url": "./public/assets/recovered/item-icons/20110303.png",
+      "logical": "ui/icon/itemicon_0/20110303",
+      "source_frame": "20110303.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,1}",
+        "spriteSize": "{42,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{263,405},{42,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "f33366ddb2ae42791d1ca3f76f462cec83dd27585a2a26d6276c096e03208281",
+      "items": [
+        {
+          "item_id": 20110303,
+          "name": "ยาสัตว์เทพชั้นยอด"
+        }
+      ]
+    },
+    {
+      "icon_id": 20110601,
+      "file": "20110601.png",
+      "url": "./public/assets/recovered/item-icons/20110601.png",
+      "logical": "ui/icon/itemicon_0/20110601",
+      "source_frame": "20110601.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{50,50}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{1,97},{50,50}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "ab1ad5799586ddeead6ecc232cb2aad21418576aa1ca055a74ee19b123d79943",
+      "items": [
+        {
+          "item_id": 20110601,
+          "name": "หินปลุกพลังปลา"
+        }
+      ]
+    },
+    {
+      "icon_id": 20111404,
+      "file": "20111404.png",
+      "url": "./public/assets/recovered/item-icons/20111404.png",
+      "logical": "ui/icon/itemicon_0/20111404",
+      "source_frame": "20111404.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{169,361},{44,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "50b42f9c0224c65473e991e560bc5e7a51207f3d1e684c91f6fa0c32f9dc9657",
+      "items": [
+        {
+          "item_id": 20111404,
+          "name": "ป้ายเสาะมายา"
+        }
+      ]
+    },
+    {
+      "icon_id": 20111405,
+      "file": "20111405.png",
+      "url": "./public/assets/recovered/item-icons/20111405.png",
+      "logical": "ui/icon/itemicon_0/20111405",
+      "source_frame": "20111405.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{42,50}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{1,305},{42,50}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "3555ae196815057084be9b06098740754ab3a32d7dee3e6cb9835e4679be578c",
+      "items": [
+        {
+          "item_id": 20111405,
+          "name": "ผลึกแปลงส้ม"
+        }
+      ]
+    },
+    {
+      "icon_id": 20111406,
+      "file": "20111406.png",
+      "url": "./public/assets/recovered/item-icons/20111406.png",
+      "logical": "ui/icon/itemicon_0/20111406",
+      "source_frame": "20111406.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{42,50}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{53,141},{42,50}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "e94d810781120b4a06ee25e508daf638bfdf3eba33c4baca775993964b549c6e",
+      "items": [
+        {
+          "item_id": 20111406,
+          "name": "ผลึกแปลงแดง"
+        }
+      ]
+    },
+    {
+      "icon_id": 20111407,
+      "file": "20111407.png",
+      "url": "./public/assets/recovered/item-icons/20111407.png",
+      "logical": "ui/icon/itemicon_0/20111407",
+      "source_frame": "20111407.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{42,50}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{1,357},{42,50}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "d9fda6671c5c1bc4b7544c20c36ec4d816c9fc93134e6f2a97d7603d3f380d20",
+      "items": [
+        {
+          "item_id": 20111407,
+          "name": "ผลึกแปลงรุ้ง"
+        }
+      ]
+    },
+    {
+      "icon_id": 20111408,
+      "file": "20111408.png",
+      "url": "./public/assets/recovered/item-icons/20111408.png",
+      "logical": "ui/icon/itemicon_0/20111408",
+      "source_frame": "20111408.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{42,50}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{195,49},{42,50}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "21240c4bf44b8768056ffab53c24389d0270fed8d783a65968a4cacf0435235d",
+      "items": [
+        {
+          "item_id": 20111408,
+          "name": "ผลึกแปลงไร้เทียมทาน"
+        }
+      ]
+    },
+    {
+      "icon_id": 20111409,
+      "file": "20111409.png",
+      "url": "./public/assets/recovered/item-icons/20111409.png",
+      "logical": "ui/icon/itemicon_0/20111409",
+      "source_frame": "20111409.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{38,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{355,497},{38,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "ae0a199b0912ebe175b47f9bb6d271500df3471ac1a5ec26445a241546c19b42",
+      "items": [
+        {
+          "item_id": 20111409,
+          "name": "ธุลีแปลง"
+        }
+      ]
+    },
+    {
+      "icon_id": 20120102,
+      "file": "20120102.png",
+      "url": "./public/assets/recovered/item-icons/20120102.png",
+      "logical": "ui/icon/itemicon_0/20120102",
+      "source_frame": "20120102.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{36,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{83,243},{36,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "722e663ad155b700c4f14893a94469b52abd52f9ba7a30a5501be6b06ebbe9b2",
+      "items": [
+        {
+          "item_id": 20120102,
+          "name": "ป้ายภูผาวารี"
+        }
+      ]
+    },
+    {
+      "icon_id": 20120103,
+      "file": "20120103.png",
+      "url": "./public/assets/recovered/item-icons/20120103.png",
+      "logical": "ui/icon/itemicon_0/20120103",
+      "source_frame": "20120103.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{1,1}",
+        "spriteSize": "{38,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{271,237},{38,46}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "e9afff9159f457a9f7278e9d7491b6016a61a80bed95a360c95f9cb8001f0277",
+      "items": [
+        {
+          "item_id": 20120103,
+          "name": "ป้ายไต่ฟ้า"
+        }
+      ]
+    },
+    {
+      "icon_id": 20120104,
+      "file": "20120104.png",
+      "url": "./public/assets/recovered/item-icons/20120104.png",
+      "logical": "ui/icon/itemicon_0/20120104",
+      "source_frame": "20120104.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{42,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{263,451},{42,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "3417fa3410f21642d08edd1be16b19d79045f3074c58771669c8965d08b0b3eb",
+      "items": [
+        {
+          "item_id": 20120104,
+          "name": "ป้ายท้องนภา"
+        }
+      ]
+    },
+    {
+      "icon_id": 20130100,
+      "file": "20130100.png",
+      "url": "./public/assets/recovered/item-icons/20130100.png",
+      "logical": "ui/icon/itemicon_0/20130100",
+      "source_frame": "20130100.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{-1,0}",
+        "spriteSize": "{48,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{247,1},{48,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "a6d5196c11b61ada8e12705c3d59778329921127f01eaab657ce457b2819de74",
+      "items": [
+        {
+          "item_id": 20130100,
+          "name": "ตั๋วรีเฟรชท่องยุทธจักร"
+        }
+      ]
+    },
+    {
+      "icon_id": 20140101,
+      "file": "20140101.png",
+      "url": "./public/assets/recovered/item-icons/20140101.png",
+      "logical": "ui/icon/itemicon_0/20140101",
+      "source_frame": "20140101.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{38,40}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{385,197},{38,40}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "1bec8dfae93f970b2d810d5adcd5a4de829c34363a267e0c1a1e627a23a12d8a",
+      "items": [
+        {
+          "item_id": 20140101,
+          "name": "อำนาจกิลด์"
+        }
+      ]
+    },
+    {
+      "icon_id": 20140102,
+      "file": "20140102.png",
+      "url": "./public/assets/recovered/item-icons/20140102.png",
+      "logical": "ui/icon/itemicon_0/20140102",
+      "source_frame": "20140102.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{91,671},{44,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "ba806b4a6e699f07ff57031d5d7878c2c8c5a64a79df54dfb2f0166b2338c73c",
+      "items": [
+        {
+          "item_id": 20140102,
+          "name": "หยกมณีกิลด์"
+        }
+      ]
+    },
+    {
+      "icon_id": 20160102,
+      "file": "20160102.png",
+      "url": "./public/assets/recovered/item-icons/20160102.png",
+      "logical": "ui/icon/itemicon_0/20160102",
+      "source_frame": "20160102.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{-1,2}",
+        "spriteSize": "{48,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{297,1},{48,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "46e6535355c06c9e24da717b204f1f26c1ca0d92430b3c30f95da9debec8c7ca",
+      "items": []
+    },
+    {
+      "icon_id": 20210100,
+      "file": "20210100.png",
+      "url": "./public/assets/recovered/item-icons/20210100.png",
+      "logical": "ui/icon/itemicon_0/20210100",
+      "source_frame": "20210100.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{36,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{83,291},{36,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "5a597d8f91af3472dbecb18c8d8b74ce91fc132521ba305056be9b82de0467ba",
+      "items": [
+        {
+          "item_id": 20210100,
+          "name": "ป้ายคัดขุนพล"
+        }
+      ]
+    },
+    {
+      "icon_id": 20210200,
+      "file": "20210200.png",
+      "url": "./public/assets/recovered/item-icons/20210200.png",
+      "logical": "ui/icon/itemicon_0/20210200",
+      "source_frame": "20210200.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{36,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{121,277},{36,46}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "9023841f9f7f2a74362493e62f61a8c80a0e15049ca2d96ca458e57439c6ca66",
+      "items": [
+        {
+          "item_id": 20210200,
+          "name": "ป้ายจอมทัพ"
+        }
+      ]
+    },
+    {
+      "icon_id": 20210300,
+      "file": "20210300.png",
+      "url": "./public/assets/recovered/item-icons/20210300.png",
+      "logical": "ui/icon/itemicon_0/20210300",
+      "source_frame": "20210300.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{42,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{137,541},{42,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "7e5efe0877aab844771ce478ca5bb43bed633b39c6a1b5978e86ee3bff90862e",
+      "items": [
+        {
+          "item_id": 20210300,
+          "name": "เหยื่อปลาหอม"
+        }
+      ]
+    },
+    {
+      "icon_id": 20210500,
+      "file": "20210500.png",
+      "url": "./public/assets/recovered/item-icons/20210500.png",
+      "logical": "ui/icon/itemicon_0/20210500",
+      "source_frame": "20210500.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{36,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{45,305},{36,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "ece027017973561e0a53888badbbc7d6ef01ee6090cdd10a36299b812ef0841c",
+      "items": [
+        {
+          "item_id": 20210500,
+          "name": "หยกมณีเรียกจิต"
+        }
+      ]
+    },
+    {
+      "icon_id": 20210501,
+      "file": "20210501.png",
+      "url": "./public/assets/recovered/item-icons/20210501.png",
+      "logical": "ui/icon/itemicon_0/20210501",
+      "source_frame": "20210501.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{42,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{395,497},{42,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "0683b4524fe6fcdf77438b82651b68f38805f6299ae5c73c36238d9128a14da4",
+      "items": [
+        {
+          "item_id": 20210501,
+          "name": "หยกมณีเรียกศักดิ์สิทธิ์"
+        }
+      ]
+    },
+    {
+      "icon_id": 20210600,
+      "file": "20210600.png",
+      "url": "./public/assets/recovered/item-icons/20210600.png",
+      "logical": "ui/icon/itemicon_0/20210600",
+      "source_frame": "20210600.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{191,93},{44,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "21e45950bd7734c4af67b57495897e9d446413d22f576dee4b33dab97b59237c",
+      "items": [
+        {
+          "item_id": 20210600,
+          "name": "ป้ายรับสมัครรับแสง"
+        }
+      ]
+    },
+    {
+      "icon_id": 20210700,
+      "file": "20210700.png",
+      "url": "./public/assets/recovered/item-icons/20210700.png",
+      "logical": "ui/icon/itemicon_0/20210700",
+      "source_frame": "20210700.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{38,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{303,673},{38,42}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "44662ce7d95417361a64aeec1bc4caf71883bd8fd4405f8c4717b51305d7e70d",
+      "items": [
+        {
+          "item_id": 20210700,
+          "name": "หินสวรรค์สร้าง"
+        }
+      ]
+    },
+    {
+      "icon_id": 20210800,
+      "file": "20210800.png",
+      "url": "./public/assets/recovered/item-icons/20210800.png",
+      "logical": "ui/icon/itemicon_0/20210800",
+      "source_frame": "20210800.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{145,141},{44,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "3141f2be385d2817d037113ad5c013f90562c1d173bc2801b9721b481829c05c",
+      "items": [
+        {
+          "item_id": 20210800,
+          "name": "ป้ายรับสมัครหลับไหล"
+        }
+      ]
+    },
+    {
+      "icon_id": 20211000,
+      "file": "20211000.png",
+      "url": "./public/assets/recovered/item-icons/20211000.png",
+      "logical": "ui/icon/itemicon_0/20211000",
+      "source_frame": "20211000.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{-1,0}",
+        "spriteSize": "{46,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{143,93},{46,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "4e5416e1dc214d215c2a266561ebc6a244e156b414b8320072ccb32acc02582e",
+      "items": [
+        {
+          "item_id": 20211000,
+          "name": "แกนกลางเหล็กกล้า"
+        }
+      ]
+    },
+    {
+      "icon_id": 20211100,
+      "file": "20211100.png",
+      "url": "./public/assets/recovered/item-icons/20211100.png",
+      "logical": "ui/icon/itemicon_0/20211100",
+      "source_frame": "20211100.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{237,93},{44,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "ade7e5912af37981c9618bd8f71e078f711accf03f961b126d1a9b84c2b89377",
+      "items": [
+        {
+          "item_id": 20211100,
+          "name": "ป้ายรับสมัครธรรมชาติ"
+        }
+      ]
+    },
+    {
+      "icon_id": 20211200,
+      "file": "20211200.png",
+      "url": "./public/assets/recovered/item-icons/20211200.png",
+      "logical": "ui/icon/itemicon_0/20211200",
+      "source_frame": "20211200.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{137,497},{44,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "444a87e356daa538ef1d7e2f27ff342a1b3c4dc4dd2b3572d1d8e7e367ad206d",
+      "items": [
+        {
+          "item_id": 20211200,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20211201,
+      "file": "20211201.png",
+      "url": "./public/assets/recovered/item-icons/20211201.png",
+      "logical": "ui/icon/itemicon_0/20211201",
+      "source_frame": "20211201.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{50,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{1,253},{50,44}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "784984ef406ac4c6856cb191df7b14bc6c5a290ce77d7a29f89d1540ed8558e9",
+      "items": [
+        {
+          "item_id": 20211201,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20211202,
+      "file": "20211202.png",
+      "url": "./public/assets/recovered/item-icons/20211202.png",
+      "logical": "ui/icon/itemicon_0/20211202",
+      "source_frame": "20211202.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{183,497},{44,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "d38fd926b4195eda4b7e06ea2864f69b9f43873db3a441ee02c52b2e245ab201",
+      "items": [
+        {
+          "item_id": 20211202,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20211203,
+      "file": "20211203.png",
+      "url": "./public/assets/recovered/item-icons/20211203.png",
+      "logical": "ui/icon/itemicon_0/20211203",
+      "source_frame": "20211203.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{48,38}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{121,237},{48,38}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "c2b947f519547d39ba6a5e4d5734ecc373d1fa682bc92392bd339f08749c64d9",
+      "items": [
+        {
+          "item_id": 20211203,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20211204,
+      "file": "20211204.png",
+      "url": "./public/assets/recovered/item-icons/20211204.png",
+      "logical": "ui/icon/itemicon_0/20211204",
+      "source_frame": "20211204.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{-1,2}",
+        "spriteSize": "{46,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{169,315},{46,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "b19798caaf3a1c1c0e899229241c139e872d498da6a3b2c160bdff77904fde8d",
+      "items": []
+    },
+    {
+      "icon_id": 20211301,
+      "file": "20211301.png",
+      "url": "./public/assets/recovered/item-icons/20211301.png",
+      "logical": "ui/icon/itemicon_0/20211301",
+      "source_frame": "20211301.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,1}",
+        "spriteSize": "{36,40}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{357,543},{36,40}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "34c0aa65bf94fda23aa7fb6b2664ce2ee8d5a05acfc12726a9074192d1fbae5a",
+      "items": [
+        {
+          "item_id": 20211301,
+          "name": "กุญแจทองซ่อนเร้น"
+        }
+      ]
+    },
+    {
+      "icon_id": 20211302,
+      "file": "20211302.png",
+      "url": "./public/assets/recovered/item-icons/20211302.png",
+      "logical": "ui/icon/itemicon_0/20211302",
+      "source_frame": "20211302.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,1}",
+        "spriteSize": "{36,40}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{397,459},{36,40}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "08c679add423f9375e2a6c935e4895c6c3bcb10897268251c0328da893b37622",
+      "items": [
+        {
+          "item_id": 20211302,
+          "name": "กุญแจหยกสวรรค์"
+        }
+      ]
+    },
+    {
+      "icon_id": 20211303,
+      "file": "20211303.png",
+      "url": "./public/assets/recovered/item-icons/20211303.png",
+      "logical": "ui/icon/itemicon_0/20211303",
+      "source_frame": "20211303.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,1}",
+        "spriteSize": "{36,40}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{435,673},{36,40}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "78b2685cfb17128af37e424dac7d862cca21906429c58e2dfed7f49152775e65",
+      "items": [
+        {
+          "item_id": 20211303,
+          "name": "กุญแจเงินหายาก"
+        }
+      ]
+    },
+    {
+      "icon_id": 20211400,
+      "file": "20211400.png",
+      "url": "./public/assets/recovered/item-icons/20211400.png",
+      "logical": "ui/icon/itemicon_0/20211400",
+      "source_frame": "20211400.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{191,141},{44,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "218c4b12572f05ce38d8f8963274befc29fc1455f6cb0eb4ddb0a093b816f78d",
+      "items": [
+        {
+          "item_id": 20211400,
+          "name": "ป้ายรับสมัครมุ่งมั่น"
+        }
+      ]
+    },
+    {
+      "icon_id": 20211401,
+      "file": "20211401.png",
+      "url": "./public/assets/recovered/item-icons/20211401.png",
+      "logical": "ui/icon/itemicon_0/20211401",
+      "source_frame": "20211401.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,1}",
+        "spriteSize": "{42,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{137,587},{42,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "c967543579b7df0f7adcb211e564eb6b8aa19c9d671d05aa38d50ea07955cbf7",
+      "items": [
+        {
+          "item_id": 20211401,
+          "name": "ดินระเบิด"
+        }
+      ]
+    },
+    {
+      "icon_id": 20211402,
+      "file": "20211402.png",
+      "url": "./public/assets/recovered/item-icons/20211402.png",
+      "logical": "ui/icon/itemicon_0/20211402",
+      "source_frame": "20211402.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,2}",
+        "spriteSize": "{46,40}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{265,277},{46,40}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "fe5ccaafaa94348adf41f0ac1eac2c7828a4b5957178b75d6875d67c09cf9e5b",
+      "items": [
+        {
+          "item_id": 20211402,
+          "name": "เนื้อ"
+        }
+      ]
+    },
+    {
+      "icon_id": 20211403,
+      "file": "20211403.png",
+      "url": "./public/assets/recovered/item-icons/20211403.png",
+      "logical": "ui/icon/itemicon_0/20211403",
+      "source_frame": "20211403.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{38,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{347,673},{38,42}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "91d2b1057658d8ddf38f6fc2e2bddfc9812d4d9123341f5aedbde369135a21bb",
+      "items": [
+        {
+          "item_id": 20211403,
+          "name": "กุญแจ"
+        }
+      ]
+    },
+    {
+      "icon_id": 20211500,
+      "file": "20211500.png",
+      "url": "./public/assets/recovered/item-icons/20211500.png",
+      "logical": "ui/icon/itemicon_0/20211500",
+      "source_frame": "20211500.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{32,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{87,337},{32,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "0387bca20ddaf495a90bb6f11ac9ba92b061a9fb2e7ef54bd75e28ac73f4ed82",
+      "items": [
+        {
+          "item_id": 20211500,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20211501,
+      "file": "20211501.png",
+      "url": "./public/assets/recovered/item-icons/20211501.png",
+      "logical": "ui/icon/itemicon_0/20211501",
+      "source_frame": "20211501.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{50,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{91,53},{50,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "6a7d669f023ec1dbc9c0207f9f39a1a39417220956d19573c911989e91a25c28",
+      "items": [
+        {
+          "item_id": 20211501,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20211502,
+      "file": "20211502.png",
+      "url": "./public/assets/recovered/item-icons/20211502.png",
+      "logical": "ui/icon/itemicon_0/20211502",
+      "source_frame": "20211502.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,-1}",
+        "spriteSize": "{36,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{225,405},{36,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "30213740eb2b48d4767b42e41d4d72ea71e80c74090f61845849e562cd69a101",
+      "items": [
+        {
+          "item_id": 20211502,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20211503,
+      "file": "20211503.png",
+      "url": "./public/assets/recovered/item-icons/20211503.png",
+      "logical": "ui/icon/itemicon_0/20211503",
+      "source_frame": "20211503.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{42,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{47,543},{42,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "bd84ad1360baa6bac95863614fd3f4c529032ff597e933eb6e9215875bdef88c",
+      "items": [
+        {
+          "item_id": 20211503,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20211600,
+      "file": "20211600.png",
+      "url": "./public/assets/recovered/item-icons/20211600.png",
+      "logical": "ui/icon/itemicon_0/20211600",
+      "source_frame": "20211600.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{283,93},{44,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "1f3d5c8d036ea63e38e937bf81a2af0dfc9a8b4a0323559ed9024b612340a863",
+      "items": [
+        {
+          "item_id": 20211600,
+          "name": "ป้ายรับสมัครเปล่งประกาย"
+        }
+      ]
+    },
+    {
+      "icon_id": 20211700,
+      "file": "20211700.png",
+      "url": "./public/assets/recovered/item-icons/20211700.png",
+      "logical": "ui/icon/itemicon_0/20211700",
+      "source_frame": "20211700.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,1}",
+        "spriteSize": "{32,48}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{49,201},{32,48}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "01a72370d4d99619e5ac8221ed646b243e2ae09b9e717db3c19cac1613c64d1f",
+      "items": [
+        {
+          "item_id": 20211700,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20211701,
+      "file": "20211701.png",
+      "url": "./public/assets/recovered/item-icons/20211701.png",
+      "logical": "ui/icon/itemicon_0/20211701",
+      "source_frame": "20211701.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{38,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{221,679},{38,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "83dd7a134df4df105cd73bd398ffcc168f65e66029d0526fd27dd5babd69ff95",
+      "items": [
+        {
+          "item_id": 20211701,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20211702,
+      "file": "20211702.png",
+      "url": "./public/assets/recovered/item-icons/20211702.png",
+      "logical": "ui/icon/itemicon_0/20211702",
+      "source_frame": "20211702.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{48,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{297,49},{48,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "27e1c8ffbe236bb9bfa492e881ba9f79a6435e0676975a35943eb23ba657b426",
+      "items": [
+        {
+          "item_id": 20211702,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20211703,
+      "file": "20211703.png",
+      "url": "./public/assets/recovered/item-icons/20211703.png",
+      "logical": "ui/icon/itemicon_0/20211703",
+      "source_frame": "20211703.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{91,717},{44,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "4dbd7788f3f900a77ef2a537e683dda8e96bfbcafb7a3f6d80c064fcb51d7639",
+      "items": [
+        {
+          "item_id": 20211703,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20211800,
+      "file": "20211800.png",
+      "url": "./public/assets/recovered/item-icons/20211800.png",
+      "logical": "ui/icon/itemicon_0/20211800",
+      "source_frame": "20211800.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{237,141},{44,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "a9106e9ebd06f58b4d1cf63e335598ebed7e66593b81dab07acdb19f28a43e46",
+      "items": [
+        {
+          "item_id": 20211800,
+          "name": "แกนกลางเรืองรอง"
+        }
+      ]
+    },
+    {
+      "icon_id": 20211900,
+      "file": "20211900.png",
+      "url": "./public/assets/recovered/item-icons/20211900.png",
+      "logical": "ui/icon/itemicon_0/20211900",
+      "source_frame": "20211900.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{329,93},{44,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "1b0f942ee2177dccda2a42c50a3f72b329f01b0da7b1142694b8febd7e6e42c1",
+      "items": [
+        {
+          "item_id": 20211900,
+          "name": "ป้ายรับสมัครจันทร์มณี"
+        }
+      ]
+    },
+    {
+      "icon_id": 20212000,
+      "file": "20212000.png",
+      "url": "./public/assets/recovered/item-icons/20212000.png",
+      "logical": "ui/icon/itemicon_0/20212000",
+      "source_frame": "20212000.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{283,141},{44,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "3e8443c0cff8d9ef7747d8761e8b7f3e94ed1481cd6362d4a9f64f50060f8e89",
+      "items": [
+        {
+          "item_id": 20212000,
+          "name": "ป้ายรับสมัครมังกรไร้ควบคุม"
+        }
+      ]
+    },
+    {
+      "icon_id": 20212100,
+      "file": "20212100.png",
+      "url": "./public/assets/recovered/item-icons/20212100.png",
+      "logical": "ui/icon/itemicon_0/20212100",
+      "source_frame": "20212100.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,1}",
+        "spriteSize": "{36,48}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{449,53},{36,48}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "91fdbac267c3fde43ecfd92e1057d172be86a4dbcacd7847cbb8e190f2b0c5bd",
+      "items": [
+        {
+          "item_id": 20212100,
+          "name": "เฉลิมฉลองแสงสว่าง"
+        }
+      ]
+    },
+    {
+      "icon_id": 20212200,
+      "file": "20212200.png",
+      "url": "./public/assets/recovered/item-icons/20212200.png",
+      "logical": "ui/icon/itemicon_0/20212200",
+      "source_frame": "20212200.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,40}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{215,363},{44,40}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "d3d2d7093b7e607141908915807803a03368520b0ea8e4378d28e35d72d9128c",
+      "items": [
+        {
+          "item_id": 20212200,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20212201,
+      "file": "20212201.png",
+      "url": "./public/assets/recovered/item-icons/20212201.png",
+      "logical": "ui/icon/itemicon_0/20212201",
+      "source_frame": "20212201.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{34,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{267,587},{34,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "5f04cbe385df662706cedf2ba4613ba949cc8213fcc6f1e7b1c3624db925860d",
+      "items": [
+        {
+          "item_id": 20212201,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20212202,
+      "file": "20212202.png",
+      "url": "./public/assets/recovered/item-icons/20212202.png",
+      "logical": "ui/icon/itemicon_0/20212202",
+      "source_frame": "20212202.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{36,40}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{443,329},{36,40}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "5a56b56c84a4ebc562d68d3e844fd9f22c2d91e1890dfac1bc6b492fec8800e2",
+      "items": [
+        {
+          "item_id": 20212202,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20212203,
+      "file": "20212203.png",
+      "url": "./public/assets/recovered/item-icons/20212203.png",
+      "logical": "ui/icon/itemicon_0/20212203",
+      "source_frame": "20212203.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{50,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{53,97},{50,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "9d0ff34f2786f6ee207d179d38f9f37e088eb8d53f2efd6efaeee01e297d6425",
+      "items": [
+        {
+          "item_id": 20212203,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20212300,
+      "file": "20212300.png",
+      "url": "./public/assets/recovered/item-icons/20212300.png",
+      "logical": "ui/icon/itemicon_0/20212300",
+      "source_frame": "20212300.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{329,141},{44,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "a6444887d7a9549c4b43a152410b598cc455fb3dc5e8f8ec2b81c8b7aa2c29c2",
+      "items": [
+        {
+          "item_id": 20212300,
+          "name": "ป้ายรับสมัครสะท้านโลกา"
+        }
+      ]
+    },
+    {
+      "icon_id": 20212401,
+      "file": "20212401.png",
+      "url": "./public/assets/recovered/item-icons/20212401.png",
+      "logical": "ui/icon/itemicon_0/20212401",
+      "source_frame": "20212401.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{42,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{395,541},{42,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "5cb9e59e0be0c316d67483664fed2781502d2086d83b0f9bbbe988ff39a34579",
+      "items": [
+        {
+          "item_id": 20212401,
+          "name": "ลูกเต๋า"
+        }
+      ]
+    },
+    {
+      "icon_id": 20212402,
+      "file": "20212402.png",
+      "url": "./public/assets/recovered/item-icons/20212402.png",
+      "logical": "ui/icon/itemicon_0/20212402",
+      "source_frame": "20212402.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{40,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{181,633},{40,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "9fba824d567b288dbd5a527742b435df014a9abeb38e67655e78bc8cbde0d384",
+      "items": [
+        {
+          "item_id": 20212402,
+          "name": "ลูกเต๋าสารพัดนึก"
+        }
+      ]
+    },
+    {
+      "icon_id": 20212403,
+      "file": "20212403.png",
+      "url": "./public/assets/recovered/item-icons/20212403.png",
+      "logical": "ui/icon/itemicon_0/20212403",
+      "source_frame": "20212403.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,-1}",
+        "spriteSize": "{42,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{303,585},{42,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "a503bb2e0f867b2b65afd6cabe13884204faeb9140cf77b1dc5e295617997393",
+      "items": [
+        {
+          "item_id": 20212403,
+          "name": "กุญแจลับอัปทอง"
+        }
+      ]
+    },
+    {
+      "icon_id": 20212500,
+      "file": "20212500.png",
+      "url": "./public/assets/recovered/item-icons/20212500.png",
+      "logical": "ui/icon/itemicon_0/20212500",
+      "source_frame": "20212500.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{46,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{47,639},{46,42}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "649058ab7198e49f26fcf5460e689425b3465018b849bb2df0adb32116d71b4b",
+      "items": [
+        {
+          "item_id": 20212500,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20212501,
+      "file": "20212501.png",
+      "url": "./public/assets/recovered/item-icons/20212501.png",
+      "logical": "ui/icon/itemicon_0/20212501",
+      "source_frame": "20212501.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{34,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{267,631},{34,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "fda2ff680ec5cf417262f9c4403877639c772504f97c39ea022403c40434714d",
+      "items": [
+        {
+          "item_id": 20212501,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20212502,
+      "file": "20212502.png",
+      "url": "./public/assets/recovered/item-icons/20212502.png",
+      "logical": "ui/icon/itemicon_0/20212502",
+      "source_frame": "20212502.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{40,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{179,679},{40,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "6dfcc079c41bd80e694c58fc17b30a66e5fb2f307da7b92853fb4560bed05d56",
+      "items": [
+        {
+          "item_id": 20212502,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20212503,
+      "file": "20212503.png",
+      "url": "./public/assets/recovered/item-icons/20212503.png",
+      "logical": "ui/icon/itemicon_0/20212503",
+      "source_frame": "20212503.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{46,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{47,687},{46,42}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "0e759c571837eb4241d06db9a81433550afd772f80d2c928823f934c324f25ca",
+      "items": [
+        {
+          "item_id": 20212503,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20212600,
+      "file": "20212600.png",
+      "url": "./public/assets/recovered/item-icons/20212600.png",
+      "logical": "ui/icon/itemicon_0/20212600",
+      "source_frame": "20212600.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,1}",
+        "spriteSize": "{40,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{443,203},{40,42}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "c35f2bf3c310d621347b3040905e3f3b0f99d86c4c53258cfb0149595b6e520e",
+      "items": [
+        {
+          "item_id": 20212600,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20212601,
+      "file": "20212601.png",
+      "url": "./public/assets/recovered/item-icons/20212601.png",
+      "logical": "ui/icon/itemicon_0/20212601",
+      "source_frame": "20212601.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,1}",
+        "spriteSize": "{28,48}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{375,93},{28,48}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "6b5db0b4c66953db830138931906bd1103fdae4e6011cb90069370add6fcfa8d",
+      "items": [
+        {
+          "item_id": 20212601,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20212602,
+      "file": "20212602.png",
+      "url": "./public/assets/recovered/item-icons/20212602.png",
+      "logical": "ui/icon/itemicon_0/20212602",
+      "source_frame": "20212602.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{46,50}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{195,1},{46,50}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "f8329e0f5fa89ee6301882533f2f8b9aa199b72618725c0c90edeadecf3a56ec",
+      "items": [
+        {
+          "item_id": 20212602,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20212603,
+      "file": "20212603.png",
+      "url": "./public/assets/recovered/item-icons/20212603.png",
+      "logical": "ui/icon/itemicon_0/20212603",
+      "source_frame": "20212603.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{38,48}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{221,237},{38,48}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "46e083e4be037bfc4378168b1dad3be6c8589a7a45040c32f1b28b1fab261b9c",
+      "items": [
+        {
+          "item_id": 20212603,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20212700,
+      "file": "20212700.png",
+      "url": "./public/assets/recovered/item-icons/20212700.png",
+      "logical": "ui/icon/itemicon_0/20212700",
+      "source_frame": "20212700.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{121,189},{44,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "9ee2f46024f03eb211d4a5a13f40d0cf0682bc5b946748f4a41b88b2dc445dab",
+      "items": [
+        {
+          "item_id": 20212700,
+          "name": "ป้ายรับสมัครปราบมาร"
+        }
+      ]
+    },
+    {
+      "icon_id": 20212800,
+      "file": "20212800.png",
+      "url": "./public/assets/recovered/item-icons/20212800.png",
+      "logical": "ui/icon/itemicon_0/20212800",
+      "source_frame": "20212800.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,38}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{307,457},{44,38}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "cdb240e4c91d448271d8753a7b8f5401808908be30ab08223f94e2628c74e79b",
+      "items": [
+        {
+          "item_id": 20212800,
+          "name": "แกนกลางมายา"
+        }
+      ]
+    },
+    {
+      "icon_id": 20212900,
+      "file": "20212900.png",
+      "url": "./public/assets/recovered/item-icons/20212900.png",
+      "logical": "ui/icon/itemicon_0/20212900",
+      "source_frame": "20212900.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{40,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{45,399},{40,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "c7bb92421fb7e1ef6f311e9aaf1e8988e9b43111448b663f844071bd8e19b32e",
+      "items": [
+        {
+          "item_id": 20212900,
+          "name": "ป้ายรับสมัครเทพมาร"
+        }
+      ]
+    },
+    {
+      "icon_id": 20213000,
+      "file": "20213000.png",
+      "url": "./public/assets/recovered/item-icons/20213000.png",
+      "logical": "ui/icon/itemicon_0/20213000",
+      "source_frame": "20213000.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{2,0}",
+        "spriteSize": "{42,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{347,585},{42,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "7dea20335205ce544cf13c47b26bcc887668c2ee4f9c297dd2cc58518f0e4223",
+      "items": [
+        {
+          "item_id": 20213000,
+          "name": "ตะขอทองมังกรแท้"
+        }
+      ]
+    },
+    {
+      "icon_id": 20213100,
+      "file": "20213100.png",
+      "url": "./public/assets/recovered/item-icons/20213100.png",
+      "logical": "ui/icon/itemicon_0/20213100",
+      "source_frame": "20213100.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{167,189},{44,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "2a83cb9246a059096624e14cc7e19fa8c35d64f94b4fbf0a8ca6b2ffc8893098",
+      "items": [
+        {
+          "item_id": 20213100,
+          "name": "ป้ายรับสมัครคลื่นถาโถม"
+        }
+      ]
+    },
+    {
+      "icon_id": 20213200,
+      "file": "20213200.png",
+      "url": "./public/assets/recovered/item-icons/20213200.png",
+      "logical": "ui/icon/itemicon_0/20213200",
+      "source_frame": "20213200.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{-1,0}",
+        "spriteSize": "{42,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{181,541},{42,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "cca92f7baab20d9ee158c8cb3670dc8633d8ff455a5c9e5d764531eebe140004",
+      "items": [
+        {
+          "item_id": 20213200,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20213201,
+      "file": "20213201.png",
+      "url": "./public/assets/recovered/item-icons/20213201.png",
+      "logical": "ui/icon/itemicon_0/20213201",
+      "source_frame": "20213201.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{30,38}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{367,237},{30,38}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "0a2f7a335fdc5f1cd5303ca325862a50cc1509792e5e1e4495e68b6dbd4d7850",
+      "items": [
+        {
+          "item_id": 20213201,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20213202,
+      "file": "20213202.png",
+      "url": "./public/assets/recovered/item-icons/20213202.png",
+      "logical": "ui/icon/itemicon_0/20213202",
+      "source_frame": "20213202.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{-1,0}",
+        "spriteSize": "{40,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{45,447},{40,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "c5481ea8da1b585601ee52f70f4fd991a162f74e9a799dd54cec2ca1333afe23",
+      "items": [
+        {
+          "item_id": 20213202,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20213203,
+      "file": "20213203.png",
+      "url": "./public/assets/recovered/item-icons/20213203.png",
+      "logical": "ui/icon/itemicon_0/20213203",
+      "source_frame": "20213203.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{48,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{1,459},{48,42}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "f1859c126a7793e4610587840745afb76e9ab0f8668252a00d552ac2be86ea4d",
+      "items": [
+        {
+          "item_id": 20213203,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20213300,
+      "file": "20213300.png",
+      "url": "./public/assets/recovered/item-icons/20213300.png",
+      "logical": "ui/icon/itemicon_0/20213300",
+      "source_frame": "20213300.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{213,189},{44,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "9ec09ee6dfd04b7c3bb7015fd226ec5a3722395b9bb918d06352617a0e2ad2c7",
+      "items": []
+    },
+    {
+      "icon_id": 20213400,
+      "file": "20213400.png",
+      "url": "./public/assets/recovered/item-icons/20213400.png",
+      "logical": "ui/icon/itemicon_0/20213400",
+      "source_frame": "20213400.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{50,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{143,1},{50,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "8d86aa4ccf2e760148788cb79439f5a06f7d3d6afcdc6e78f8d39538e3ae70d4",
+      "items": [
+        {
+          "item_id": 20213400,
+          "name": "ธงคำสั่งเรียกทัพ"
+        }
+      ]
+    },
+    {
+      "icon_id": 20213500,
+      "file": "20213500.png",
+      "url": "./public/assets/recovered/item-icons/20213500.png",
+      "logical": "ui/icon/itemicon_0/20213500",
+      "source_frame": "20213500.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{38,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{401,157},{38,42}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "770a8e7e1e4ab55423324b8011602ea010721c2a257d6ec13877c3fd3eaba427",
+      "items": [
+        {
+          "item_id": 20213500,
+          "name": "ปัญญาเบิกจิต"
+        }
+      ]
+    },
+    {
+      "icon_id": 20213600,
+      "file": "20213600.png",
+      "url": "./public/assets/recovered/item-icons/20213600.png",
+      "logical": "ui/icon/itemicon_0/20213600",
+      "source_frame": "20213600.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{259,189},{44,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "74c1129db6fcaf205e08837058bfbd957b60cc35cd8da48ae613e86f6525a8bf",
+      "items": [
+        {
+          "item_id": 20213600,
+          "name": "ป้ายรับสมัครมหาเทพ"
+        }
+      ]
+    },
+    {
+      "icon_id": 20213700,
+      "file": "20213700.png",
+      "url": "./public/assets/recovered/item-icons/20213700.png",
+      "logical": "ui/icon/itemicon_0/20213700",
+      "source_frame": "20213700.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{50,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{143,49},{50,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "9dac9115425a15bc3943412ad9077219cd5de5c56f1952ac5414302c096329ef",
+      "items": []
+    },
+    {
+      "icon_id": 20213701,
+      "file": "20213701.png",
+      "url": "./public/assets/recovered/item-icons/20213701.png",
+      "logical": "ui/icon/itemicon_0/20213701",
+      "source_frame": "20213701.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{42,38}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{267,723},{42,38}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "49d22a379538da98e58d0f5ff7e646ff674d3bcbc6c6c2b7fa64615582e43aac",
+      "items": []
+    },
+    {
+      "icon_id": 20213702,
+      "file": "20213702.png",
+      "url": "./public/assets/recovered/item-icons/20213702.png",
+      "logical": "ui/icon/itemicon_0/20213702",
+      "source_frame": "20213702.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{48,36}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{83,193},{48,36}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "9c0c9326daec4dd6b8ba91ae2850c19dad9931f8d1dfde768b9c08523a2e6b5f",
+      "items": []
+    },
+    {
+      "icon_id": 20213703,
+      "file": "20213703.png",
+      "url": "./public/assets/recovered/item-icons/20213703.png",
+      "logical": "ui/icon/itemicon_0/20213703",
+      "source_frame": "20213703.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{50,36}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{449,1},{50,36}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "77fc3be358b377807e2d5f87ae9bc3f18e15f1bcdbf8417e9c5a6affced609c8",
+      "items": []
+    },
+    {
+      "icon_id": 20213801,
+      "file": "20213801.png",
+      "url": "./public/assets/recovered/item-icons/20213801.png",
+      "logical": "ui/icon/itemicon_0/20213801",
+      "source_frame": "20213801.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{48,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{1,609},{48,44}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "de6b41058809135f4c8f9e44ed3dc7a71c7d9407c0eeeb9d7e6d75c12f05bd50",
+      "items": [
+        {
+          "item_id": 20213801,
+          "name": "เศษทางลับ"
+        }
+      ]
+    },
+    {
+      "icon_id": 20213802,
+      "file": "20213802.png",
+      "url": "./public/assets/recovered/item-icons/20213802.png",
+      "logical": "ui/icon/itemicon_0/20213802",
+      "source_frame": "20213802.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{48,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{1,509},{48,42}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "a11d209b852d7563bd2d2d7053b0e2c2adc7ac48d46a2c4f230ec071bb1ef90e",
+      "items": [
+        {
+          "item_id": 20213802,
+          "name": "เศษสุสานจักรพรรดิ"
+        }
+      ]
+    },
+    {
+      "icon_id": 20213900,
+      "file": "20213900.png",
+      "url": "./public/assets/recovered/item-icons/20213900.png",
+      "logical": "ui/icon/itemicon_0/20213900",
+      "source_frame": "20213900.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{133,405},{44,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "2c761e5b72269de4004bd62f68d91bb27ee3c1e4c431b778705c57b18929a21c",
+      "items": [
+        {
+          "item_id": 20213900,
+          "name": "ของขวัญงานฉลอง"
+        }
+      ]
+    },
+    {
+      "icon_id": 20213901,
+      "file": "20213901.png",
+      "url": "./public/assets/recovered/item-icons/20213901.png",
+      "logical": "ui/icon/itemicon_0/20213901",
+      "source_frame": "20213901.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,-2}",
+        "spriteSize": "{38,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{397,367},{38,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "cd64a4a2067980f0a2f6471113775cf58f0a4f9ac4b63b5b3ea3239577a21e0e",
+      "items": [
+        {
+          "item_id": 20213901,
+          "name": "ประทัด"
+        }
+      ]
+    },
+    {
+      "icon_id": 20213902,
+      "file": "20213902.png",
+      "url": "./public/assets/recovered/item-icons/20213902.png",
+      "logical": "ui/icon/itemicon_0/20213902",
+      "source_frame": "20213902.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{34,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{47,253},{34,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "81f106928db651b302c982cb93d0ce764ec3e499de39f72b7f66eb40d37ea085",
+      "items": [
+        {
+          "item_id": 20213902,
+          "name": "โคมไฟสีสัน"
+        }
+      ]
+    },
+    {
+      "icon_id": 20213903,
+      "file": "20213903.png",
+      "url": "./public/assets/recovered/item-icons/20213903.png",
+      "logical": "ui/icon/itemicon_0/20213903",
+      "source_frame": "20213903.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{48,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{1,659},{48,44}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "c3e78636afe93087bbe6ba6e1d7d6b04994b72c4fe308aa63880672ed7e69a4a",
+      "items": [
+        {
+          "item_id": 20213903,
+          "name": "ช่อดอกงานฉลอง"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214000,
+      "file": "20214000.png",
+      "url": "./public/assets/recovered/item-icons/20214000.png",
+      "logical": "ui/icon/itemicon_0/20214000",
+      "source_frame": "20214000.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{1,1}",
+        "spriteSize": "{42,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{47,591},{42,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "ed79243ffbdff95f72f4173d2196fa8c02ae4cc131cd44e932cf91edb75bff84",
+      "items": [
+        {
+          "item_id": 20214000,
+          "name": "พลั่วทราย"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214001,
+      "file": "20214001.png",
+      "url": "./public/assets/recovered/item-icons/20214001.png",
+      "logical": "ui/icon/itemicon_0/20214001",
+      "source_frame": "20214001.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{1,0}",
+        "spriteSize": "{40,36}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{225,725},{40,36}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "15ab5e5097a3b28333be7eb4e0ea9196b13421ae2b4ec2849f3f9ac75aed4cf1",
+      "items": [
+        {
+          "item_id": 20214001,
+          "name": "เปลือกหอย"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214002,
+      "file": "20214002.png",
+      "url": "./public/assets/recovered/item-icons/20214002.png",
+      "logical": "ui/icon/itemicon_0/20214002",
+      "source_frame": "20214002.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{1,1}",
+        "spriteSize": "{36,40}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{439,493},{36,40}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "40a2789bf907065825c7502d963d8e8c34a4f72bb4c570b111c72f4db6c62f07",
+      "items": [
+        {
+          "item_id": 20214002,
+          "name": "เกล็ดปลาสีรุ้ง"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214003,
+      "file": "20214003.png",
+      "url": "./public/assets/recovered/item-icons/20214003.png",
+      "logical": "ui/icon/itemicon_0/20214003",
+      "source_frame": "20214003.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{1,1}",
+        "spriteSize": "{44,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{133,451},{44,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "185f6d933a60c272270464743a831341b2f5aa4a8a74395fcc9a14f2a298df02",
+      "items": [
+        {
+          "item_id": 20214003,
+          "name": "หัวใจสมุทรคราม"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214100,
+      "file": "20214100.png",
+      "url": "./public/assets/recovered/item-icons/20214100.png",
+      "logical": "ui/icon/itemicon_0/20214100",
+      "source_frame": "20214100.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{46,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{121,315},{46,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "e107b18f24b65b80190ebb8b2f7e11bffcbde7bec5742cede75e9c49f02aa5fa",
+      "items": [
+        {
+          "item_id": 20214100,
+          "name": "ของขวัญเฉลิมฉลอง"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214101,
+      "file": "20214101.png",
+      "url": "./public/assets/recovered/item-icons/20214101.png",
+      "logical": "ui/icon/itemicon_0/20214101",
+      "source_frame": "20214101.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{38,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{397,413},{38,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "7233e26cf444073ade992542c82d95cc5184e50154a1fe1baf9b4d8187969f88",
+      "items": [
+        {
+          "item_id": 20214101,
+          "name": "จอกสามขา"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214102,
+      "file": "20214102.png",
+      "url": "./public/assets/recovered/item-icons/20214102.png",
+      "logical": "ui/icon/itemicon_0/20214102",
+      "source_frame": "20214102.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{38,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{261,677},{38,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "4a0ccf8b2bead28ac18a249bb0125ef27554ecf5308227f1ea5642992275daeb",
+      "items": [
+        {
+          "item_id": 20214102,
+          "name": "ตราประทับ"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214103,
+      "file": "20214103.png",
+      "url": "./public/assets/recovered/item-icons/20214103.png",
+      "logical": "ui/icon/itemicon_0/20214103",
+      "source_frame": "20214103.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,-2}",
+        "spriteSize": "{46,40}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{313,277},{46,40}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "e6d6cee6dd38a48f21099c4b00eae315946d6657ce7a376f8fb0c7f7cd44f694",
+      "items": [
+        {
+          "item_id": 20214103,
+          "name": "กระถางสามขา"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214200,
+      "file": "20214200.png",
+      "url": "./public/assets/recovered/item-icons/20214200.png",
+      "logical": "ui/icon/itemicon_0/20214200",
+      "source_frame": "20214200.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{305,189},{44,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "5b5aec78925aa910cb8a9375d688dbd8639626b1c91a2cbe6ca86034a3cb47fe",
+      "items": [
+        {
+          "item_id": 20214200,
+          "name": "จานจักรวาล"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214201,
+      "file": "20214201.png",
+      "url": "./public/assets/recovered/item-icons/20214201.png",
+      "logical": "ui/icon/itemicon_0/20214201",
+      "source_frame": "20214201.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{42,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{137,633},{42,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "0ef205ae49eb2e0cbc6ae5d35c452c8ca63445458848b6fea36699109fc26887",
+      "items": [
+        {
+          "item_id": 20214201,
+          "name": "ทรายมงคล"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214202,
+      "file": "20214202.png",
+      "url": "./public/assets/recovered/item-icons/20214202.png",
+      "logical": "ui/icon/itemicon_0/20214202",
+      "source_frame": "20214202.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{40,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{45,495},{40,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "d5b1b67dca735cb4fd989426b9f768ad63510ec3174982145587c9147daec8d7",
+      "items": [
+        {
+          "item_id": 20214202,
+          "name": "ลูกแก้ว"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214203,
+      "file": "20214203.png",
+      "url": "./public/assets/recovered/item-icons/20214203.png",
+      "logical": "ui/icon/itemicon_0/20214203",
+      "source_frame": "20214203.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{179,405},{44,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "30c30fb75c7b0b4c17a3a3e419826a0578086665864c1590f9b8a6a8bbe25797",
+      "items": [
+        {
+          "item_id": 20214203,
+          "name": "อัญมณีจักรวาล"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214300,
+      "file": "20214300.png",
+      "url": "./public/assets/recovered/item-icons/20214300.png",
+      "logical": "ui/icon/itemicon_0/20214300",
+      "source_frame": "20214300.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{259,189},{44,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "74c1129db6fcaf205e08837058bfbd957b60cc35cd8da48ae613e86f6525a8bf",
+      "items": [
+        {
+          "item_id": 20214300,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "icon_id": 20214301,
+      "file": "20214301.png",
+      "url": "./public/assets/recovered/item-icons/20214301.png",
+      "logical": "ui/icon/itemicon_0/20214301",
+      "source_frame": "20214301.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{217,317},{44,46}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "6e2e58e8fae6fa868ee9841e768286615972b8870ba0b360f8461cb2f8747dd6",
+      "items": [
+        {
+          "item_id": 20214301,
+          "name": "ป้ายรับสมัครทะยานเมฆ"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214302,
+      "file": "20214302.png",
+      "url": "./public/assets/recovered/item-icons/20214302.png",
+      "logical": "ui/icon/itemicon_0/20214302",
+      "source_frame": "20214302.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{265,319},{44,46}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "da525309b2870e10ea8a4bcb9e2102310255e8a8084ce4d5e1632259cd2e03b2",
+      "items": [
+        {
+          "item_id": 20214302,
+          "name": "ป้ายรับสมัครแหล่งน้ำใส"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214303,
+      "file": "20214303.png",
+      "url": "./public/assets/recovered/item-icons/20214303.png",
+      "logical": "ui/icon/itemicon_0/20214303",
+      "source_frame": "20214303.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{313,319},{44,46}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "90cc0eb7807b5ad174db9bd611fefe2d12adc2a1eb4d4b8f378f6dd641659060",
+      "items": [
+        {
+          "item_id": 20214303,
+          "name": "ป้ายรับสมัครมุกจิต"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214304,
+      "file": "20214304.png",
+      "url": "./public/assets/recovered/item-icons/20214304.png",
+      "logical": "ui/icon/itemicon_0/20214304",
+      "source_frame": "20214304.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{87,383},{44,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "f8418c565742d2b1857ab920eccbc7b1b7fef28672aab89cf165cb897485c28f",
+      "items": [
+        {
+          "item_id": 20214304,
+          "name": "ป้ายรับสมัครคลื่นผยอง"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214305,
+      "file": "20214305.png",
+      "url": "./public/assets/recovered/item-icons/20214305.png",
+      "logical": "ui/icon/itemicon_0/20214305",
+      "source_frame": "20214305.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{87,431},{44,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "aaaca5fc4d5e33ec022d357016afd85cee4c6c9a0a6378a2ce6e499ca2f9f68d",
+      "items": [
+        {
+          "item_id": 20214305,
+          "name": "ป้ายรับสมัครมรรค"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214306,
+      "file": "20214306.png",
+      "url": "./public/assets/recovered/item-icons/20214306.png",
+      "logical": "ui/icon/itemicon_0/20214306",
+      "source_frame": "20214306.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{87,479},{44,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "1a248cb6cc02aeedb5d97fe7b389d9d4c579cffed35009d9ea5e81080fba7413",
+      "items": [
+        {
+          "item_id": 20214306,
+          "name": "ป้ายรับสมัครดับสูญ"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214307,
+      "file": "20214307.png",
+      "url": "./public/assets/recovered/item-icons/20214307.png",
+      "logical": "ui/icon/itemicon_0/20214307",
+      "source_frame": "20214307.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{91,527},{44,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "7c8b86935c07e7bd665c5e957468a1aa1b1c3b4e1b9c0806bfe11ffbe7400665",
+      "items": [
+        {
+          "item_id": 20214307,
+          "name": "ป้ายรับสมัครเผยความชั่ว"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214308,
+      "file": "20214308.png",
+      "url": "./public/assets/recovered/item-icons/20214308.png",
+      "logical": "ui/icon/itemicon_0/20214308",
+      "source_frame": "20214308.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{91,575},{44,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "c3642e3539bccce39179271a0108975afc0d3736c7395d2ffb4b1bb7b1df9575",
+      "items": [
+        {
+          "item_id": 20214308,
+          "name": "ป้ายรับสมัครการุณย์"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214400,
+      "file": "20214400.png",
+      "url": "./public/assets/recovered/item-icons/20214400.png",
+      "logical": "ui/icon/itemicon_0/20214400",
+      "source_frame": "20214400.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{48,48}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{347,1},{48,48}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "e198eec4b1dba4fbac0351b4f7bfa3f49b4fbba34d33c3cb080d57d80a18d18f",
+      "items": [
+        {
+          "item_id": 20214400,
+          "name": "ป้ายรับสมัครจิตเทวะ"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214401,
+      "file": "20214401.png",
+      "url": "./public/assets/recovered/item-icons/20214401.png",
+      "logical": "ui/icon/itemicon_0/20214401",
+      "source_frame": "20214401.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{179,451},{44,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "e652ec1ef5dfe6e3879ecfc62e41075df9eba0a9a27cfab316fc0e6bb6f323e2",
+      "items": [
+        {
+          "item_id": 20214401,
+          "name": "คะแนนจิตเทวะ"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214500,
+      "file": "20214500.png",
+      "url": "./public/assets/recovered/item-icons/20214500.png",
+      "logical": "ui/icon/itemicon_0/20214500",
+      "source_frame": "20214500.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{137,497},{44,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "444a87e356daa538ef1d7e2f27ff342a1b3c4dc4dd2b3572d1d8e7e367ad206d",
+      "items": [
+        {
+          "item_id": 20214500,
+          "name": "กรรไกรตัดกุ้ยฮวา"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214501,
+      "file": "20214501.png",
+      "url": "./public/assets/recovered/item-icons/20214501.png",
+      "logical": "ui/icon/itemicon_0/20214501",
+      "source_frame": "20214501.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{50,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{1,253},{50,44}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "784984ef406ac4c6856cb191df7b14bc6c5a290ce77d7a29f89d1540ed8558e9",
+      "items": [
+        {
+          "item_id": 20214501,
+          "name": "กุ้ยฮวา"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214502,
+      "file": "20214502.png",
+      "url": "./public/assets/recovered/item-icons/20214502.png",
+      "logical": "ui/icon/itemicon_0/20214502",
+      "source_frame": "20214502.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{229,497},{44,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "de4091f042ec81dcf9a602e10e9e12e96b8ef6fe4b5e73f96806e95049142ffd",
+      "items": [
+        {
+          "item_id": 20214502,
+          "name": "น้ำผึ้งหมักกุ้ยฮวา"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214503,
+      "file": "20214503.png",
+      "url": "./public/assets/recovered/item-icons/20214503.png",
+      "logical": "ui/icon/itemicon_0/20214503",
+      "source_frame": "20214503.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{48,38}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{121,237},{48,38}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "c2b947f519547d39ba6a5e4d5734ecc373d1fa682bc92392bd339f08749c64d9",
+      "items": [
+        {
+          "item_id": 20214503,
+          "name": "ขนมเปี๊ยะกุ้ยฮวา"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214600,
+      "file": "20214600.png",
+      "url": "./public/assets/recovered/item-icons/20214600.png",
+      "logical": "ui/icon/itemicon_0/20214600",
+      "source_frame": "20214600.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{50,50}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{91,1},{50,50}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "7d49264be4df59813954b21d8d9c05d4128dc43cade20e9a6d3f7d3229f1631f",
+      "items": []
+    },
+    {
+      "icon_id": 20214601,
+      "file": "20214601.png",
+      "url": "./public/assets/recovered/item-icons/20214601.png",
+      "logical": "ui/icon/itemicon_0/20214601",
+      "source_frame": "20214601.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{50,50}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{1,149},{50,50}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "283b467762a908a11efb6b592e82db8627a57b2c3af991dc3a300d0706d8c35f",
+      "items": []
+    },
+    {
+      "icon_id": 20214602,
+      "file": "20214602.png",
+      "url": "./public/assets/recovered/item-icons/20214602.png",
+      "logical": "ui/icon/itemicon_0/20214602",
+      "source_frame": "20214602.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{91,623},{44,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "f1e0454126cdf5dcadabeb7c393a9176ba1358b65ecbec9793cd22d630ec3395",
+      "items": []
+    },
+    {
+      "icon_id": 20214700,
+      "file": "20214700.png",
+      "url": "./public/assets/recovered/item-icons/20214700.png",
+      "logical": "ui/icon/itemicon_0/20214700",
+      "source_frame": "20214700.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{38,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{319,237},{38,46}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "dfc580b6ede6c2425fbaab260b9aa5ea281b1812a94ae7395cb3bdef79afc11f",
+      "items": [
+        {
+          "item_id": 20214700,
+          "name": "กุญแจถ้ำฟ้า"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214701,
+      "file": "20214701.png",
+      "url": "./public/assets/recovered/item-icons/20214701.png",
+      "logical": "ui/icon/itemicon_0/20214701",
+      "source_frame": "20214701.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{46,32}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{351,189},{46,32}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "9c13d534d117d0acf881c9dde7be3ec6cce8b95ce3fdbbdeef0a22a37574747c",
+      "items": [
+        {
+          "item_id": 20214701,
+          "name": "ทรายหยก"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214702,
+      "file": "20214702.png",
+      "url": "./public/assets/recovered/item-icons/20214702.png",
+      "logical": "ui/icon/itemicon_0/20214702",
+      "source_frame": "20214702.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{38,40}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{399,237},{38,40}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "f52cfff364f76d5c37547e94b6c39aadb04a4b6260b170a1f156d2071539aaf5",
+      "items": [
+        {
+          "item_id": 20214702,
+          "name": "หยกแก้ว"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214703,
+      "file": "20214703.png",
+      "url": "./public/assets/recovered/item-icons/20214703.png",
+      "logical": "ui/icon/itemicon_0/20214703",
+      "source_frame": "20214703.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,1}",
+        "spriteSize": "{38,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{217,277},{38,46}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "5d859df895e35dcd0c0a860b524e895dc656ccabf9cb2e47e1b74fe63cefbb1d",
+      "items": [
+        {
+          "item_id": 20214703,
+          "name": "เหรียญหยกโมรา"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214800,
+      "file": "20214800.png",
+      "url": "./public/assets/recovered/item-icons/20214800.png",
+      "logical": "ui/icon/itemicon_0/20214800",
+      "source_frame": "20214800.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{42,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{181,587},{42,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "b3864d0f23725985e45e09e16c65712780a53e2cacdec19089a1f7148181d9e7",
+      "items": [
+        {
+          "item_id": 20214800,
+          "name": "หลอมเทวะหยกเทพ"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214900,
+      "file": "20214900.png",
+      "url": "./public/assets/recovered/item-icons/20214900.png",
+      "logical": "ui/icon/itemicon_0/20214900",
+      "source_frame": "20214900.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,1}",
+        "spriteSize": "{32,48}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{49,201},{32,48}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "01a72370d4d99619e5ac8221ed646b243e2ae09b9e717db3c19cac1613c64d1f",
+      "items": [
+        {
+          "item_id": 20214900,
+          "name": "ตั๋วคืนศักดิ์สิทธิ์"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214901,
+      "file": "20214901.png",
+      "url": "./public/assets/recovered/item-icons/20214901.png",
+      "logical": "ui/icon/itemicon_0/20214901",
+      "source_frame": "20214901.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{38,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{221,679},{38,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "83dd7a134df4df105cd73bd398ffcc168f65e66029d0526fd27dd5babd69ff95",
+      "items": [
+        {
+          "item_id": 20214901,
+          "name": "ลูกกวาด"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214902,
+      "file": "20214902.png",
+      "url": "./public/assets/recovered/item-icons/20214902.png",
+      "logical": "ui/icon/itemicon_0/20214902",
+      "source_frame": "20214902.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{48,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{297,49},{48,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "27e1c8ffbe236bb9bfa492e881ba9f79a6435e0676975a35943eb23ba657b426",
+      "items": [
+        {
+          "item_id": 20214902,
+          "name": "พายแอปเปิ้ล"
+        }
+      ]
+    },
+    {
+      "icon_id": 20214903,
+      "file": "20214903.png",
+      "url": "./public/assets/recovered/item-icons/20214903.png",
+      "logical": "ui/icon/itemicon_0/20214903",
+      "source_frame": "20214903.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{91,717},{44,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "4dbd7788f3f900a77ef2a537e683dda8e96bfbcafb7a3f6d80c064fcb51d7639",
+      "items": [
+        {
+          "item_id": 20214903,
+          "name": "โคมฟักทองใหญ่"
+        }
+      ]
+    },
+    {
+      "icon_id": 20215000,
+      "file": "20215000.png",
+      "url": "./public/assets/recovered/item-icons/20215000.png",
+      "logical": "ui/icon/itemicon_0/20215000",
+      "source_frame": "20215000.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{1,1}",
+        "spriteSize": "{42,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{47,591},{42,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "ed79243ffbdff95f72f4173d2196fa8c02ae4cc131cd44e932cf91edb75bff84",
+      "items": []
+    },
+    {
+      "icon_id": 20215001,
+      "file": "20215001.png",
+      "url": "./public/assets/recovered/item-icons/20215001.png",
+      "logical": "ui/icon/itemicon_0/20215001",
+      "source_frame": "20215001.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{1,0}",
+        "spriteSize": "{40,36}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{225,725},{40,36}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "15ab5e5097a3b28333be7eb4e0ea9196b13421ae2b4ec2849f3f9ac75aed4cf1",
+      "items": []
+    },
+    {
+      "icon_id": 20215002,
+      "file": "20215002.png",
+      "url": "./public/assets/recovered/item-icons/20215002.png",
+      "logical": "ui/icon/itemicon_0/20215002",
+      "source_frame": "20215002.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{1,1}",
+        "spriteSize": "{36,40}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{439,493},{36,40}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "40a2789bf907065825c7502d963d8e8c34a4f72bb4c570b111c72f4db6c62f07",
+      "items": []
+    },
+    {
+      "icon_id": 20215003,
+      "file": "20215003.png",
+      "url": "./public/assets/recovered/item-icons/20215003.png",
+      "logical": "ui/icon/itemicon_0/20215003",
+      "source_frame": "20215003.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{1,1}",
+        "spriteSize": "{44,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{133,451},{44,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "185f6d933a60c272270464743a831341b2f5aa4a8a74395fcc9a14f2a298df02",
+      "items": []
+    },
+    {
+      "icon_id": 20215101,
+      "file": "20215101.png",
+      "url": "./public/assets/recovered/item-icons/20215101.png",
+      "logical": "ui/icon/itemicon_0/20215101",
+      "source_frame": "20215101.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{42,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{391,585},{42,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "a16628354ffb41896455d2954140a52b01e52b1c30c6adc3a49b91ef29f3aaa0",
+      "items": []
+    },
+    {
+      "icon_id": 21,
+      "file": "21.png",
+      "url": "./public/assets/recovered/item-icons/21.png",
+      "logical": "ui/icon/itemicon_0/21",
+      "source_frame": "21.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{-1,0}",
+        "spriteSize": "{42,40}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{313,543},{42,40}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "f01d7a17cc954714eb2205ad096aefcf9cd023440f7d64a00d7a48243bf5cd65",
+      "items": [
+        {
+          "item_id": 21,
+          "name": "ผลงานรบเกเต๋ง"
+        }
+      ]
+    },
+    {
+      "icon_id": 22,
+      "file": "22.png",
+      "url": "./public/assets/recovered/item-icons/22.png",
+      "logical": "ui/icon/itemicon_0/22",
+      "source_frame": "22.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,-1}",
+        "spriteSize": "{36,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{137,725},{36,42}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "9e4230e0da0d884fdb033c3979527559a77be212d2da2f77861fd08d137d2cca",
+      "items": [
+        {
+          "item_id": 22,
+          "name": "ยาวาสนาโสมสวรรค์"
+        }
+      ]
+    },
+    {
+      "icon_id": 23,
+      "file": "23.png",
+      "url": "./public/assets/recovered/item-icons/23.png",
+      "logical": "ui/icon/itemicon_0/23",
+      "source_frame": "23.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{-1,-1}",
+        "spriteSize": "{40,40}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{435,711},{40,40}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "f242de209d4b790bcb130748fb8179afa41272669d7d3d1ae896fb9ce6e6d0f6",
+      "items": [
+        {
+          "item_id": 23,
+          "name": "หยกชิงอำนาจ"
+        }
+      ]
+    },
+    {
+      "icon_id": 24,
+      "file": "24.png",
+      "url": "./public/assets/recovered/item-icons/24.png",
+      "logical": "ui/icon/itemicon_0/24",
+      "source_frame": "24.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{-1,0}",
+        "spriteSize": "{36,40}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{439,535},{36,40}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "a555d037acc8bf152fcae7fcaab6e39f9f3ce718a2030b81dbab84d9d76ac153",
+      "items": [
+        {
+          "item_id": 24,
+          "name": "ญาณแก่นสัตว์เทพ"
+        }
+      ]
+    },
+    {
+      "icon_id": 25,
+      "file": "25.png",
+      "url": "./public/assets/recovered/item-icons/25.png",
+      "logical": "ui/icon/itemicon_0/25",
+      "source_frame": "25.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{24,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{405,131},{24,42}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "f73a5e13ec18e549c8e4bfe7ac6b7c3e9a6d2d2f1ac5e7456d1f300078597cd0",
+      "items": [
+        {
+          "item_id": 25,
+          "name": "ผลึกศาสตราเทพ"
+        }
+      ]
+    },
+    {
+      "icon_id": 26,
+      "file": "26.png",
+      "url": "./public/assets/recovered/item-icons/26.png",
+      "logical": "ui/icon/itemicon_0/26",
+      "source_frame": "26.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{40,48}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{347,51},{40,48}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "6a9d14e6ea307a3d545ef81c1ff37a5e6e74fe183e43413a3c1053a11320c4cd",
+      "items": [
+        {
+          "item_id": 26,
+          "name": "เสี้ยวญาณเจี้ยงแช"
+        }
+      ]
+    },
+    {
+      "icon_id": 27,
+      "file": "27.png",
+      "url": "./public/assets/recovered/item-icons/27.png",
+      "logical": "ui/icon/itemicon_0/27",
+      "source_frame": "27.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{40,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{443,245},{40,42}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "c3b8939baadad38753861bd24c2982f1eda68c5e9083888eaf5c50ed47eaaa5d",
+      "items": [
+        {
+          "item_id": 27,
+          "name": "เหรียญชนะฟ้า"
+        }
+      ]
+    },
+    {
+      "icon_id": 28,
+      "file": "28.png",
+      "url": "./public/assets/recovered/item-icons/28.png",
+      "logical": "ui/icon/itemicon_0/28",
+      "source_frame": "28.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,-1}",
+        "spriteSize": "{50,36}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{397,45},{50,36}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "1471728bf6e8f1a36eec60990b8bbfea510b3e635271f5d03aa97e075612be6d",
+      "items": [
+        {
+          "item_id": 28,
+          "name": "ทรายเวลามายา"
+        }
+      ]
+    },
+    {
+      "icon_id": 29,
+      "file": "29.png",
+      "url": "./public/assets/recovered/item-icons/29.png",
+      "logical": "ui/icon/itemicon_0/29",
+      "source_frame": "29.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,2}",
+        "spriteSize": "{42,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{225,541},{42,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "9853b89c790e71e2b17fdcbd353f6bf907aaeb25a0c26cc3c16c4533d8f607b7",
+      "items": []
+    },
+    {
+      "icon_id": 3,
+      "file": "3.png",
+      "url": "./public/assets/recovered/item-icons/3.png",
+      "logical": "ui/icon/itemicon_0/3",
+      "source_frame": "3.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{40,40}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{437,367},{40,40}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "64a4e1c8b55a3f80aefc9517fff3d5fb436e5efe3bc79b80f94aa5c34c04502b",
+      "items": [
+        {
+          "item_id": 3,
+          "name": "ยา EXP"
+        }
+      ]
+    },
+    {
+      "icon_id": 30,
+      "file": "30.png",
+      "url": "./public/assets/recovered/item-icons/30.png",
+      "logical": "ui/icon/itemicon_0/30",
+      "source_frame": "30.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{-1,-1}",
+        "spriteSize": "{34,40}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{355,713},{34,40}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "59d427be575e9a83beddaed8b77df3aec09cedfb373ee7cc9a450a1081066ebb",
+      "items": []
+    },
+    {
+      "icon_id": 30120101,
+      "file": "30120101.png",
+      "url": "./public/assets/recovered/item-icons/30120101.png",
+      "logical": "ui/icon/itemicon_0/30120101",
+      "source_frame": "30120101.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{36,48}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{449,103},{36,48}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "bd158a7ccd8a6dd9920d70a96c3f1efb9b7f765aa92764b8a7a6fbe2e457945d",
+      "items": [
+        {
+          "item_id": 30120101,
+          "name": "เศษเลือกสัตว์เทพม่วง"
+        }
+      ]
+    },
+    {
+      "icon_id": 30120102,
+      "file": "30120102.png",
+      "url": "./public/assets/recovered/item-icons/30120102.png",
+      "logical": "ui/icon/itemicon_0/30120102",
+      "source_frame": "30120102.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{36,48}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{449,153},{36,48}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "b8351ec1fd2b4879bd46dac9b5075dfed16c74a9e6c2c0b930696062af5ca93b",
+      "items": [
+        {
+          "item_id": 30120102,
+          "name": "เศษเลือกสัตว์เทพส้ม"
+        }
+      ]
+    },
+    {
+      "icon_id": 32,
+      "file": "32.png",
+      "url": "./public/assets/recovered/item-icons/32.png",
+      "logical": "ui/icon/itemicon_0/32",
+      "source_frame": "32.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{42,40}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{353,455},{42,40}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "8a995344255a1424c3e779db9dede9569ea39c189b0c2aa3a7aa1cc5b8f8ed00",
+      "items": [
+        {
+          "item_id": 32,
+          "name": "ทองประกาย"
+        }
+      ]
+    },
+    {
+      "icon_id": 33,
+      "file": "33.png",
+      "url": "./public/assets/recovered/item-icons/33.png",
+      "logical": "ui/icon/itemicon_0/33",
+      "source_frame": "33.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{42,40}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{391,629},{42,40}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "9a6a9fd30f9e0e94e762ba0c1d9e2f5b4f6d42cf66348c6cdec8b15cf615f509",
+      "items": [
+        {
+          "item_id": 33,
+          "name": "เงินประกาย"
+        }
+      ]
+    },
+    {
+      "icon_id": 34,
+      "file": "34.png",
+      "url": "./public/assets/recovered/item-icons/34.png",
+      "logical": "ui/icon/itemicon_0/34",
+      "source_frame": "34.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{42,40}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{311,713},{42,40}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "2ddd8a8a58e527f1a526c07cc1e96e775b7efd52d909ca84ffbedd525e66448d",
+      "items": [
+        {
+          "item_id": 34,
+          "name": "ทองแดงประกาย"
+        }
+      ]
+    },
+    {
+      "icon_id": 35,
+      "file": "35.png",
+      "url": "./public/assets/recovered/item-icons/35.png",
+      "logical": "ui/icon/itemicon_0/35",
+      "source_frame": "35.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{46,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{97,141},{46,46}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "766bb8d99e32cf0e2f24f40d8ea8c26be77707e0abe0660e509d18328fc08abb",
+      "items": [
+        {
+          "item_id": 35,
+          "name": "SP"
+        }
+      ]
+    },
+    {
+      "icon_id": 36,
+      "file": "36.png",
+      "url": "./public/assets/recovered/item-icons/36.png",
+      "logical": "ui/icon/itemicon_0/36",
+      "source_frame": "36.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{40,40}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{437,409},{40,40}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "5167563d259e738d3b918cb8e563ecfd90985f582fe6a0ecf1e7482094283c84",
+      "items": [
+        {
+          "item_id": 36,
+          "name": "เหรียญท้องนภา"
+        }
+      ]
+    },
+    {
+      "icon_id": 37,
+      "file": "37.png",
+      "url": "./public/assets/recovered/item-icons/37.png",
+      "logical": "ui/icon/itemicon_0/37",
+      "source_frame": "37.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,-2}",
+        "spriteSize": "{36,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{225,451},{36,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "0ef311303d71abede64f36c07638a47afbfcbb0454acd87ef6cc9261f0aa6d24",
+      "items": [
+        {
+          "item_id": 37,
+          "name": "กฎฟ้ารวมพลัง"
+        }
+      ]
+    },
+    {
+      "icon_id": 38,
+      "file": "38.png",
+      "url": "./public/assets/recovered/item-icons/38.png",
+      "logical": "ui/icon/itemicon_0/38",
+      "source_frame": "38.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{36,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{181,725},{36,42}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "1857e4ffd2845a78fa6aefef8d1ea1e15763d3a4e2355e4fccc7801bf43ad323",
+      "items": [
+        {
+          "item_id": 38,
+          "name": "ผลึกดั้งเดิมทัพทหาร"
+        }
+      ]
+    },
+    {
+      "icon_id": 39,
+      "file": "39.png",
+      "url": "./public/assets/recovered/item-icons/39.png",
+      "logical": "ui/icon/itemicon_0/39",
+      "source_frame": "39.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,1}",
+        "spriteSize": "{42,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{303,629},{42,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "e3a34d5972cdf14db4b8f3aae90df1830e7303fb81a7e00b66abbc4b4d2d86df",
+      "items": [
+        {
+          "item_id": 39,
+          "name": "เหรียญชิงสมบัติ"
+        }
+      ]
+    },
+    {
+      "icon_id": 4,
+      "file": "4.png",
+      "url": "./public/assets/recovered/item-icons/4.png",
+      "logical": "ui/icon/itemicon_0/4",
+      "source_frame": "4.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,-1}",
+        "spriteSize": "{44,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{307,365},{44,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "406a5b8a43670f4ab2c0fda6d4a1f5a89f365dc686b4f1a6de508d7e15e25414",
+      "items": [
+        {
+          "item_id": 4,
+          "name": "ประสบการณ์"
+        }
+      ]
+    },
+    {
+      "icon_id": 40,
+      "file": "40.png",
+      "url": "./public/assets/recovered/item-icons/40.png",
+      "logical": "ui/icon/itemicon_0/40",
+      "source_frame": "40.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,48}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{1,559},{44,48}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "f64e488f715de7b2c24bb676b2e6de380c005c0ea984c656bc9c1af6c01d9e3e",
+      "items": [
+        {
+          "item_id": 40,
+          "name": "แก่นดารา"
+        }
+      ]
+    },
+    {
+      "icon_id": 41,
+      "file": "41.png",
+      "url": "./public/assets/recovered/item-icons/41.png",
+      "logical": "ui/icon/itemicon_0/41",
+      "source_frame": "41.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{40,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{225,587},{40,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "0005b4d4d5f8598dab78b7a204674c441a2b2cfc808339059e38df7298563423",
+      "items": [
+        {
+          "item_id": 41,
+          "name": "แร่ชาด"
+        }
+      ]
+    },
+    {
+      "icon_id": 5,
+      "file": "5.png",
+      "url": "./public/assets/recovered/item-icons/5.png",
+      "logical": "ui/icon/itemicon_0/5",
+      "source_frame": "5.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{1,0}",
+        "spriteSize": "{48,38}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{171,237},{48,38}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "1e8892ba89f1b6d3b7dae49c78996f4275db972e86ed1571d453021a485f5b15",
+      "items": [
+        {
+          "item_id": 5,
+          "name": "ค่าท่องยุทธจักร"
+        }
+      ]
+    },
+    {
+      "icon_id": 6,
+      "file": "6.png",
+      "url": "./public/assets/recovered/item-icons/6.png",
+      "logical": "ui/icon/itemicon_0/6",
+      "source_frame": "6.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{1,2}",
+        "spriteSize": "{36,46}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{169,277},{36,46}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "7d585d185ca97300a282b64f332488596fad138ee4385e1b2512e15a6c20f160",
+      "items": [
+        {
+          "item_id": 6,
+          "name": "ญาณกล้าขุนพล"
+        }
+      ]
+    },
+    {
+      "icon_id": 7,
+      "file": "7.png",
+      "url": "./public/assets/recovered/item-icons/7.png",
+      "logical": "ui/icon/itemicon_0/7",
+      "source_frame": "7.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{40,40}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{439,451},{40,40}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "053f2a953955561784258c66a397d46a107761a9d88ecd007362e11f54ec2c50",
+      "items": [
+        {
+          "item_id": 7,
+          "name": "แต้มมิตรภาพ"
+        }
+      ]
+    },
+    {
+      "icon_id": 8,
+      "file": "8.png",
+      "url": "./public/assets/recovered/item-icons/8.png",
+      "logical": "ui/icon/itemicon_0/8",
+      "source_frame": "8.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{-1,1}",
+        "spriteSize": "{40,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{443,287},{40,42}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "e1265c188c8817d27092e1d7eccfdcbaadb160fb14405c8ee40dbd8454b64004",
+      "items": [
+        {
+          "item_id": 8,
+          "name": "ชื่อเสียงรับสมัคร"
+        }
+      ]
+    },
+    {
+      "icon_id": 80110100,
+      "file": "80110100.png",
+      "url": "./public/assets/recovered/item-icons/80110100.png",
+      "logical": "ui/icon/itemicon_0/80110100",
+      "source_frame": "80110100.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{42,40}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{391,711},{42,40}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "2939d1d0fc97ee2a078a936e2a1dfc419c6b6cc8f19639afe0aa0d7788169652",
+      "items": []
+    },
+    {
+      "icon_id": 80110200,
+      "file": "80110200.png",
+      "url": "./public/assets/recovered/item-icons/80110200.png",
+      "logical": "ui/icon/itemicon_0/80110200",
+      "source_frame": "80110200.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{42,40}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{391,711},{42,40}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "2939d1d0fc97ee2a078a936e2a1dfc419c6b6cc8f19639afe0aa0d7788169652",
+      "items": [
+        {
+          "item_id": 80110100,
+          "name": "โอกาสเผชิญโลก"
+        },
+        {
+          "item_id": 80110200,
+          "name": "โอกาสเผชิญโลก"
+        }
+      ]
+    },
+    {
+      "icon_id": 80210900,
+      "file": "80210900.png",
+      "url": "./public/assets/recovered/item-icons/80210900.png",
+      "logical": "ui/icon/itemicon_0/80210900",
+      "source_frame": "80210900.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,1}",
+        "spriteSize": "{88,94}",
+        "spriteSourceSize": "{130,134}",
+        "textureRect": "{{1,1},{88,94}}",
+        "textureRotated": false
+      },
+      "size": [
+        130,
+        134
+      ],
+      "sha256": "11ddc850a0f4fe9ea962b4d1b70f9725c05da42b8bae7938928620586cf34579",
+      "items": [
+        {
+          "item_id": 80210900,
+          "name": "คะแนนของเก่า"
+        }
+      ]
+    },
+    {
+      "icon_id": 80211000,
+      "file": "80211000.png",
+      "url": "./public/assets/recovered/item-icons/80211000.png",
+      "logical": "ui/icon/itemicon_0/80211000",
+      "source_frame": "80211000.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{44,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{307,411},{44,44}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "298ab162aea14952488f2dea8acb96803db6c194b46fc9badafc94f654222f5a",
+      "items": [
+        {
+          "item_id": 80211000,
+          "name": "คะแนนเงาลวง"
+        }
+      ]
+    },
+    {
+      "icon_id": 80211200,
+      "file": "80211200.png",
+      "url": "./public/assets/recovered/item-icons/80211200.png",
+      "logical": "ui/icon/itemicon_0/80211200",
+      "source_frame": "80211200.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{42,44}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{275,497},{42,44}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "888552a6b1d51701d04730f516cb2a72236949fe9e043c972042bd3569a11ebc",
+      "items": [
+        {
+          "item_id": 80211200,
+          "name": "คะแนนพรชะตา"
+        }
+      ]
+    },
+    {
+      "icon_id": 80211300,
+      "file": "80211300.png",
+      "url": "./public/assets/recovered/item-icons/80211300.png",
+      "logical": "ui/icon/itemicon_0/80211300",
+      "source_frame": "80211300.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,1}",
+        "spriteSize": "{42,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{347,629},{42,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "c20ef177e7f5ca2b8fa6c981e5575142d250d646b380864fc6dccbc529650823",
+      "items": [
+        {
+          "item_id": 80211300,
+          "name": "คะแนนทัพทหาร"
+        }
+      ]
+    },
+    {
+      "icon_id": 80310100,
+      "file": "80310100.png",
+      "url": "./public/assets/recovered/item-icons/80310100.png",
+      "logical": "ui/icon/itemicon_0/80310100",
+      "source_frame": "80310100.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,-1}",
+        "spriteSize": "{44,32}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{321,497},{44,32}}",
+        "textureRotated": true
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "4c6b9b79739054662fd5bd3ce6c530881a398d27d97c0e5d4d2dcf67a27ed61c",
+      "items": []
+    },
+    {
+      "icon_id": 9999995,
+      "file": "9999995.png",
+      "url": "./public/assets/recovered/item-icons/9999995.png",
+      "logical": "ui/icon/itemicon_0/9999995",
+      "source_frame": "9999995.png",
+      "frame": {
+        "aliases": [],
+        "spriteOffset": "{0,0}",
+        "spriteSize": "{50,42}",
+        "spriteSourceSize": "{50,50}",
+        "textureRect": "{{397,1},{50,42}}",
+        "textureRotated": false
+      },
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "12888f73994c5601d1f4cea6be7b6d70695c91ab2689369a22e3884535f019d7",
+      "items": [
+        {
+          "item_id": 9999995,
+          "name": "คูปอง"
+        }
+      ]
+    }
+  ]
+}

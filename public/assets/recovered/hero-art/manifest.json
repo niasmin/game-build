@@ -1,0 +1,786 @@
+{
+  "source_apk_sha256": "084f08627db63bb34a8b17408c9784f0af4158dc524694091994281a95d75732",
+  "method": "Original hrcard textures decoded from ASTC; original patingid source-path mapping checked separately, no substitute painting claim.",
+  "count": 74,
+  "paintings_mapped": 0,
+  "cards_available": 4,
+  "heroes": [
+    {
+      "hero_id": "105010",
+      "name": "เตียวเลี้ยว",
+      "patingid": "105010101",
+      "painting_logical": "eff/hr_sp/105010/105010101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/105010",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "105020",
+      "name": "กุยแก",
+      "patingid": "105020101",
+      "painting_logical": "eff/hr_sp/105020/105020101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/105020",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "105030",
+      "name": "สุมาอี้",
+      "patingid": "105030101",
+      "painting_logical": "eff/hr_sp/105030/105030101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/105030",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "104010",
+      "name": "โจโฉ",
+      "patingid": "104010101",
+      "painting_logical": "eff/hr_sp/104010/104010101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/104010",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "104020",
+      "name": "เอียนสี",
+      "patingid": "104020101",
+      "painting_logical": "eff/hr_sp/104020/104020101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/104020",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "104030",
+      "name": "เตียนอุย",
+      "patingid": "104030101",
+      "painting_logical": "eff/hr_sp/104030/104030101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/104030",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "104040",
+      "name": "ซัวเอี๋ยม",
+      "patingid": "104040101",
+      "painting_logical": "eff/hr_sp/104040/104040101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/104040",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "104050",
+      "name": "แฮหัวตุ้น",
+      "patingid": "104050101",
+      "painting_logical": "eff/hr_sp/104050/104050101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/104050",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "103010",
+      "name": "เคาทู",
+      "patingid": "103010101",
+      "painting_logical": "eff/hr_sp/103010/103010101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/103010",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "103020",
+      "name": "โจหยิน",
+      "patingid": "103020101",
+      "painting_logical": "eff/hr_sp/103020/103020101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/103020",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "102010",
+      "name": "ซิหลง",
+      "patingid": "102010101",
+      "painting_logical": "eff/hr_sp/102010/102010101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/102010",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "102020",
+      "name": "อิกิ๋ม",
+      "patingid": "102020101",
+      "painting_logical": "eff/hr_sp/102020/102020101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/102020",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "101010",
+      "name": "งักจิ้น",
+      "patingid": "101010101",
+      "painting_logical": "eff/hr_sp/101010/101010101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/101010",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "205010",
+      "name": "จูล่ง",
+      "patingid": "205010101",
+      "painting_logical": "eff/hr_sp/205010/205010101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/205010",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "205020",
+      "name": "จูกัดเหลียง",
+      "patingid": "205020101",
+      "painting_logical": "eff/hr_sp/205020/205020101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/205020",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "205030",
+      "name": "กวนอู",
+      "patingid": "205030101",
+      "painting_logical": "eff/hr_sp/205030/205030101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/205030",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "204010",
+      "name": "อุยซี",
+      "patingid": "204010101",
+      "painting_logical": "eff/hr_sp/204010/204010101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/204010",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "204020",
+      "name": "กวนอิ๋นผิง",
+      "patingid": "204020101",
+      "painting_logical": "eff/hr_sp/204020/204020101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/204020",
+      "card_mapping_present": true,
+      "card_native_present": true,
+      "url": "./public/assets/recovered/hero-art/204020.png",
+      "file": "204020.png",
+      "size": [
+        166,
+        274
+      ],
+      "source_texture": "native/e8/e88c379d-ffff-4c4e-8f2d-abb71074bc1d.astc",
+      "source_sha256": "b4614c1501224746b8005de32401752182a85d10b37b9cbf2ffb927938489c9a",
+      "png_sha256": "f67a36679c7401b95e6d44e64879fb0543cf2396dd13c954de52e695ea891c8e"
+    },
+    {
+      "hero_id": "204030",
+      "name": "เตียวหุย",
+      "patingid": "204030101",
+      "painting_logical": "eff/hr_sp/204030/204030101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/204030",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "204040",
+      "name": "ม้าเฉียว",
+      "patingid": "204040101",
+      "painting_logical": "eff/hr_sp/204040/204040101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/204040",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "204050",
+      "name": "เล่าปี่",
+      "patingid": "204050101",
+      "painting_logical": "eff/hr_sp/204050/204050101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/204050",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "203010",
+      "name": "เตียวซี",
+      "patingid": "203010101",
+      "painting_logical": "eff/hr_sp/203010/203010101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/203010",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "203020",
+      "name": "ฮองตง",
+      "patingid": "203020101",
+      "painting_logical": "eff/hr_sp/203020/203020101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/203020",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "202010",
+      "name": "เตียวหุยวัยหนุ่ม",
+      "patingid": "202010101",
+      "painting_logical": "eff/hr_sp/202010/202010101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/202010",
+      "card_mapping_present": true,
+      "card_native_present": true,
+      "url": "./public/assets/recovered/hero-art/202010.png",
+      "file": "202010.png",
+      "size": [
+        166,
+        274
+      ],
+      "source_texture": "native/e6/e6e95d51-4ce4-487b-815e-f618984df711.astc",
+      "source_sha256": "43c44553883bbccfc1047b3b558a384bb6904004cb34ad0a69121ad77de66530",
+      "png_sha256": "9240e89e0f6e36addc72158048dd14a4e4cfe79cc99e0ef907c0632435b56c64"
+    },
+    {
+      "hero_id": "202020",
+      "name": "กวนอูวัยหนุ่ม",
+      "patingid": "202020101",
+      "painting_logical": "eff/hr_sp/202020/202020101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/202020",
+      "card_mapping_present": true,
+      "card_native_present": true,
+      "url": "./public/assets/recovered/hero-art/202020.png",
+      "file": "202020.png",
+      "size": [
+        166,
+        274
+      ],
+      "source_texture": "native/4c/4ccfb7f9-1f61-49e4-9b82-43143be8405b.astc",
+      "source_sha256": "a15b3084c44fcbe29019a38ee8b697deca8202d896e70f49040df675f5f32c26",
+      "png_sha256": "a375dbba76f11c36e4295f795adb02e243408738fb07d1eacb09e54ecfeba8b3"
+    },
+    {
+      "hero_id": "201010",
+      "name": "เล่าปี่วัยหนุ่ม",
+      "patingid": "201010101",
+      "painting_logical": "eff/hr_sp/201010/201010101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/201010",
+      "card_mapping_present": true,
+      "card_native_present": true,
+      "url": "./public/assets/recovered/hero-art/201010.png",
+      "file": "201010.png",
+      "size": [
+        166,
+        274
+      ],
+      "source_texture": "native/83/83393cdc-5ede-48bd-9f00-fd67e6869304.astc",
+      "source_sha256": "e3cdc0574240146f324152994624ff60fdc40a49e3f76f2610b5a5de58d54c95",
+      "png_sha256": "8f472282fa9d9d27a1d4e86c2deef0f05d7b6aa7385c225202075088f5e244d9"
+    },
+    {
+      "hero_id": "305010",
+      "name": "ซุนเซ็ก",
+      "patingid": "305010101",
+      "painting_logical": "eff/hr_sp/305010/305010101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/305010",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "305020",
+      "name": "จิวยี่",
+      "patingid": "305020101",
+      "painting_logical": "eff/hr_sp/305020/305020101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/305020",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "305030",
+      "name": "เสี่ยวเกี้ยว",
+      "patingid": "305030101",
+      "painting_logical": "eff/hr_sp/305030/305030101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/305030",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "304010",
+      "name": "ซุนซ่างเซียง",
+      "patingid": "304010101",
+      "painting_logical": "eff/hr_sp/304010/304010101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/304010",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "304020",
+      "name": "ไต้เกี้ยว",
+      "patingid": "304020101",
+      "painting_logical": "eff/hr_sp/304020/304020101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/304020",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "304030",
+      "name": "ไทสูจู้",
+      "patingid": "304030101",
+      "painting_logical": "eff/hr_sp/304030/304030101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/304030",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "304040",
+      "name": "ซุนกวน",
+      "patingid": "304040101",
+      "painting_logical": "eff/hr_sp/304040/304040101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/304040",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "304050",
+      "name": "ลกซุน",
+      "patingid": "304050101",
+      "painting_logical": "eff/hr_sp/304050/304050101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/304050",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "303010",
+      "name": "ลิบอง",
+      "patingid": "303010101",
+      "painting_logical": "eff/hr_sp/303010/303010101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/303010",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "303020",
+      "name": "กำเหลง",
+      "patingid": "303020101",
+      "painting_logical": "eff/hr_sp/303020/303020101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/303020",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "302010",
+      "name": "ซุนเกี๋ยน",
+      "patingid": "302010101",
+      "painting_logical": "eff/hr_sp/302010/302010101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/302010",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "302020",
+      "name": "อุยกาย",
+      "patingid": "302020101",
+      "painting_logical": "eff/hr_sp/302020/302020101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/302020",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "301010",
+      "name": "จิวท่าย",
+      "patingid": "301010101",
+      "painting_logical": "eff/hr_sp/301010/301010101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/301010",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "405010",
+      "name": "ลิโป้",
+      "patingid": "405010101",
+      "painting_logical": "eff/hr_sp/405010/405010101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/405010",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "405020",
+      "name": "อ้วนเสี้ยว",
+      "patingid": "405020101",
+      "painting_logical": "eff/hr_sp/405020/405020101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/405020",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "405030",
+      "name": "ตั๋งโต๊ะ",
+      "patingid": "405030101",
+      "painting_logical": "eff/hr_sp/405030/405030101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/405030",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "404010",
+      "name": "เตียวเสี้ยน",
+      "patingid": "404010101",
+      "painting_logical": "eff/hr_sp/404010/404010101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/404010",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "404020",
+      "name": "ลิหลิงฉี",
+      "patingid": "404020101",
+      "painting_logical": "eff/hr_sp/404020/404020101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/404020",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "404030",
+      "name": "ฮัวโต๋",
+      "patingid": "404030101",
+      "painting_logical": "eff/hr_sp/404030/404030101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/404030",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "404040",
+      "name": "จกหยง",
+      "patingid": "404040101",
+      "painting_logical": "eff/hr_sp/404040/404040101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/404040",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "404050",
+      "name": "กาเซี่ยง",
+      "patingid": "404050101",
+      "painting_logical": "eff/hr_sp/404050/404050101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/404050",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "403010",
+      "name": "งันเหลียง",
+      "patingid": "403010101",
+      "painting_logical": "eff/hr_sp/403010/403010101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/403010",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "403020",
+      "name": "บุนทิว",
+      "patingid": "403020101",
+      "painting_logical": "eff/hr_sp/403020/403020101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/403020",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "402010",
+      "name": "เบ้งเฮ็ก",
+      "patingid": "402010101",
+      "painting_logical": "eff/hr_sp/402010/402010101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/402010",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "402020",
+      "name": "เตียวก๊ก",
+      "patingid": "402020101",
+      "painting_logical": "eff/hr_sp/402020/402020101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/402020",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "401010",
+      "name": "ตั๋งไป่",
+      "patingid": "401010101",
+      "painting_logical": "eff/hr_sp/401010/401010101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/401010",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "505010",
+      "name": "เทพ·จูกัดเหลียง",
+      "patingid": "505010101",
+      "painting_logical": "eff/hr_sp/505010/505010101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/505010",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "505020",
+      "name": "มาร·สุมาอี้",
+      "patingid": "505020101",
+      "painting_logical": "eff/hr_sp/505020/505020101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/505020",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "505050",
+      "name": "เทพ·เสียวเกี้ยว",
+      "patingid": "505050101",
+      "painting_logical": "eff/hr_sp/505050/505050101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/505050",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "505040",
+      "name": "มาร·ลิโป้",
+      "patingid": "505040101",
+      "painting_logical": "eff/hr_sp/505040/505040101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/505040",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "505060",
+      "name": "มาร·จิวยี่",
+      "patingid": "505060101",
+      "painting_logical": "eff/hr_sp/505060/505060101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/505060",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "505030",
+      "name": "เทพ·เตียวเสี้ยน",
+      "patingid": "505030101",
+      "painting_logical": "eff/hr_sp/505030/505030101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/505030",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "505070",
+      "name": "เทพ·กวนอู",
+      "patingid": "505070101",
+      "painting_logical": "eff/hr_sp/505070/505070101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/505070",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "505080",
+      "name": "เทพ·จูล่ง",
+      "patingid": "505080101",
+      "painting_logical": "eff/hr_sp/505080/505080101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/505080",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "705010",
+      "name": "ซุนหงอคง",
+      "patingid": "705010101",
+      "painting_logical": "eff/hr_sp/705010/705010101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/705010",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "705020",
+      "name": "หยางเจี่ยน",
+      "patingid": "705020101",
+      "painting_logical": "eff/hr_sp/705020/705020101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/705020",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "705030",
+      "name": "นาจา",
+      "patingid": "705030101",
+      "painting_logical": "eff/hr_sp/705030/705030101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/705030",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "705040",
+      "name": "อ๋าวปิ่ง",
+      "patingid": "705040101",
+      "painting_logical": "eff/hr_sp/705040/705040101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/705040",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "705050",
+      "name": "มรรค·ลิโป้",
+      "patingid": "705050101",
+      "painting_logical": "eff/hr_sp/705050/705050101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/705050",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "705060",
+      "name": "ดับสูญ·เตียวเสี้ยน",
+      "patingid": "705060101",
+      "painting_logical": "eff/hr_sp/705060/705060101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/705060",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "705070",
+      "name": "เผยความชั่ว·เตียวเลี้ยว",
+      "patingid": "705070101",
+      "painting_logical": "eff/hr_sp/705070/705070101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/705070",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "705080",
+      "name": "การุณย์·กุยแก",
+      "patingid": "705080101",
+      "painting_logical": "eff/hr_sp/705080/705080101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/705080",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "805010",
+      "name": "ธุลีมอด·ซุนเซ็ก",
+      "patingid": "805010101",
+      "painting_logical": "eff/hr_sp/805010/805010101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/805010",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "805020",
+      "name": "ตรึงนิรันดร์·ไต้เกี้ยว",
+      "patingid": "805020101",
+      "painting_logical": "eff/hr_sp/805020/805020101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/805020",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "805030",
+      "name": "รัศมีดารา·บังทอง",
+      "patingid": "805030101",
+      "painting_logical": "eff/hr_sp/805030/805030101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/805030",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "805040",
+      "name": "โชติช่วง·เล่าปี่",
+      "patingid": "805040101",
+      "painting_logical": "eff/hr_sp/805040/805040101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/805040",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "805050",
+      "name": "เหวเย็น·โจผี",
+      "patingid": "805050101",
+      "painting_logical": "eff/hr_sp/805050/805050101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/805050",
+      "card_mapping_present": true,
+      "card_native_present": false
+    },
+    {
+      "hero_id": "805060",
+      "name": "กระเพื่อมใส·เอียนสี",
+      "patingid": "805060101",
+      "painting_logical": "eff/hr_sp/805060/805060101",
+      "painting_mapping_present": false,
+      "card_logical": "hrcard/805060",
+      "card_mapping_present": true,
+      "card_native_present": false
+    }
+  ],
+  "search_scope": "All APK assets/assets native bundles scanned by exact hrcard ImageAsset UUID.4native card images available,70missing. All74patingid logical paths absent from original exresdir config."
+}
