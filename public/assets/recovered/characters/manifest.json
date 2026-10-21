@@ -1,0 +1,276 @@
+{
+  "source_apk_sha256": "084f08627db63bb34a8b17408c9784f0af4158dc524694091994281a95d75732",
+  "method": "Original Spine binary copied unchanged, atlas copied from serialized Cocos SkeletonData, ASTC texture decoded to PNG.",
+  "characters": [
+    {
+      "hero_id": "201010",
+      "model_id": "201010001",
+      "source_logical": "eff/hr_sp/201010/201010001",
+      "spine_version": "3.8.84",
+      "skeleton_hash": "kSr3pWeijU4AMll0oG1bylqvoSw",
+      "texture_names": [
+        "201010001.png"
+      ],
+      "base_url": "./public/assets/recovered/characters/201010001/",
+      "skeleton": "skeleton.skel",
+      "atlas": "character.atlas",
+      "image": "201010001.png",
+      "image_size": [
+        942,
+        584
+      ],
+      "source_skeleton": "native/1f/1f2ebc2a-ee58-4381-89c1-4340b7a2832a.bin",
+      "source_skeleton_sha256": "37660671f5b6f340f045d26f0779e99c763f6902bee75db6b1d636833e420555",
+      "source_import": "import/1f/1f2ebc2a-ee58-4381-89c1-4340b7a2832a.json",
+      "source_texture": "native/13/13ea6511-e04c-4280-adf8-d092f356bc98.astc",
+      "source_texture_sha256": "380bbc0fbbb1d5da6f7c0b4eff3740c293fcb1b7a4b218764638123b51774022",
+      "files": [
+        {
+          "name": "skeleton.skel",
+          "sha256": "37660671f5b6f340f045d26f0779e99c763f6902bee75db6b1d636833e420555",
+          "bytes": 276336
+        },
+        {
+          "name": "character.atlas",
+          "sha256": "ab02e7f7ed5466e9b88fc9c6f5837512b0022097149820965245d068038277ee",
+          "bytes": 7192
+        },
+        {
+          "name": "201010001.png",
+          "sha256": "86bf28191972574f19016844edafb35da8f6fcd7dc5bb6f5f01769b223a8200a",
+          "bytes": 376432
+        }
+      ],
+      "animations": [
+        {
+          "name": "jatk1",
+          "duration": 1.600000023841858
+        },
+        {
+          "name": "jatk2",
+          "duration": 1
+        },
+        {
+          "name": "jdead",
+          "duration": 0.6000000238418579
+        },
+        {
+          "name": "jdie",
+          "duration": 0.3333333432674408
+        },
+        {
+          "name": "jfly",
+          "duration": 0.3333333432674408
+        },
+        {
+          "name": "jflydw",
+          "duration": 0.3333333432674408
+        },
+        {
+          "name": "jgetup",
+          "duration": 0.6666666865348816
+        },
+        {
+          "name": "jhit",
+          "duration": 0.5
+        },
+        {
+          "name": "jidle",
+          "duration": 2
+        },
+        {
+          "name": "jrun",
+          "duration": 0.800000011920929
+        },
+        {
+          "name": "jsk1",
+          "duration": 2.4000000953674316
+        }
+      ],
+      "bones": 111,
+      "skins": [
+        "default"
+      ]
+    },
+    {
+      "hero_id": "202020",
+      "model_id": "202020001",
+      "source_logical": "eff/hr_sp/202020/202020001",
+      "spine_version": "3.8.84",
+      "skeleton_hash": "QKNFIJR8jnsjLK60a/lbbtrdLIs",
+      "texture_names": [
+        "202020001.png"
+      ],
+      "base_url": "./public/assets/recovered/characters/202020001/",
+      "skeleton": "skeleton.skel",
+      "atlas": "character.atlas",
+      "image": "202020001.png",
+      "image_size": [
+        1008,
+        602
+      ],
+      "source_skeleton": "native/ef/efbf1fda-3855-4674-9400-57a602cdd94b.bin",
+      "source_skeleton_sha256": "1f12ee86f1f2f6cc167ba43e1c458e4b98bb7fd9d24950f1703423e83a56d826",
+      "source_import": "import/ef/efbf1fda-3855-4674-9400-57a602cdd94b.json",
+      "source_texture": "native/02/0289316e-7df7-48e7-bd72-bfa41dbd998a.astc",
+      "source_texture_sha256": "705981c9b1eb4fb869269ec4e14800fe8323b0df8205e2659d2a50eb75a0e4e0",
+      "files": [
+        {
+          "name": "skeleton.skel",
+          "sha256": "1f12ee86f1f2f6cc167ba43e1c458e4b98bb7fd9d24950f1703423e83a56d826",
+          "bytes": 355763
+        },
+        {
+          "name": "character.atlas",
+          "sha256": "28cf8c9696b15f31cfb23bbda13a9058722c34213360a89a408c85590b3c7ab5",
+          "bytes": 5845
+        },
+        {
+          "name": "202020001.png",
+          "sha256": "26b91d99682436a9954e486e5369c4c95b0f2b4dfeecb950561e11b08aebf52c",
+          "bytes": 414686
+        }
+      ],
+      "animations": [
+        {
+          "name": "jatk1",
+          "duration": 1.8333333730697632
+        },
+        {
+          "name": "jatk2",
+          "duration": 1.1666666269302368
+        },
+        {
+          "name": "jdead",
+          "duration": 0.6000000238418579
+        },
+        {
+          "name": "jdie",
+          "duration": 0.3333333432674408
+        },
+        {
+          "name": "jfly",
+          "duration": 0.3333333432674408
+        },
+        {
+          "name": "jflydw",
+          "duration": 0.3333333432674408
+        },
+        {
+          "name": "jgetup",
+          "duration": 0.6666666865348816
+        },
+        {
+          "name": "jhit",
+          "duration": 0.5
+        },
+        {
+          "name": "jidle",
+          "duration": 2
+        },
+        {
+          "name": "jrun",
+          "duration": 0.800000011920929
+        },
+        {
+          "name": "jsk1",
+          "duration": 2.366666555404663
+        }
+      ],
+      "bones": 90,
+      "skins": [
+        "default"
+      ]
+    },
+    {
+      "hero_id": "202010",
+      "model_id": "202010001",
+      "source_logical": "eff/hr_sp/202010/202010001",
+      "spine_version": "3.8.84",
+      "skeleton_hash": "xOTqrDts/kspZfhc0Qy2bOzDe6A",
+      "texture_names": [
+        "202010001.png"
+      ],
+      "base_url": "./public/assets/recovered/characters/202010001/",
+      "skeleton": "skeleton.skel",
+      "atlas": "character.atlas",
+      "image": "202010001.png",
+      "image_size": [
+        992,
+        474
+      ],
+      "source_skeleton": "native/0e/0ef5735b-db8d-4dba-a0d2-f84505c27d14.bin",
+      "source_skeleton_sha256": "f9c8a1a869c9fba212b294f34a1b712069e44add708ca3e503ba366a0d6db339",
+      "source_import": "import/0e/0ef5735b-db8d-4dba-a0d2-f84505c27d14.json",
+      "source_texture": "native/16/1683d970-9d29-42e6-9a8c-3ecd8e2e714d.astc",
+      "source_texture_sha256": "508f46248dce1869204c7a4bddb8ded6647c9b33f007d5dfd57d1f941cc0a83f",
+      "files": [
+        {
+          "name": "skeleton.skel",
+          "sha256": "f9c8a1a869c9fba212b294f34a1b712069e44add708ca3e503ba366a0d6db339",
+          "bytes": 304186
+        },
+        {
+          "name": "202010001.png",
+          "sha256": "771c37fd58575573dba4a12b717af86f4db3f06fe44dc720d0d9affe2b843c04",
+          "bytes": 354146
+        },
+        {
+          "name": "character.atlas",
+          "sha256": "cdd548cae78b5572d1106ef50fb36db5f52e2ef6f7f85f2f37342ddf2a2b40de",
+          "bytes": 5707
+        }
+      ],
+      "animations": [
+        {
+          "name": "jatk1",
+          "duration": 2.1666667461395264
+        },
+        {
+          "name": "jatk2",
+          "duration": 1
+        },
+        {
+          "name": "jdead",
+          "duration": 0.6000000238418579
+        },
+        {
+          "name": "jdie",
+          "duration": 0.3333333432674408
+        },
+        {
+          "name": "jfly",
+          "duration": 0.3333333432674408
+        },
+        {
+          "name": "jflydw",
+          "duration": 0.3333333432674408
+        },
+        {
+          "name": "jgetup",
+          "duration": 0.6666666865348816
+        },
+        {
+          "name": "jhit",
+          "duration": 0.5
+        },
+        {
+          "name": "jidle",
+          "duration": 2
+        },
+        {
+          "name": "jrun",
+          "duration": 0.800000011920929
+        },
+        {
+          "name": "jsk1",
+          "duration": 2.5
+        }
+      ],
+      "bones": 61,
+      "skins": [
+        "default"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5266 @@
+{
+  "evidence": {
+    "source_table": "a243f874-e7b8-467a-83a5-fa24ebbb663e.bin"
+  },
+  "skills": {
+    "1": {
+      "1010101": {
+        "name": "สู้แกร่ง",
+        "type": 1,
+        "sminfo": "2;2;6000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 1010101,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-160;0",
+        "fall": "",
+        "load": ""
+      },
+      "1010102": {
+        "name": "ผู้นำองอาจ",
+        "type": 2,
+        "sminfo": "2;3;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 1010102,
+        "desc": "<color=#a37d5f>โจมตี<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>350%</color></color>",
+        "mvpm": "3;-160;0",
+        "fall": "",
+        "load": ""
+      },
+      "1020101": {
+        "name": "วิญญาณร้าย",
+        "type": 1,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 1020101,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-160;0",
+        "fall": "",
+        "load": ""
+      },
+      "1020102": {
+        "name": "ต่อสู้ร้อยศึก",
+        "type": 2,
+        "sminfo": "2;4;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 1020102,
+        "desc": "<color=#a37d5f>โจมตี<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>350%</color></color>",
+        "mvpm": "3;-160;0",
+        "fall": "",
+        "load": ""
+      },
+      "1020201": {
+        "name": "ฟันโหด",
+        "type": 1,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 1020201,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-160;0",
+        "fall": "",
+        "load": ""
+      },
+      "1020202": {
+        "name": "ขวานโทสะวายุคลั่ง",
+        "type": 2,
+        "sminfo": "2;5;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 1020202,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แนวตั้ง</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>195%</color></color>",
+        "mvpm": "4;-160;0",
+        "fall": "",
+        "load": ""
+      },
+      "1030101": {
+        "name": "ค้อนทำลาย",
+        "type": 1,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 1030101,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-100;0",
+        "fall": "",
+        "load": ""
+      },
+      "1030102": {
+        "name": "สิงห์คลั่งสะท้าน",
+        "type": 2,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 1030102,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แถวหน้า</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>130%</color> และเพิ่มโทสะให้ตัวเอง <color=#b94b4b>1 จุด</color></color>",
+        "mvpm": "5;-100;0",
+        "fall": "",
+        "load": ""
+      },
+      "1030201": {
+        "name": "โล่แหลม",
+        "type": 1,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 1030201,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-120;0",
+        "fall": "",
+        "load": ""
+      },
+      "1030202": {
+        "name": "อำนาจสะท้านทัพ",
+        "type": 2,
+        "sminfo": "2;7;2000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 1030202,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แถวหน้า</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>110%</color> และมีโอกาส <color=#b94b4b>30%</color> ลด DEF ศัตรู <color=#b94b4b>15%</color> ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น</color>",
+        "mvpm": "5;-200;0",
+        "fall": "",
+        "load": ""
+      },
+      "1040101": {
+        "name": "พลังแห่งวุย",
+        "type": 1,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 1040101,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แถวหน้า</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>40%</color></color>",
+        "mvpm": "5;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "1040102": {
+        "name": "มังกรฟ้าสะเทือนโลก",
+        "type": 2,
+        "sminfo": "2;5;3500",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 1040102,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>70%</color> และมีโอกาส <color=#b94b4b>50%</color> ฟื้นฟูโทสะ <color=#b94b4b>1</color> จุดให้ฝ่ายเราทั้งทีม</color>",
+        "mvpm": "6;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "1040201": {
+        "name": "แม่น้ำลั่ว",
+        "type": 1,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 1040201,
+        "desc": "<color=#a37d5f>รักษายูนิตฝ่ายเราที่มี HP ต่ำที่สุด <color=#b94b4b>1</color> คน โดยฟื้นฟู HP <color=#b94b4b>90%</color> ของ ATK เอียนสี</color>",
+        "mvpm": "6;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "1040202": {
+        "name": "เสียงพิณครุ่นคิด",
+        "type": 2,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 1040202,
+        "desc": "<color=#a37d5f>รักษายูนิตฝ่ายเราที่มี HP ต่ำที่สุด <color=#b94b4b>3</color> คน โดยฟื้นฟู HP <color=#b94b4b>95%</color> ของ ATK เอียนสี และเสริม [เทพพิทักษ์] <color=#b94b4b>1</color> ชั้น ต่อเนื่อง <color=#b94b4b>1</color> เทิร์น<br/>[เทพพิทักษ์]: ครั้งต่อไปที่ได้รับสถานะผิดปกติจะล้าง [เทพพิทักษ์] 1 ชั้น คุ้มกันเอฟเฟกต์นี้</color>",
+        "mvpm": "6;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "1040301": {
+        "name": "ขวานยักษ์",
+        "type": 1,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 1040301,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แถวหน้า</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>40%</color></color>",
+        "mvpm": "5;-100;0",
+        "fall": "",
+        "load": ""
+      },
+      "1040302": {
+        "name": "ทลายข้ามภูผา",
+        "type": 2,
+        "sminfo": "2;4;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 1040302,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>70%</color> จากนั้นตัวเองเข้าสู่สถานะ [อ่อนแอ] ต่อเนื่อง <color=#b94b4b>1</color> เทิร์น หากก่อนปล่อยสกิลโทสะไม่ต่ำกว่า <color=#b94b4b>4</color> จุด และชำระล้างสถานะผิดปกติทั้งหมดของตัวเอง<br/>[อ่อนแอ]: ดาเมจที่ได้รับเพิ่ม <color=#b94b4b>20%</color> คุ้มกันและชำระล้างไม่ได้</color>",
+        "mvpm": "2;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "1040401": {
+        "name": "เสียงขลุ่ย",
+        "type": 1,
+        "sminfo": "2;6;2000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 1040401,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-150;0",
+        "fall": "",
+        "load": ""
+      },
+      "1040402": {
+        "name": "แตกหักใจระทม",
+        "type": 2,
+        "sminfo": "2;5;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 1040402,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แถวหน้า</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>50%</color> และให้โล่ <color=#b94b4b>120%</color> ของ ATK ซัวเอี๋ยมกับขุนพลฝ่ายเราทั้งทีม ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น</color>",
+        "mvpm": "6;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "1040501": {
+        "name": "โกรธแค้น",
+        "type": 1,
+        "sminfo": "2;4;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 1040501,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แนวตั้ง</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>60%</color></color>",
+        "mvpm": "4;-100;0",
+        "fall": "",
+        "load": ""
+      },
+      "1040502": {
+        "name": "ล้มล้างความกล้า",
+        "type": 2,
+        "sminfo": "2;6;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 1040502,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>50%</color> และได้รับ [จ้องเขม็ง] 2 ชั้น<br/>[จ้องเขม็ง]: ทุกชั้นทำให้ดาเมจที่ได้รับลดลง <color=#b94b4b>8%</color> สแต็กได้สูงสุด <color=#b94b4b>8</color> ชั้น ล้างไม่ได้</color>",
+        "mvpm": "2;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "1050101": {
+        "name": "บ้าระห่ำ",
+        "type": 1,
+        "sminfo": "2;4;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 1050101,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>30%</color></color>",
+        "mvpm": "2;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "1050102": {
+        "name": "พยัคฆ์ทำลายทัพ",
+        "type": 2,
+        "sminfo": "2;11;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 1050102,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>80%</color> หาก HP เป้าหมายต่ำกว่า <color=#b94b4b>50%</color> และเพิ่มดาเมจ <color=#b94b4b>60%</color></color>",
+        "mvpm": "2;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "1050201": {
+        "name": "ไฟลึกลับ",
+        "type": 1,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 1050201,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>30%</color></color>",
+        "mvpm": "2;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "1050202": {
+        "name": "วิญญาณร้อยกระดูก",
+        "type": 2,
+        "sminfo": "2;5;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 1050202,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>85%</color> และมีโอกาส <color=#b94b4b>60%</color>ฟื้นฟูโทสะ <color=#b94b4b>1</color> จุดให้ขุนพลฝ่ายเรา (ยกเว้นตัวเอง) ที่มี ATK สูงสุด</color>",
+        "mvpm": "6;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "1050301": {
+        "name": "ยุทธ์มืด",
+        "type": 1,
+        "sminfo": "2;2;6000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 1050301,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แถวหน้า</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>40%</color></color>",
+        "mvpm": "5;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "1050302": {
+        "name": "แผนลับทลายกลยุทธ์",
+        "type": 2,
+        "sminfo": "2;5;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 1050302,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>70%</color> ก่อนปล่อยสกิล ทุกครั้งที่โทสะตัวเองมากกว่าเป้าหมาย 1 จุด จะเพิ่มดาเมจ <color=#b94b4b>20%</color> เพิ่มสูงสุด <color=#b94b4b>80%</color></color>",
+        "mvpm": "6;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "2010101": {
+        "name": "ยวนยาง",
+        "type": 1,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 2010101,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-120;0",
+        "fall": "",
+        "load": ""
+      },
+      "2010102": {
+        "name": "ดาบมายาทรงเสน่ห์",
+        "type": 2,
+        "sminfo": "2;6;6000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 2010102,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>350%</color></color>",
+        "mvpm": "3;-350;0",
+        "fall": "",
+        "load": ""
+      },
+      "2020101": {
+        "name": "หอกทำลาย",
+        "type": 1,
+        "sminfo": "2;4;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 2020101,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-160;0",
+        "fall": "",
+        "load": ""
+      },
+      "2020102": {
+        "name": "ทลายภูเขาแยกแผ่นดิน",
+        "type": 2,
+        "sminfo": "2;5;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 2020102,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แถวหน้า</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>150%</color></color>",
+        "mvpm": "5;-100;0",
+        "fall": "",
+        "load": ""
+      },
+      "2020201": {
+        "name": "คันธนูหยก",
+        "type": 1,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 2020201,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-180;0",
+        "fall": "",
+        "load": ""
+      },
+      "2020202": {
+        "name": "ง้าวมังกรเขียว",
+        "type": 2,
+        "sminfo": "2;4;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 2020202,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>สุ่มเป้าหมาย 3 คน</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>150%</color></color>",
+        "mvpm": "2;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "2030101": {
+        "name": "อำนาจกระจาย",
+        "type": 1,
+        "sminfo": "2;6;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 2030101,
+        "desc": "<color=#a37d5f>โจมตีฝ่ายศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color> ถ้าสังหารเป้าหมายจะปล่อยการโจมตีทั่วไปได้อีกครั้ง</color>",
+        "mvpm": "3;-200;0",
+        "fall": "",
+        "load": ""
+      },
+      "2030102": {
+        "name": "โลกหมุนวน",
+        "type": 2,
+        "sminfo": "2;8;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 2030102,
+        "desc": "<color=#a37d5f>โจมตีฝ่ายศัตรู<color=#b94b4b>ที่ HP ต่ำสุด</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>270%</color> ถ้าสังหารเป้าหมายจะปล่อยการโจมตีทั่วไปได้อีกครั้ง</color>",
+        "mvpm": "3;-200;0",
+        "fall": "",
+        "load": ""
+      },
+      "2030201": {
+        "name": "ธนูแกร่ง",
+        "type": 1,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 2030201,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-250;0",
+        "fall": "",
+        "load": ""
+      },
+      "2030202": {
+        "name": "หมื่นธนูพิชิตศึก",
+        "type": 2,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 2030202,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แถวหน้า</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>140%</color> และเพิ่มอัตรา CRIT ตัวเอง <color=#b94b4b>20%</color> สแต็กไม่ได้ ต่อเนื่องจนจบการต่อสู้</color>",
+        "mvpm": "5;-150;0",
+        "fall": "",
+        "load": ""
+      },
+      "2040101": {
+        "name": "แสงรัศมี",
+        "type": 1,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 2040101,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แถวหน้า</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>40%</color></color>",
+        "mvpm": "5;-200;0",
+        "fall": "",
+        "load": ""
+      },
+      "2040102": {
+        "name": "จักรวาลสามรส",
+        "type": 2,
+        "sminfo": "2;3;5000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 2040102,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>70%</color> และมีโอกาส <color=#b94b4b>30%</color> เสริม [ใบ้] ต่อเนื่อง <color=#b94b4b>1</color> เทิร์น<br/>[ใบ้]: ปล่อยสกิลไม่ได้</color>",
+        "mvpm": "6;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "2040201": {
+        "name": "มังกรน่ารัก",
+        "type": 1,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 2040301,
+        "desc": "<color=#a37d5f>กวนอิ๋นผิงใช้การโจมตีทั่วไปไม่ได้ ทุกครั้งที่ออกเทิร์นจะเฉลี่ยเป็นการปล่อยสกิล (โทสะใดก็ตามเฉลี่ยสามารถปล่อยสกิล)</color>",
+        "mvpm": "2;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "2040202": {
+        "name": "มังกรโอฬาร",
+        "type": 2,
+        "sminfo": "2;6;2500",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 2040302,
+        "desc": "<color=#a37d5f>ปล่อยสกิลหักโทสะทั้งหมด โจมตีฝ่ายศัตรู<color=#b94b4b>ทั้งทีม</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>90%</color> ตัวเองเข้าสู่ [มึนงง] (มึนงงนี้จะล้างไม่ได้) ต่อเนื่อง 2 เทิร์น เมื่อโทสะมากกว่า 2 จุด ทุกครั้งที่โทสะเพิ่ม 1 จุดจะเพิ่มดาเมจ <color=#b94b4b>5%</color> เพิ่มสูงสุด <color=#b94b4b>20%</color></color>",
+        "mvpm": "2;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "2040301": {
+        "name": "ปล้นสะดม",
+        "type": 1,
+        "sminfo": "2;4;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 2040301,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-140;0",
+        "fall": "",
+        "load": ""
+      },
+      "2040302": {
+        "name": "ราชสีห์คำราม",
+        "type": 2,
+        "sminfo": "2;9;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 2040302,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แถวหน้า</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>110%</color> และมีโอกาส <color=#b94b4b>30%</color> เสริม [เยาะเย้ย] ต่อเนื่อง <color=#b94b4b>1</color> เทิร์น <br/>[เยาะเย้ย]: เป้าหมายที่ถูกเยาะเย้ยในเทิร์นนั้นๆ จะบังคับใช้โจมตีทั่วไปยูนิตเดี่ยวใส่เตียวหุย 1 ครั้ง</color>",
+        "mvpm": "5;-200;0",
+        "fall": "",
+        "load": ""
+      },
+      "2040401": {
+        "name": "ทวนเดี่ยว",
+        "type": 1,
+        "sminfo": "2;5;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 2040401,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-160;0",
+        "fall": "",
+        "load": ""
+      },
+      "2040402": {
+        "name": "อาชาทองฝ่าเมฆา",
+        "type": 2,
+        "sminfo": "2;8;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 2040402,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แนวตั้ง</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>170%</color> และมีโอกาส <color=#b94b4b>40%</color> ลดโทสะเป้าหมาย <color=#b94b4b>1</color> จุด</color>",
+        "mvpm": "4;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "2040501": {
+        "name": "จ๊กโหด",
+        "type": 1,
+        "sminfo": "2;3;5000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 2040501,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แถวหน้า</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>40%</color></color>",
+        "mvpm": "5;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "2040502": {
+        "name": "ธรรมประจักษ์ฟ้า",
+        "type": 2,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 2040502,
+        "desc": "<color=#a37d5f>ฟื้นฟู HP <color=#b94b4b>40%</color> ของ ATK เล่าปี่ให้ฝ่ายเรา<color=#b94b4b>ทั้งทีม</color> และเพิ่มโล่เท่ากับ <color=#b94b4b>100%</color> ของ ATK เล่าปี่และเพิ่มเลี่ยงดาเมจ <color=#b94b4b>10%</color> ต่อเนื่อง <color=#b94b4b>1</color> เทิร์น</color>",
+        "mvpm": "6;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "2050101": {
+        "name": "บุกทะลวง",
+        "type": 1,
+        "sminfo": "2;4;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 2050101,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แนวตั้ง</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>60%</color> ตัวเองได้รับ [ดีมังกร] <color=#b94b4b>1</color> ชั้น <br/>[ดีมังกร]: ATK เพิ่ม <color=#b94b4b>2.5%</color> สแต็กได้สูงสุด <color=#b94b4b>10</color> ชั้น</color>",
+        "mvpm": "4;10;0",
+        "fall": "",
+        "load": ""
+      },
+      "2050102": {
+        "name": "มังกรเงินอัสนี",
+        "type": 2,
+        "sminfo": "2;9;2000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 2050102,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แนวตั้ง</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>180%</color> หาก [ดีมังกร] ของตัวเองถึงจำนวน <color=#b94b4b>2</color> ชั้น หลังปล่อยสกิลจะได้รับเทิร์นใหม่ <color=#b94b4b>1</color> เทิร์น เมื่อจบเทิร์นใหม่จะล้างจำนวนชั้น [ดีมังกร] ทั้งหมด ทุกเทิร์นกระตุ้นสูงสุด 1 ครั้ง</color>",
+        "mvpm": "4;-120;0",
+        "fall": "",
+        "load": ""
+      },
+      "2050201": {
+        "name": "ลิขิตฟ้า",
+        "type": 1,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 2050201,
+        "desc": "<color=#a37d5f>รักษายูนิตฝ่ายเราที่มี HP ต่ำสุด <color=#b94b4b>1</color> คน โดยฟื้นฟู HP <color=#b94b4b>90%</color> ของ ATK จูกัดเหลียง</color>",
+        "mvpm": "6;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "2050202": {
+        "name": "ลมบูรพาท้าชะตา",
+        "type": 2,
+        "sminfo": "2;2;7000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 2050202,
+        "desc": "<color=#a37d5f>ฟื้นฟู HP <color=#b94b4b>60%</color> ของ ATK จูกัดเหลียงให้ฝ่ายเรา<color=#b94b4b>ทั้งทีม</color> และเพิ่ม ATK ให้ขุนพลฝ่ายเรา <color=#b94b4b>10%</color> ต่อเนื่อง <color=#b94b4b>1</color> เทิร์น</color>",
+        "mvpm": "6;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "2050301": {
+        "name": "มังกรคำราม",
+        "type": 1,
+        "sminfo": "2;4;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 2050301,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color> ตัวเองได้รับ [ยุทธ์ศักดิ์สิทธิ์] <color=#b94b4b>1</color> ชั้น หากสังหารเป้าหมายจะปล่อยการโจมตีทั่วไปอีกครั้ง<br/>[ยุทธ์ศักดิ์สิทธิ์]: ดาเมจเพิ่ม <color=#b94b4b>3%</color> สแต็กได้สูงสุด <color=#b94b4b>10</color> ชั้น</color>",
+        "mvpm": "3;-220;0",
+        "fall": "",
+        "load": ""
+      },
+      "2050302": {
+        "name": "ทางสวรรค์มังกรเทวะ",
+        "type": 2,
+        "sminfo": "2;5;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 2050302,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>290%</color> ถ้าสังหารเป้าหมายจะปล่อยการโจมตีทั่วไปได้อีกครั้ง</color>",
+        "mvpm": "3;-350;0",
+        "fall": "",
+        "load": ""
+      },
+      "3010101": {
+        "name": "เร็วแรง",
+        "type": 1,
+        "sminfo": "2;2;6000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 3010101,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-160;0",
+        "fall": "",
+        "load": ""
+      },
+      "3010102": {
+        "name": "คมดาบไม่ยอมแพ้",
+        "type": 2,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 3010102,
+        "desc": "<color=#a37d5f>โจมตี<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>350%</color></color>",
+        "mvpm": "3;-160;0",
+        "fall": "",
+        "load": ""
+      },
+      "3020101": {
+        "name": "ปราบศัตรู",
+        "type": 1,
+        "sminfo": "2;2;6000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 3020101,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-160;0",
+        "fall": "",
+        "load": ""
+      },
+      "3020102": {
+        "name": "พยัคฆ์แห่งกังตั๋ง",
+        "type": 2,
+        "sminfo": "2;4;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 3020102,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แนวตั้ง</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>195%</color></color>",
+        "mvpm": "4;-100;0",
+        "fall": "",
+        "load": ""
+      },
+      "3020201": {
+        "name": "ศึกโหด",
+        "type": 1,
+        "sminfo": "2;2;6000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 3020201,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-160;0",
+        "fall": "",
+        "load": ""
+      },
+      "3020202": {
+        "name": "คทาปวดร้าว",
+        "type": 2,
+        "sminfo": "2;5;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 3020202,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แถวหน้า</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>150%</color></color>",
+        "mvpm": "5;-160;0",
+        "fall": "",
+        "load": ""
+      },
+      "3030101": {
+        "name": "ฝึกดาบ",
+        "type": 1,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 3030101,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-120;0",
+        "fall": "",
+        "load": ""
+      },
+      "3030102": {
+        "name": "คมดาบเพลิงตัดสวรรค์",
+        "type": 2,
+        "sminfo": "2;7;2500",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 3030102,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แถวหน้า</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>110%</color> มีโอกาส <color=#b94b4b>15%</color> เสริม [แผดเผา] ให้เป้าหมาย ต่อเนื่อง <color=#b94b4b>1</color> เทิร์น<br/>[แผดเผา]: ทุกเทิร์นจะหัก HP <color=#b94b4b>15%</color> ของ ATK ผู้ที่ร่าย ดาเมจนี้จะเพิกเฉย DEF</color>",
+        "mvpm": "5;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "3030201": {
+        "name": "บุกปล้น",
+        "type": 1,
+        "sminfo": "2;3;5000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 3030201,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-140;0",
+        "fall": "",
+        "load": ""
+      },
+      "3030202": {
+        "name": "โจมตีรวดเร็ว",
+        "type": 2,
+        "sminfo": "2;3;5000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 3030202,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แนวตั้ง</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>190%</color> ถ้าเป้าหมายอยู่ในสถานะ [แผดเผา] ดาเมจครั้งนี้เพิ่ม <color=#b94b4b>50%</color></color>",
+        "mvpm": "4;-160;0",
+        "fall": "",
+        "load": ""
+      },
+      "3040101": {
+        "name": "ปีกประกาย",
+        "type": 1,
+        "sminfo": "2;5;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 3040101,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-150;0",
+        "fall": "",
+        "load": ""
+      },
+      "3040102": {
+        "name": "ปีกเปล่งแสงนภา",
+        "type": 2,
+        "sminfo": "2;8;2000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 3040102,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>85%</color> และมีโอกาส <color=#b94b4b>40%</color> สุ่มขโมยโทสะขุนพลฝ่ายศัตรู <color=#b94b4b>2</color> คน <color=#b94b4b>1</color> จุด</color>",
+        "mvpm": "2;-100;0",
+        "fall": "",
+        "load": ""
+      },
+      "3040201": {
+        "name": "ยอดพธู",
+        "type": 1,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 3040201,
+        "desc": "<color=#a37d5f>รักษายูนิตฝ่ายเราที่มี HP ต่ำที่สุด <color=#b94b4b>1</color> คน โดยฟื้นฟู HP <color=#b94b4b>90%</color> ของ ATK</color>",
+        "mvpm": "6;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "3040202": {
+        "name": "จันทราเรืองรอง",
+        "type": 2,
+        "sminfo": "2;4;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 3040202,
+        "desc": "<color=#a37d5f>รักษาฝ่ายเรา<color=#b94b4b>ทั้งทีม</color> รักษาเท่ากับ <color=#b94b4b>40%</color> ของ ATK ไต้เกี้ยว และเสริม [ฟื้นพลัง] ให้ฝ่ายเราทั้งทีม<br/>[ฟื้นพลัง]: ทุกครั้งที่เริ่มเทิร์นจะฟื้นฟูเลือด <color=#b94b4b>3%</color> ของ Max HP ไต้เกี้ยว ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น</color>",
+        "mvpm": "6;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "3040301": {
+        "name": "สะท้านสองทิศ",
+        "type": 1,
+        "sminfo": "2;4;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 3040301,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-220;0",
+        "fall": "",
+        "load": ""
+      },
+      "3040302": {
+        "name": "มุ่งมั่นเด็ดเดี่ยว",
+        "type": 2,
+        "sminfo": "2;10;2000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 3040302,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แนวตั้ง</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>160%</color> ตัวเองได้รับโล่ <color=#b94b4b>130%</color> ของ ATK ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น</color>",
+        "mvpm": "4;-100;0",
+        "fall": "",
+        "load": ""
+      },
+      "3040401": {
+        "name": "เพลิงง่อ",
+        "type": 1,
+        "sminfo": "2;4;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 3040401,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-150;0",
+        "fall": "",
+        "load": ""
+      },
+      "3040402": {
+        "name": "ดาวหางตกโลกา",
+        "type": 2,
+        "sminfo": "2;7;2500",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 3040402,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แถวหน้า</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>140%</color> มีโอกาส <color=#b94b4b>50%</color> เสริม [แผดเผา] ให้เป้าหมาย ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น<br/>[แผดเผา]: ทุกเทิร์นจะหัก HP <color=#b94b4b>15%</color> ของ ATK ผู้ที่ร่าย ดาเมจนี้เพิกเฉย DEF สแต็กได้สูงสุด 5 ชั้น</color>",
+        "mvpm": "6;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "3040501": {
+        "name": "แผนศึก",
+        "type": 1,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 3040501,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-220;0",
+        "fall": "",
+        "load": ""
+      },
+      "3040502": {
+        "name": "ร่วมมือดุเดือด",
+        "type": 2,
+        "sminfo": "2;6;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 3040502,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>80%</color> และมีโอกาส <color=#b94b4b>25%</color> เสริมสถานะ [มึนงง] ต่อเนื่อง 1 เทิร์น; หากเป้าหมายอยู่ในสถานะ [แผดเผา] [แผดเผา] ทุกชั้นจะเพิ่มโอกาส <color=#b94b4b>10%</color><br/>[มึนงง]: ขุนพลที่มีสถานะนี้จะออกเทิร์นไม่ได้</color>",
+        "mvpm": "6;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "3050101": {
+        "name": "แสงจรัส",
+        "type": 1,
+        "sminfo": "2;4;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 3050101,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แถวหน้า</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>40%</color></color>",
+        "mvpm": "5;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "3050102": {
+        "name": "ราชันฟันแรง",
+        "type": 2,
+        "sminfo": "2;5;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 3050102,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>85%</color> และมีโอกาส <color=#b94b4b>30%</color> ปล่อยสกิลอีก 1 ครั้ง ทุกเทิร์นกระตุ้นได้สูงสุด <color=#b94b4b>2</color> ครั้ง; ทุกครั้งที่ฝ่ายศัตรูมีขุนพลที่อยู่ในสถานะ [แผดเผา] มีโอกาสเพิ่ม <color=#b94b4b>5%</color></color>",
+        "mvpm": "2;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "3050201": {
+        "name": "เพลงสงคราม",
+        "type": 1,
+        "sminfo": "2;4;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 3050201,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แนวตั้ง</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>60%</color></color>",
+        "mvpm": "4;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "3050202": {
+        "name": "วังวนเหล็กโลหิต",
+        "type": 2,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 3050202,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>85%</color> มีโอกาส <color=#b94b4b>50%</color> เสริม [แผดเผา] ให้เป้าหมาย ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น<br/>[แผดเผา]: ทุกเทิร์นจะหัก HP <color=#b94b4b>15%</color> ของ ATK ผู้ที่ร่าย ดาเมจนี้เพิกเฉย DEF สแต็กได้สูงสุด 5 ชั้น</color>",
+        "mvpm": "2;-100;0",
+        "fall": "",
+        "load": ""
+      },
+      "3050301": {
+        "name": "หอมสวรรค์",
+        "type": 1,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 3050301,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-250;0",
+        "fall": "",
+        "load": ""
+      },
+      "3050302": {
+        "name": "พลังทุบดาวระเบิด",
+        "type": 2,
+        "sminfo": "2;5;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 3050302,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>80%</color> และมีโอกาส <color=#b94b4b>40%</color> ล้างเอฟเฟกต์บัฟเป้าหมาย <color=#b94b4b>1</color> ชั้น</color>",
+        "mvpm": "2;-150;0",
+        "fall": "",
+        "load": ""
+      },
+      "4010101": {
+        "name": "กระบองหมุน",
+        "type": 1,
+        "sminfo": "2;2;6000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4010101,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-100;0",
+        "fall": "",
+        "load": ""
+      },
+      "4010102": {
+        "name": "โกรธเกรี้ยวรุนแรง",
+        "type": 2,
+        "sminfo": "2;4;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4010102,
+        "desc": "<color=#a37d5f>โจมตี<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>350%</color></color>",
+        "mvpm": "3;-100;0",
+        "fall": "",
+        "load": ""
+      },
+      "4020101": {
+        "name": "บุกตี",
+        "type": 1,
+        "sminfo": "2;2;6000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4020101,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-140;0",
+        "fall": "",
+        "load": ""
+      },
+      "4020102": {
+        "name": "ปณิธานหนานหมาน",
+        "type": 2,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4020102,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แถวหน้า</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>150%</color></color>",
+        "mvpm": "5;-100;0",
+        "fall": "",
+        "load": ""
+      },
+      "4020201": {
+        "name": "ฟ้ากัมปนาท",
+        "type": 1,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4020201,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-300;0",
+        "fall": "",
+        "load": ""
+      },
+      "4020202": {
+        "name": "ฟ้าเหลืองขึ้นแทนที่",
+        "type": 2,
+        "sminfo": "2;6;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4020202,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แนวตั้ง</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>195%</color></color>",
+        "mvpm": "4;-250;0",
+        "fall": "",
+        "load": ""
+      },
+      "4030101": {
+        "name": "ทวนแหลม",
+        "type": 1,
+        "sminfo": "2;4;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4030101,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-160;0",
+        "fall": "",
+        "load": ""
+      },
+      "4030102": {
+        "name": "เงาแทงรวดเร็ว",
+        "type": 2,
+        "sminfo": "2;7;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4030102,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>285%</color> และเพิ่ม ATK ตัวเอง+<color=#b94b4b>10%</color> ต่อเนื่อง 1 เทิร์น</color>",
+        "mvpm": "3;-300;0",
+        "fall": "",
+        "load": ""
+      },
+      "4030201": {
+        "name": "คมดาบแหลม",
+        "type": 1,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4030201,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-100;0",
+        "fall": "",
+        "load": ""
+      },
+      "4030202": {
+        "name": "สังหารหมื่นทัพ",
+        "type": 2,
+        "sminfo": "2;4;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4030202,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แถวหน้า</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>140%</color> และเพิ่มอัตรา CRIT ตัวเอง <color=#b94b4b>20%</color> สแต็กไม่ได้ ต่อเนื่องจนจบการต่อสู้</color>",
+        "mvpm": "5;-100;0",
+        "fall": "",
+        "load": ""
+      },
+      "4040101": {
+        "name": "สง่างาม",
+        "type": 1,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4040101,
+        "desc": "<color=#a37d5f>โจมตีฝ่ายศัตรูที่มี ATK สูงสุด <color=#b94b4b>1</color> คน โดยทำ M.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-250;0",
+        "fall": "",
+        "load": ""
+      },
+      "4040102": {
+        "name": "ผีเสื้อลวงญาณ",
+        "type": 2,
+        "sminfo": "2;6;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4040102,
+        "desc": "<color=#a37d5f>โจมตีตัวละครฝ่ายศัตรูที่มี ATK สูงสุด <color=#b94b4b>2</color> คน ทำ M.DMG ใส่ศัตรู <color=#b94b4b>100%</color> และมีโอกาส <color=#b94b4b>30%</color> เสริมสถานะ [เย้ายวน] ให้เป้าหมาย ต่อเนื่อง <color=#b94b4b>1</color> เทิร์น<br/>[เย้ายวน]: ออกเทิร์นไม่ได้</color>",
+        "mvpm": "2;-100;0",
+        "fall": "",
+        "load": ""
+      },
+      "4040201": {
+        "name": "สังหารโหด",
+        "type": 1,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4040201,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แนวตั้ง</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>60%</color></color>",
+        "mvpm": "4;-120;0",
+        "fall": "",
+        "load": ""
+      },
+      "4040202": {
+        "name": "ทุกข์ยากมาเยือน",
+        "type": 2,
+        "sminfo": "2;8;2000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4040202,
+        "desc": "<color=#a37d5f>สุ่มโจมตีเป้าหมายฝ่ายศัตรู <color=#b94b4b>3</color> คน ทำ M.DMG ใส่ศัตรู <color=#b94b4b>115%</color> ทำให้เป้าหมายได้รับ [เอฟเฟกต์สุ่ม] ต่อเนื่อง <color=#b94b4b>1</color> เทิร์น<br/>[เอฟเฟกต์สุ่ม]: ได้เอฟเฟกต์หนึ่งอย่างดังนี้ ดาเมจลดลง <color=#b94b4b>10%</color>, ได้รับดาเมจเพิ่ม <color=#b94b4b>10%</color>, [ไร้ยุทธ์], [ใบ้]<br/>[ใบ้]: ปล่อยสกิลไม่ได้<br/>[ไร้ยุทธ์]: โจมตีทั่วไปหรือไล่ล่าโจมตีทั่วไปไม่ได้</color>",
+        "mvpm": "5;-100;0",
+        "fall": "",
+        "load": ""
+      },
+      "4040301": {
+        "name": "น้ำค้างอมฤต",
+        "type": 1,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4040301,
+        "desc": "<color=#a37d5f>รักษายูนิตฝ่ายเราที่มี HP ต่ำสุด <color=#b94b4b>1</color> คน โดยฟื้นฟู HP <color=#b94b4b>90%</color> ของ ATK ฮัวโต๋</color>",
+        "mvpm": "6;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "4040302": {
+        "name": "หมอเทวดารักษา",
+        "type": 2,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4040302,
+        "desc": "<color=#a37d5f>รักษาขุนพลฝ่ายเราที่มีเปอร์เซ็น HP ต่ำสุด <color=#b94b4b>3</color> คน จะฟื้นฟู HP <color=#b94b4b>100%</color> ของ ATK ฮัวโต๋ และชำระล้างสถานะผิดปกติของเป้าหมาย 1 ชั้น</color>",
+        "mvpm": "6;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "4040401": {
+        "name": "ฟาดโจมตี",
+        "type": 1,
+        "sminfo": "2;4;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4040401,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-250;0",
+        "fall": "",
+        "load": ""
+      },
+      "4040402": {
+        "name": "ดาบล่าชีวิต",
+        "type": 2,
+        "sminfo": "2;13;2000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4040402,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แถวหน้า</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>130%</color> มีโอกาส <color=#b94b4b>50%</color> เสริม [ทารุณ] ให้เป้าหมาย ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น<br/>[ทารุณ]: ทุกเทิร์นจะหัก HP <color=#b94b4b>15%</color> ของ ATK ผู้ที่ร่าย ดาเมจนี้จะเพิกเฉย DEF สแต็กได้สูงสุด 5 ชั้น</color>",
+        "mvpm": "5;-250;0",
+        "fall": "",
+        "load": ""
+      },
+      "4040501": {
+        "name": "แผนร้าย",
+        "type": 1,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4040501,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-300;0",
+        "fall": "",
+        "load": ""
+      },
+      "4040502": {
+        "name": "อสรพิษใจโทสะ",
+        "type": 2,
+        "sminfo": "2;4;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4040502,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>70%</color> และมีโอกาส <color=#b94b4b>50%</color> เพิ่มสถานะ [ติดพิษ] ใส่เป้าหมาย ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น<br/>[ติดพิษ]: ทุกเทิร์นจะหัก HP <color=#b94b4b>15%</color> ของ ATK ผู้ที่ให้สถานะนี้ ดาเมจนี้เพิกเฉย DEF สแต็กได้สูงสุด 5 ชั้น</color>",
+        "mvpm": "2;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "4050101": {
+        "name": "ไร้เทียมทาน",
+        "type": 1,
+        "sminfo": "2;5;3500",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4050101,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-150;0",
+        "fall": "",
+        "load": ""
+      },
+      "4050108": {
+        "name": "หนึ่งอาชาต้านพัน",
+        "type": 1,
+        "sminfo": "2;5;3500",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4050108,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-150;0",
+        "fall": "",
+        "load": ""
+      },
+      "4050109": {
+        "name": "หนึ่งอาชาต้านพัน",
+        "type": 1,
+        "sminfo": "2;5;3500",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4050109,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "2;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "4050102": {
+        "name": "หนึ่งอาชาต้านพัน",
+        "type": 2,
+        "sminfo": "2;7;2000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4050102,
+        "desc": "<color=#a37d5f>ปล่อยสกิลไม่ได้ เมื่อทำการโจมตี ทุกครั้งที่มีโทสะ 1 จุดจะเพิ่ม <color=#b94b4b>10%</color> เพิ่มสูงสุด <color=#b94b4b>200%</color></color>",
+        "mvpm": "2;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "4050201": {
+        "name": "เซเลบ",
+        "type": 1,
+        "sminfo": "2;3;7000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4050201,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-200;0",
+        "fall": "",
+        "load": ""
+      },
+      "4050202": {
+        "name": "หมื่นธนูจู่โจม",
+        "type": 2,
+        "sminfo": "2;4;5000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4050202,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>85%</color> ตัวเองได้รับ [สั่งการ] <color=#b94b4b>1</color>ชั้น<br/>[สั่งการ]: ATK เพิ่ม <color=#b94b4b>3%</color> สแต็กได้สูงสุด <color=#b94b4b>12</color> ชั้น</color>",
+        "mvpm": "2;-250;0",
+        "fall": "",
+        "load": ""
+      },
+      "4050301": {
+        "name": "กลั่นแกล้ง",
+        "type": 1,
+        "sminfo": "2;4;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4050301,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แถวหน้า</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>40%</color></color>",
+        "mvpm": "5;-150;0",
+        "fall": "",
+        "load": ""
+      },
+      "4050302": {
+        "name": "ราชันโหดเหี้ยม",
+        "type": 2,
+        "sminfo": "2;10;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 4050302,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>70%</color> ตัวเองและขุนพลฝ่ายเราที่มี HP ต่ำสุดได้รับโล่ <color=#b94b4b>110%</color> ของ ATK ตั๋งโต๊ะ ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น</color>",
+        "mvpm": "2;-150;0",
+        "fall": "",
+        "load": ""
+      },
+      "5050101": {
+        "name": "แสงพิทักษ์",
+        "type": 1,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 5050101,
+        "desc": "<color=#a37d5f>รักษายูนิตฝ่ายเราที่มี HP ต่ำสุด <color=#b94b4b>1</color> คน โดยฟื้นฟู HP <color=#b94b4b>90%</color> ของ ATK เทพ·จูกัดเหลียง</color>",
+        "mvpm": "6;50;0",
+        "fall": "",
+        "load": ""
+      },
+      "5050102": {
+        "name": "ปีกแสงรุ่งโรจน์",
+        "type": 2,
+        "sminfo": "2;4;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 5050102,
+        "desc": "<color=#a37d5f>ฟื้นฟู HP <color=#b94b4b>65%</color> ของ ATK เทพ·จูกัดเหลียงให้ฝ่ายเรา<color=#b94b4b>ทั้งทีม</color> และเพิ่ม ATK ให้ขุนพลฝ่ายเรา <color=#b94b4b>15%</color> ต่อเนื่อง <color=#b94b4b>1</color> เทิร์น</color>",
+        "mvpm": "2;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "5050201": {
+        "name": "ทัณฑ์มืด",
+        "type": 1,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 5050201,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แถวหน้า</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>40%</color></color>",
+        "mvpm": "5;-150;0",
+        "fall": "",
+        "load": ""
+      },
+      "5050202": {
+        "name": "วางแผนทลายโลก",
+        "type": 2,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 5050202,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color> ทำM.DMG ใส่ศัตรู (<color=#b94b4b>650%</color>/จำนวนเป้าหมายที่รอด) (เป้าหมายเดี่ยวสูงสุด <color=#b94b4b>320%</color>) และมีโอกาส <color=#b94b4b>70%</color> เสริม [ติดพิษ] 1 ชั้นให้เป้าหมาย ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น<br/>[ติดพิษ]: ทุกเทิร์นของเป้าหมายลด HP <color=#b94b4b>15%</color> ของ ATK ผู้ที่ปล่อยสถานะ สแต็กได้สูงสุด <color=#b94b4b>5</color> ชั้น ดาเมจนี้เพิกเฉย DEF</color>",
+        "mvpm": "6;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "5050501": {
+        "name": "ดาวประกาย",
+        "type": 1,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 5050501,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>100%</color></color>",
+        "mvpm": "3;-150;0",
+        "fall": "",
+        "load": ""
+      },
+      "5050502": {
+        "name": "ความฝันอ่อนโยน",
+        "type": 2,
+        "sminfo": "2;9;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 5050502,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>90%</color> และมีโอกาส <color=#b94b4b>100%</color> ขับไล่เอฟเฟกต์บัฟของเป้าหมาย <color=#b94b4b>1</color> ชั้น</color>",
+        "mvpm": "2;-150;0",
+        "fall": "",
+        "load": ""
+      },
+      "5050401": {
+        "name": "ฝันสังหาร",
+        "type": 1,
+        "sminfo": "2;6;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 5050401,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>120%</color></color>",
+        "mvpm": "3;-200;0",
+        "fall": "",
+        "load": ""
+      },
+      "5050402": {
+        "name": "ซากทลายแดนร้าง",
+        "type": 2,
+        "sminfo": "2;9;2500",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 5050402,
+        "desc": "<color=#a37d5f>ปล่อยสกิลไม่ได้ ทุกครั้งที่โจมตีทั่วไปจะหักใช้โทสะ 1 จุด และทำดาเมจ <color=#b94b4b>12%</color> ของลิมิต HP เป้าหมาย (ดาเมจสูงสุดไม่เกิน <color=#b94b4b>250%</color> ของ ATK ตน)</color>",
+        "mvpm": "2;-300;0",
+        "fall": "",
+        "load": ""
+      },
+      "5050601": {
+        "name": "ตัดปทุม",
+        "type": 1,
+        "sminfo": "2;4;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 5050601,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แนวตั้ง</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>60%</color> และมีโอกาส <color=#b94b4b>100%</color> เสริม [ติดเพลิง] 1 ชั้นใส่เป้าหมาย ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น<br/>[ติดเพลิง]: ATK ลดลง <color=#b94b4b>5%</color> สแต็กได้สูงสุด <color=#b94b4b>5</color> ชั้น</color>",
+        "mvpm": "4;-50;0",
+        "fall": "",
+        "load": ""
+      },
+      "5050602": {
+        "name": "วิญญาณจ้องเขม็ง",
+        "type": 2,
+        "sminfo": "2;7;2500",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 5050602,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>110%</color> มีโอกาส <color=#b94b4b>60%</color> เสริม [เพลิงผลาญ] ให้เป้าหมาย ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น<br/>[เพลิงผลาญ]: ทุกครั้งที่ผู้ที่มีสถานะนี้ออกเทิร์นจะหัก HP <color=#b94b4b>5%</color> ของลิมิต HP ตัวเอง สูงสุดไม่เกิน <color=#b94b4b>10%</color> ของลิมิต HP ผู้ที่ให้สถานะ สแต็กได้สูงสุด <color=#b94b4b>3</color> ชั้น</color>",
+        "mvpm": "2;-175;0",
+        "fall": "",
+        "load": ""
+      },
+      "5050301": {
+        "name": "สงสาร",
+        "type": 1,
+        "sminfo": "2;2;6000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 5050301,
+        "desc": "<color=#a37d5f>โจมตีตัวละครฝ่ายศัตรูที่มี ATK สูงสุด <color=#b94b4b>1</color> คน ทำ M.DMG ใส่ศัตรู <color=#b94b4b>100%</color> และมีโอกาส <color=#b94b4b>70%</color> เสริม [เร้นจันทร์] 1 ชั้นให้เป้าหมาย ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น [เร้นจันทร์]: ดาเมจลดลง 10% สแต็กได้สูงสุด 5 ชั้น</color>",
+        "mvpm": "3;-250;0",
+        "fall": "",
+        "load": ""
+      },
+      "5050302": {
+        "name": "เงียบสงัดโดดเดี่ยว",
+        "type": 2,
+        "sminfo": "2;11;2000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 5050302,
+        "desc": "<color=#a37d5f>โจมตีตัวละครฝ่ายศัตรูที่มี ATK สูงสุด <color=#b94b4b>3</color> คน ทำ M.DMG ใส่ศัตรู <color=#b94b4b>145%</color> และมีโอกาส <color=#b94b4b>30%</color> เสริมสถานะ [เย้ายวน] ให้เป้าหมาย ต่อเนื่อง <color=#b94b4b>1</color> เทิร์น<br/>[เย้ายวน]: ออกเทิร์นไม่ได้</color>",
+        "mvpm": "2;-150;0",
+        "fall": "",
+        "load": ""
+      },
+      "5050701": {
+        "name": "แนวหน้า",
+        "type": 1,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 5050701,
+        "desc": "<color=#a37d5f>หักเลือด <color=#b94b4b>10%</color> ของลิมิต HP (ไม่ถึงตาย) และโจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>130%</color> ตัวเองได้รับ [กระดูกมังกร] <color=#b94b4b>1</color> ชั้น [กระดูกมังกร]: ดาเมจเพิ่ม <color=#b94b4b>5%</color> สแต็กได้สูงสุด <color=#b94b4b>8</color> ชั้น</color>",
+        "mvpm": "3;-150;0",
+        "fall": "",
+        "load": ""
+      },
+      "5050702": {
+        "name": "เทวาศักดิ์สิทธิ์",
+        "type": 2,
+        "sminfo": "2;7;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 5050702,
+        "desc": "<color=#a37d5f>หักเลือด <color=#b94b4b>20%</color> ของลิมิต HP (ไม่ถึงตาย) และโจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>360%</color> และมีโอกาส <color=#b94b4b>50%</color> เสริม [ตัดสัมพันธ์] ให้เป้าหมาย ต่อเนื่อง <color=#b94b4b>1</color> เทิร์น<br/>[ตัดสัมพันธ์]: จะไม่ได้รับโทสะ</color>",
+        "mvpm": "4;-150;0",
+        "fall": "",
+        "load": ""
+      },
+      "5050801": {
+        "name": "กล้าหาญ",
+        "type": 1,
+        "sminfo": "2;6;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 5050801,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แนวตั้ง</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>75%</color> ตัวเองได้รับ [อาจหาญ] <color=#b94b4b>1</color> ชั้น <br/>[อาจหาญ]: ATK เพิ่ม <color=#b94b4b>5%</color> สแต็กได้สูงสุด <color=#b94b4b>7</color> ชั้น</color>",
+        "mvpm": "4;-50;0",
+        "fall": "",
+        "load": ""
+      },
+      "5050802": {
+        "name": "มังกรผยองเขาทอง",
+        "type": 2,
+        "sminfo": "2;7;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 5050802,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แนวตั้ง</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>200%</color> หลังปล่อยสกิล หากเปอร์เซ็ต HP เป้าหมายมากกว่า <color=#b94b4b>50%</color> จะไล่ล่าโจมตีทั่วไปด้วยดาเมจค่าสัมประสิทธิ์ <color=#b94b4b>100%</color> ใส่เป้าหมายดังกล่าว</color>",
+        "mvpm": "4;-150;0",
+        "fall": "",
+        "load": ""
+      },
+      "7050101": {
+        "name": "สะเทือนโลก",
+        "type": 1,
+        "sminfo": "2;4;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 7050101,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>130%</color> พร้อมกับเสริม [ฆ่าปีศาจ] <color=#b94b4b>1</color> ชั้น ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น<br/>[ฆ่าปีศาจ]: เลี่ยงดาเมจลดลง <color=#b94b4b>10%</color> สแต็กได้สูงสุด 10 ชั้น</color>",
+        "mvpm": "3;-250;0",
+        "fall": "",
+        "load": ""
+      },
+      "7050102": {
+        "name": "ต่อสู้สะเทือนใต้หล้า",
+        "type": 2,
+        "sminfo": "2;7;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 7050102,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>360%</color> มีโอกาส <color=#b94b4b>50%</color> เสริม [มึนงง] <color=#b94b4b>1</color> ชั้นใส่เป้าหมาย ต่อเนื่อง <color=#b94b4b>1</color> เทิร์น หากหลังโจมตีแล้ว เปอร์เซ็น HP ของเป้าหมายต่ำกว่า <color=#b94b4b>50%</color> จะไล่ล่าโจมตีทั่วไป 1 ครั้ง <br/>[มึนงง]: ออกเทิร์นไม่ได้</color>",
+        "mvpm": "3;-250;0",
+        "fall": "",
+        "load": ""
+      },
+      "7050201": {
+        "name": "ทำลายสิ้น",
+        "type": 1,
+        "sminfo": "2;2;6000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 7050201,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ยูนิตเดี่ยว</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>130%</color> พร้อมกับให้ตัวเองและสุ่มฝ่ายเรา 1 คนเพื่อเสริม [เนตรฟ้า] <color=#b94b4b>1</color> ชั้น ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น <br/>[เนตรฟ้า]: เลี่ยงดาเมจเพิ่ม <color=#b94b4b>10%</color></color>",
+        "mvpm": "3;-250;0",
+        "fall": "",
+        "load": ""
+      },
+      "7050202": {
+        "name": "จอมเทพทำลายกบฏ",
+        "type": 2,
+        "sminfo": "2;9;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 7050202,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>115%</color> มีโอกาส <color=#b94b4b>100%</color> เสริม [พันธะเทพ] <color=#b94b4b>1</color> ชั้นให้เป้าหมาย ต่อเนื่อง <color=#b94b4b>1</color> เทิร์น<br/>[พันธะเทพ]: เป้าหมายที่มีสถานะนี้ออกเทิร์นมีโอกาส <color=#b94b4b>50%</color> ล้มเหลว แต่ยังคงหักใช้โทสะ HIT เอฟเฟกต์และต้านทานเอฟเฟกต์มีผลกับโอกาสออกเทิร์นล้มเหลว</color>",
+        "mvpm": "2;-250;0",
+        "fall": "",
+        "load": ""
+      },
+      "7050109": {
+        "name": "ปราบมารกำจัดปีศาจ",
+        "type": 5,
+        "sminfo": "2;5;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 7050109,
+        "desc": "<color=#a37d5f>[เอฟเฟกต์แอคทีฟ]:<br/>ในเทิร์นทั่วไปของหยางเจี่ยนหรือซุนหงอคง หักใช้ค่าเทพสลาย <color=#b94b4b>4</color> จุด (หลังออกเทิร์นทั่วไปแล้ว จะได้รับค่าเทพสลาย <color=#b94b4b>1</color> จุด) โจมตีศัตรูทั้งทีมด้วย P.DMG <color=#b94b4b>150%</color> หากซุนหงอคงและหยางเจี่ยนจะอยู่ในสถานะ <color=#b94b4b>[ยุทธวิชัยพุทธะ]</color> และ <color=#b94b4b>[จอมเทพสำแดงเดช]</color> ดาเมจครั้งนี้จะเพิกเฉยโล่และเอฟเฟกต์ DEF <color=#b94b4b>50%</color><br/>[เอฟเฟกต์พาสซีฟ]:<br/>ซุนหงอคง ATK และ HIT เพิ่ม <color=#b94b4b>10%</color> หยางเจี่ยนแปลงร่างเป็น <color=#b94b4b>[จอมเทพสำแดงเดช]</color> แล้วเอฟเฟกต์เพิ่มทวีคูณ; DEF ของหยางเจี่ยนเพิ่ม <color=#b94b4b>20%</color> ซุนหงอคงแปลงร่างเป็น <color=#b94b4b>[ยุทธวิชัยพุทธะ]</color> แล้วเอฟเฟกต์เพิ่มทวีคูณ เอฟเฟกต์นี้จะไม่ถูกล้างเมื่อมีฝ่ายใดฝ่ายหนึ่งออกจากสนาม<br/>ทุกครั้งที่ซุนหงอคงลงมือ [มึนงง] สำเร็จ หยางเจี่ยนมีโอกาส <color=#b94b4b>100%</color> ได้รับ <color=#b94b4b>[แหล่งน้ำใส]</color> <color=#b94b4b>2</color> ชั้น; เมื่อเป้าหมายที่มี [สู้รบ] ตาย หยางเจี่ยนมีโอกาส <color=#b94b4b>100%</color> ได้รับ <color=#b94b4b>[แหล่งน้ำใส]</color> <color=#b94b4b>4</color> ชั้น; <br/>หยางเจี่ยนหรือซุนหงอคงถูกเพิ่มสถานะควบคุม หยางเจี่ยนมีโอกาส <color=#b94b4b>100%</color> ได้รับ <color=#b94b4b>[แหล่งน้ำใส]</color> <color=#b94b4b>2</color> ชั้น<br/>[สู้รบ] ที่มาจากซุนหงอคงถูกเป้าหมายต้านทานสำเร็จหรือเมื่อหยางเจี่ยนแปลงร่างเป็นสถานะ [จอมเทพสำแดงเดช] ซุนหงอคงจะแปลงร่างเป็นสถานะ <color=#b94b4b>[ยุทธวิชัยพุทธะ]</color> ทันที จนกว่าจะจบเทิร์นถัดไป</color>",
+        "mvpm": "2;-200;50;-300;-50;705020;705010",
+        "fall": "",
+        "load": ""
+      },
+      "7050301": {
+        "name": "โกรธแค้น",
+        "type": 1,
+        "sminfo": "2;5;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 7050301,
+        "desc": "<color=#a37d5f>โจมตีศัตรูทั้งทีม ทำ P.DMG ใส่ศัตรู <color=#b94b4b>50%</color> และมีโอกาส <color=#b94b4b>70%</color> เสริม [ห่วงสรรพาวุธ] <color=#b94b4b>1</color> ชั้น ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น; [ห่วงสรรพาวุธ]: ต้านทานเอฟเฟกต์ลดลง <color=#b94b4b>10%</color> สแต็กได้สูงสุด <color=#b94b4b>5</color> ชั้น</color>",
+        "mvpm": "2;-200;0",
+        "fall": "",
+        "load": ""
+      },
+      "7050302": {
+        "name": "วายุเพลิงเผาธุลี",
+        "type": 2,
+        "sminfo": "2;5;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 7050302,
+        "desc": "<color=#a37d5f>โจมตีศัตรูทั้งทีม ทำ P.DMG ใส่ศัตรู <color=#b94b4b>120%</color> มีโอกาส <color=#b94b4b>60%</color> เสริม [เพลิงสมาธิ] 1 ชั้น ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น หากก่อนปล่อยสกิลเป้าหมายมี [เพลิงสมาธิ] จะมีโอกาส <color=#b94b4b>100%</color> เสริมให้ <color=#b94b4b>1</color> ชั้น จากนั้นสรุปผลเอฟเฟกต์ [เพลิงสมาธิ] ทั้งหมดของเป้าหมายหนึ่งครั้ง (จำนวนชั้นที่เป้าหมายมี×เทิร์นที่เหลือ×เลือดที่ลดทุกชั้น); [เพลิงสมาธิ]: ทุกครั้งที่ผู้ครอบครองออกเทิร์นจะหักเลือด <color=#b94b4b>25%</color> ของ ATK ผู้ที่เสริมสถานะ สแต็กได้สูงสุด <color=#b94b4b>5</color> ชั้น</color>",
+        "mvpm": "2;-200;0",
+        "fall": "",
+        "load": ""
+      },
+      "7050401": {
+        "name": "หยิ่งผยอง",
+        "type": 1,
+        "sminfo": "2;2;6000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 7050401,
+        "desc": "<color=#a37d5f>สุ่มโจมตีเป้าหมายฝ่ายศัตรู <color=#b94b4b>3</color> คน ทำ M.DMG ใส่ศัตรู <color=#b94b4b>70%</color> มีโอกาส <color=#b94b4b>100%</color> เสริม [คลื่นมหาภัย] <color=#b94b4b>1</color> ชั้น ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น; [คลื่นมหาภัย]: ATK ลดลง <color=#b94b4b>10%</color> สแต็กได้สูงสุด <color=#b94b4b>5</color> ชั้น</color>",
+        "mvpm": "2;-200;0",
+        "fall": "",
+        "load": ""
+      },
+      "7050402": {
+        "name": "หมื่นแผ่นดินทะยานฟ้า",
+        "type": 2,
+        "sminfo": "2;3;5000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 7050402,
+        "desc": "<color=#a37d5f>โจมตีศัตรูทั้งทีม ทำ M.DMG ใส่ศัตรู <color=#b94b4b>120%</color> และลดโทสะเป้าหมาย <color=#b94b4b>1</color> จุด และมีโอกาส <color=#b94b4b>40%</color> เสริม [คุกวารี] <color=#b94b4b>1</color> ชั้นให้เป้าหมาย ต่อเนื่อง <color=#b94b4b>1</color> เทิร์น หากเป้าหมายไม่มี [คลื่นมหาภัย] ก็จะเสริม [คลื่นมหาภัย] <color=#b94b4b>1</color> ชั้น ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น; [คุกวารี]: ออกเทิร์นไม่ได้</color>",
+        "mvpm": "2;-200;0",
+        "fall": "",
+        "load": ""
+      },
+      "7050309": {
+        "name": "คลื่นโทสะถาโถม",
+        "type": 5,
+        "sminfo": "2;5;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 7050309,
+        "desc": "<color=#a37d5f>[เอฟเฟกต์แอคทีฟ]:<br/>ในเทิร์นทั่วไปของนาจาหรืออ๋าวปิ่ง หักใช้ค่าเทพสลาย <color=#b94b4b>4</color> จุด (หลังออกเทิร์นทั่วไปแล้ว จะได้รับค่าเทพสลาย <color=#b94b4b>1</color> จุด) โจมตีศัตรูทั้งทีมด้วย P.DMG <color=#b94b4b>130%</color> หากทุกครั้งที่มีฝ่ายศัตรู 1 คนอยู่ในสถานะ <color=#b94b4b>[ประเภทไฟเผา]</color> ดาเมจครั้งนี้จะเพิ่มอัตรา CRIT <color=#b94b4b>15%</color> หากทุกครั้งที่มีเป้าหมาย 1 คนอยู่ในสถานะ <color=#b94b4b>[ประเภทธาตุน้ำ]</color> (คลื่นมหาภัย, น้ำค้างแข็ง, คุกวารี) ดาเมจครั้งนี้เพิ่ม D.CRIT <color=#b94b4b>20%</color><br/>[เอฟเฟกต์แอคทีฟ]:<br/>นาจาเพิ่มอัตรา CRIT <color=#b94b4b>10%</color> อ๋าวปิ่งต้าน CRIT เพิ่ม <color=#b94b4b>10%</color> เอฟเฟกต์นี้จะไม่ถูกล้างเมื่อมีฝ่ายใดฝ่ายหนึ่งออกจากสนาม<br/>เมื่อ <color=#b94b4b>[เพลิงสมาธิ]</color> นาจาทำดาเมจใส่เป้าหมายที่อยู่ในสถานะ <color=#b94b4b>[ประเภทธาตุน้ำ]</color> เพิ่ม <color=#b94b4b>30%</color> และเป้าหมายมี <color=#b94b4b>[ประเภทธาตน้ำ]</color> <color=#b94b4b>2</color> ชั้น นาจาเสริม <color=#b94b4b>[เพลิงสมาธิ]</color> ลิมิต<color=#b94b4b>+1</color> ลิมิตเพิ่มได้สูงสุด <color=#b94b4b>3</color> ชั้น; <br/>อ๋าวปิ่งเสริม<color=#b94b4b>[ประเภทธาตุน้ำ]</color>ทำให้เป้าหมายที่อยู่ในสถานะ <color=#b94b4b>[เพลิงสมาธิ]</color> ได้รับ HIT เอฟเฟกต์เพิ่ม <color=#b94b4b>20%</color> ทุกครั้งที่เสริม <color=#b94b4b>[มหาสมุทร]</color> มีโอกาส <color=#b94b4b>50%</color> ขยายเวลา <color=#b94b4b>1</color> เทิร์น</color>",
+        "mvpm": "2;-200;50;-250;-50;705040;705030",
+        "fall": "",
+        "load": ""
+      },
+      "7050501": {
+        "name": "รู้ทุกข์",
+        "type": 1,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 7050501,
+        "desc": "<color=#a37d5f>โจมตี<color=#b94b4b>ยูนิตเดี่ยว</color>ฝ่ายศัตรู ทำ P.DMG ใส่ศัตรู <color=#b94b4b>150%</color> ตัวเองได้รับ<color=#b94b4b>[สมุทัย]</color> 1 ชั้นและมีโอกาส <color=#b94b4b>100%</color> เสริม <color=#b94b4b>1</color> ชั้น<color=#b94b4b>[ผลกรรม]</color> ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น หากสังหารเป้าหมายจะโจมตีด้วยการโจมตีทั่วไปหนึ่งครั้งทันที</color>",
+        "mvpm": "3;-525;0",
+        "fall": "",
+        "load": ""
+      },
+      "7050502": {
+        "name": "มรรคตัดกิเลส",
+        "type": 2,
+        "sminfo": "2;6;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 7050502,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>120%</color> มีโอกาส <color=#b94b4b>50%</color> เสริม <color=#b94b4b>[ทุกข์]</color> 1 ชั้น ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น หากสังหารเป้าหมายจะโจมตีด้วยการโจมตีทั่วไปหนึ่งครั้งทันที</color>",
+        "mvpm": "6;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "7050601": {
+        "name": "หลุดพ้น",
+        "type": 1,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 7050601,
+        "desc": "<color=#a37d5f>โจมตีเป้าหมายฝ่ายศัตรูที่มีพลังโจมตีสูงสุด <color=#b94b4b>3</color> คน เพื่อทำ M.DMG ใส่ศัตรู <color=#b94b4b>80%</color> มีโอกาส <color=#b94b4b>100%</color> เสริม <color=#b94b4b>1</color> ชั้น<color=#b94b4b>[ไม่จีรัง]</color> ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น</color>",
+        "mvpm": "6;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "7050602": {
+        "name": "ดับอัตตาสู่สุญตา",
+        "type": 2,
+        "sminfo": "2;6;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 7050602,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>120%</color> และสุ่มขับไล่เอฟเฟกต์บัฟของเป้าหมาย <color=#b94b4b>1~2</color> ชั้น พร้อมกับมีโอกาส <color=#b94b4b>50%</color> เสริม <color=#b94b4b>1</color> ชั้น<color=#b94b4b>[ลักษณ์แปลก]</color>ให้เป้าหมาย ต่อเนื่อง <color=#b94b4b>1</color> เทิร์น</color>",
+        "mvpm": "2;-100;0",
+        "fall": "",
+        "load": ""
+      },
+      "7050509": {
+        "name": "สัจธรรมดับสูญ",
+        "type": 5,
+        "sminfo": "2;10;2000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 7050509,
+        "desc": "<color=#a37d5f>[เอฟเฟกต์แอคทีฟ]:<br/>ในเทิร์นทั่วไปของมรรค·ลิโป้หรือดับสูญ·เตียวเสี้ยน หักใช้ค่าเทพสลาย <color=#b94b4b>4</color> จุด (หลังออกเทิร์นทั่วไปแล้ว จะได้รับค่าเทพสลาย <color=#b94b4b>1</color> จุด) ชำระล้างสถานะ<color=#b94b4b>ควบคุม</color>ของสองคน (ยกเว้นล้างไม่ได้) และสถานะ<color=#b94b4b>ดีบัฟ</color> <color=#b94b4b>3</color> ชั้น (ยกเว้นล้างไม่ได้) พร้อมทั้งโจมตีฝ่ายศัตรู<color=#b94b4b>ทั้งทีม</color>ด้วย P.DMG <color=#b94b4b>130%</color> พร้อมกับลดค่าโล่ของเป้าหมายส่วนที่เกินจาก <color=#b94b4b>30%</color> ของลิมิต HP เป้าหมาย หากสกิลรวมร่างสกิลนี้สังหารเป้าหมาย จะไล่ล่าการโจมตีทั่วไปผู้ที่ร่ายหนึ่งครั้ง<br/>[เอฟเฟกต์พาสซีฟ]:<br/>มรรค·ลิโป้ HIT และดาเมจเพิ่ม <color=#b94b4b>10%</color> ดับสูญ·เตียวเสี้ยน HIT เอฟเฟกต์และเลี่ยงดาเมจเพิ่ม <color=#b94b4b>10%</color> เอฟเฟกต์นี้จะไม่ถูกล้างเมื่อมีฝ่ายใดฝ่ายหนึ่งออกจากสนาม<br/>เมื่อเริ่มการต่อสู้ มรรค·ลิโป้จะได้รับโทสะ <color=#b94b4b>4</color> จุด; เมื่อดับสูญ·เตียวเสี้ยนถูกโจมตี ตัวเองจะได้รับ <color=#b94b4b>[สมุทัย]</color> <color=#b94b4b>1</color> ชั้น และมีโอกาส <color=#b94b4b>50%</color> โจมตีทั่วไปโต้กลับใส่ผู้ที่โจมตีหนึ่งครั้ง ทุกเทิร์นกระตุ้นได้สูงสุด <color=#b94b4b>3</color> ครั้ง โดย <color=#b94b4b>[นิโรธ]</color> ที่เสริมให้เป้าหมายที่สังหารดับสูญ·เตียวเสี้ยนจะต่อเนื่องไปจนกว่าเป้าหมายจะตาย (เอฟเฟกต์นี้ต้องเปิดใช้ญาณขุนพลขั้น 1) เมื่อดับสูญ·เตียวเสี้ยนอยู่ในสนาม <color=#b94b4b>[นิโรธ]</color>ที่ได้จากมรรค·ลิโป้จะไม่สามารถหักล้างได้ด้วยสเตตัสต้านเอฟเฟกต์; <br/>ในขณะที่ดับสูญ·เตียวเสี้ยนเสริม<color=#b94b4b>โล่อมตะ</color>ให้ตัวเองและมรรค·ลิโป้ หากเป้าหมายมี HP ต่ำกว่า <color=#b94b4b>40%</color> โล่อมตะจะแปลงเป็นแบบล้างไม่ได้; เมื่อมรรค·ลิโป้อยู่ในสนาม ดับสูญ·เตียวเสี้ยนได้สถานะควบคุมจากขุนพลเพศชายจะเพิ่ม HIT เอฟเฟกต์ <color=#b94b4b>50%</color></color>",
+        "mvpm": "2;-300;-50;-250;50;705060;705050",
+        "fall": "",
+        "load": ""
+      },
+      "7050701": {
+        "name": "รับโทษ",
+        "type": 1,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 7050701,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แนวตั้ง</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color> ตัวเองได้รับ<color=#b94b4b>[ภพอาฆาต]</color> 1 ชั้น ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น</color>",
+        "mvpm": "4;-150;0",
+        "fall": "",
+        "load": ""
+      },
+      "7050702": {
+        "name": "ส่องปราบอธรรม",
+        "type": 2,
+        "sminfo": "2;9;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 7050702,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แนวตั้ง</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>230%</color> มีโอกาส <color=#b94b4b>100%</color> เสริม<color=#b94b4b>[เผยความชั่ว]</color> 1 ชั้น ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น หากการโจมตีครั้งนี้กระตุ้นให้ติด CRIT จะมีโอกาส <color=#b94b4b>100%</color> เสริมเพิ่มเติม 1 ชั้น</color>",
+        "mvpm": "4;-150;0",
+        "fall": "",
+        "load": ""
+      },
+      "7050801": {
+        "name": "แผ่เมตตา",
+        "type": 1,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 7050801,
+        "desc": "<color=#a37d5f><color=#b94b4b>สุ่มโจมตีศัตรู 3 คน</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>80%</color> มีโอกาส <color=#b94b4b>100%</color> เสริม <color=#b94b4b>[ไฟนรก]</color> 1 ชั้น ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น</color>",
+        "mvpm": "6;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "7050802": {
+        "name": "ยึดมั่นเปิดท่า",
+        "type": 2,
+        "sminfo": "2;13;2000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 7050802,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>120%</color> มีโอกาส <color=#b94b4b>50%</color> ขยายสถานะผิดปกติ <color=#b94b4b>3</color> ประเภท <color=#b94b4b>1</color> เทิร์น ทุกประเภทขยายสูงสุด <color=#b94b4b>1</color> เทิร์น; พร้อมกับเสริม<color=#b94b4b>[เปิดท่า]</color> ให้ฝ่ายเราทั้งทีม 1 ชั้น ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น</color>",
+        "mvpm": "2;-200;0",
+        "fall": "",
+        "load": ""
+      },
+      "7050709": {
+        "name": "อวดเมตตาทำความชั่ว",
+        "type": 5,
+        "sminfo": "2;9;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 7050709,
+        "desc": "<color=#a37d5f>【เอฟเฟกต์แอคทีฟ】:<br/>ในเทิร์นทั่วไปของเผยความชั่ว·เตียวเลี้ยวหรือการุณย์·กุยแก หักใช้ค่าเทพสลาย<color=#b94b4b>4</color> จุด (หลังออกเทิร์นทั่วไปแล้ว จะได้รับค่าเทพสลาย <color=#b94b4b>1</color> จุด) โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color>ด้วย P.DMG<color=#b94b4b>120%</color> พร้อมกับเสริมส่วนที่เป้าหมายถูกทำเครื่องหมาย<color=#b94b4b>[กรรมชั่ว]</color> <color=#b94b4b>50%</color> เป็นดาเมจเพิ่มเติม สูงสุดไม่เกิน <color=#b94b4b>250%</color> ของพลังโจมตีผู้ที่ร่าย การโจมตีครั้งนี้จะเพิ่มดาเมจใส่เป้าหมายที่มีโล่ <color=#b94b4b>30%</color> และมีโอกาส <color=#b94b4b>50%</color> ลดค่าโล่ที่เป้าหมายได้รับ <color=#b94b4b>50%</color> ต่อเนื่อง 2 เทิร์น; หากสกิลรวมร่างสังหารเป้าหมาย <color=#b94b4b>50%</color> ของดาเมจที่เกินจะถูกยิงสาดให้กับขุนพลที่ยังรอดอยู่<br/>【เอฟเฟกต์พาสซีฟ】:<br/>เผยความชั่ว·เตียวเลี้ยวลดดาเมจ Block และ HIT เอฟเฟกต์เพิ่ม <color=#b94b4b>10%</color การุณย์·กุยแก Block เพิ่ม <color=#b94b4b>15%</color> เอฟเฟกต์นี้จะไม่ถูกล้างเมื่อมีฝ่ายใดฝ่ายหนึ่งออกจากสนาม<br/>เผยความชั่ว·เตียวเลี้ยวเข้าสู่สถานะ<color=#b94b4b>[จิตโทสะ]</color>หรือ<color=#b94b4b>[โลกีย์]</color> จะฟื้นฟูค่าเทพสลาย <color=#b94b4b>1</color> จุดและะโทสะ <color=#b94b4b>2</color> จุด พร้อมกันนี้การุณย์·กุยแกอัตรา Block เพิ่ม <color=#b94b4b>30%</color> และจะเป็นผู้กระตุ้นพรสวรรค์ Block แทนเผยความชั่ว·เตียวเลี้ยว; เมื่อเผยความชั่ว·เตียวเลี้ยวทำการโจมตี หากตัวเองมี <color=#b94b4b>[ภพอาฆาต]</color> <color=#b94b4b>5</color> ชั้นขึ้นไปหรือเป้าหมายมี <color=#b94b4b>[เผยความชั่ว]</color> <color=#b94b4b>3</color> ชั้นขึ้นไป ตัวเองจะมีโอกาส <color=#b94b4b>50%</color> คุ้มกันเอฟเฟกต์พาสซีฟของเป้าหมาย <color=#b94b4b>[ภพอาฆาต]</color>หรือ<color=#b94b4b>[เผยความชั่ว]</color>เพิ่มทุก <color=#b94b4b>1</color> ชั้นจะมีโอกาสเพิ่ม <color=#b94b4b>10%</color> <br/>หลังการุณย์·กุยแกโจมตีแล้ว มีโอกาส <color=#b94b4b>100%</color> จะเสริม <color=#b94b4b>[เผยความชั่ว]</color> <color=#b94b4b>1</color> ชั้นใส่เป้าหมาย ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น; ขณะเดียวกันเผยความชั่ว·เตียวเลี้ยวมีโอกาสเสริม <color=#b94b4b>[เผยความชั่ว]</color> เพิ่มถึง <color=#b94b4b>100%</color> และทุกครั้งที่ทั้งสองฝ่ายเสริม<color=#b94b4b>[เผยความชั่ว]</color> มีโอกาส <color=#b94b4b>50%</color> ที่จะแปลงเป็น<color=#b94b4b>ขับไล่ไม่ได้</color></color>",
+        "mvpm": "2;-250;50;-150;-50;705080;705070",
+        "fall": "",
+        "load": ""
+      },
+      "8050101": {
+        "name": "โศกระลึก",
+        "type": 1,
+        "sminfo": "2;4;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 8050101,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แถวหน้า</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>100%</color> ตัวเองได้รับ <color=#b94b4b>[เปลวมอด]</color> ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น; หากการโจมตีครั้งนี้กระตุ้น CRIT หรือไม่ HIT เป้าหมายจะสรุปผลดาเมจ<color=#b94b4b>[เพลิงเถ้าถ่าน]</color>บนตัวเป้าหมายหนึ่งครั้งทันที</color>",
+        "mvpm": "5;-180;0",
+        "fall": "",
+        "load": ""
+      },
+      "8050102": {
+        "name": "ปลิดญาณธุลีมอด",
+        "type": 2,
+        "sminfo": "2;3;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 8050102,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color> ทำ P.DMG ใส่ศัตรู <color=#b94b4b>150%</color> และเสริม<color=#b94b4b>[เพลิงเถ้าถ่าน]</color> <color=#b94b4b>1</color> ชั้น พร้อมกับมีโอกาส <color=#b94b4b>50%</color> เสริม <color=#b94b4b>[เยาะเย้ย]</color> ใส่เป้าหมาย ต่อเนื่อง <color=#b94b4b>1</color> เทิร์น หากเป้าหมายที่ใช้สกิลมี<color=#b94b4b>[เพลิงเถ้าถ่าน]</color> ทุก <color=#b94b4b>1</color> ชั้น <color=#b94b4b>[เยาะเย้ย]</color>มีโอการเพิ่มขึ้น <color=#b94b4b>10%</color></color>",
+        "mvpm": "2;-200;0",
+        "fall": "",
+        "load": ""
+      },
+      "8050201": {
+        "name": "แสงพิทักษ์",
+        "type": 1,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 8050201,
+        "desc": "<color=#a37d5f>รักษายูนิตฝ่ายเราที่มี HP ต่ำที่สุด <color=#b94b4b>3</color> คน โดยฟื้นฟู HP <color=#b94b4b>75%</color> ของ ATK ตรึงนิรันดร์·ไต้เกี้ยว พร้อมทั้งร่าย <color=#b94b4b>[หอมรัญจวน]</color> <color=#b94b4b>1</color> ชั้นให้ตัวเองและเป้าหมายที่รักษา</color>",
+        "mvpm": "6;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "8050202": {
+        "name": "ปีกแสงรุ่งโรจน์",
+        "type": 2,
+        "sminfo": "2;2;6000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 8050202,
+        "desc": "<color=#a37d5f>ให้ฝ่ายเรา<color=#b94b4b>ทั้งทีม</color>ฟื้นฟู HP <color=#b94b4b>120%</color> ของ ATK ตรึงนิรันดร์·ไต้เกี้ยว และร่าย <color=#b94b4b>[ห้วงรำพึง]</color> <color=#b94b4b>1</color> ชั้น ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น หากเป้าหมายมี HP ต่ำกว่า <color=#b94b4b>50%</color> จะแปลง<color=#b94b4b>[ห้วงรำพึง]</color>เป็น<color=#b94b4b>ขจัดไม่ได้</color></color>",
+        "mvpm": "2;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "8050109": {
+        "name": "ไฟแค้นคมธุลี",
+        "type": 5,
+        "sminfo": "2;5;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 8050109,
+        "desc": "<color=#a37d5f>[เอฟเฟกต์แอคทีฟ]:<br/>ในเทิร์นทั่วไปของตรึงนิรันดร์ธุลีมอด·ซุนเซ็กหรือตรึงนิรันดร์·ไต้เกี้ยว หักใช้ค่าเทพสลาย <color=#b94b4b>4</color> จุด (หลังออกเทิร์นทั่วไปแล้ว จะได้รับค่าเทพสลาย <color=#b94b4b>1</color> จุด) โจมตีฝ่ายศัตรู<color=#b94b4b>ทั้งทีม</color>ด้วย P.DMG <color=#b94b4b>150%</color> และสรุปผลเอฟเฟกต์<color=#b94b4b>[เพลิงเถ้าถ่าน]</color>ของเป้าหมาย ขณะเดียวกัน <color=#b94b4b>50%</color> ของดาเมจครั้งนี้จะเฉลี่ยฟื้นฟูเลือดให้กับขุนพลทั้งทีมฝ่ายเรา หลังโจมตีจะล้างโทสะของขุนพลฝ่ายศัตรูที่มีพลังโจมตีสูงสุด และมีโอกาส <color=#b94b4b>50%</color> จะเสริม <color=#b94b4b>[ผลาญโลก]</color> 1 ชั้นให้ขุนพลฝ่ายศัตรูที่มีพลังโจมตีสูงสุด <color=#b94b4b>2</color> คน ต่อเนื่อง <color=#b94b4b>1</color> เทิร์น; หากการโจมตีครั้งนี้ทำให้ HP ของเป้าหมายต่ำกว่า <color=#b94b4b>50%</color> ธุลีมอด·ซุนเซ็กมีโอกาส <color=#b94b4b>50%</color> ไล่ล่าการโจมตีหนึ่งครั้งใส่เป้าหมายด้วยดาเมจ <color=#b94b4b>150%</color> ของการโจมตีทั่วไป ทุกเทิร์นเป้าหมายแต่ละคนจะกระตุ้นการไล่ล่าได้สูงสุด <color=#b94b4b>2</color>ครั้ง<br/>[เอฟเฟกต์พาสซีฟ]:<br/>ธุลีมอด·ซุนเซ็ก EVA และ CRIT เพิ่ม <color=#b94b4b>10%</color> ตรึงนิรันดร์·ไต้เกี้ยวโบนัสรักษาและ EVA เพิ่ม <color=#b94b4b>10%</color> เอฟเฟกต์นี้จะไม่ถูกล้างเมื่อมีฝ่ายใดฝ่ายหนึ่งออกจากสนาม<br/>ทุกครั้งหลังธุลีมอด·ซุนเซ็กโจมตีแล้ว หากเป้าหมายไม่มี<color=#b94b4b>[เพลิงเถ้าถ่าน]</color> จะเสริม<color=#b94b4b>[เพลิงเถ้าถ่าน]</color> ให้เป้าหมาย <color=#b94b4b>1</color> ชั้น โดยทุกครั้งที่คืนชีพจะได้รับ<color=#b94b4b>[เปลวเรืองรอง]</color>และเสริม <color=#b94b4b>[เพลิงเถ้าถ่าน]</color> <color=#b94b4b>1</color> ชั้นให้ฝ่ายศัตรูทั้งทีม; ทุกครั้งที่ตัวเอง EVA สะสม <color=#b94b4b>2</color> ครั้ง ครั้งต่อไปที่ออกเทิร์น จะเสริมเอฟเฟกต์<color=#b94b4b>เพิกเฉยโล่</color>ให้กับฝ่ายศัตรูที่มี HP ต่ำสุด<br/>ทุกแมตช์ต่อสู้ธุลีมอด·ซุนเซ็กจะได้รับเอฟเฟกต์ไม่ยอมแพ้ของตรึงนิรันดร์·ไต้เกี้ยว<color=#b94b4b>[ขุนพลเทพ 1 ดาว]</color> <color=#b94b4b>1</color> ครั้ง และ<color=#b94b4b>[ฐานเทวะขั้น 1]</color>ตัวเองกระตุ้นแต่ละเทิร์น<color=#b94b4b>+1</color>; เมื่อเป้าหมายที่มี<color=#b94b4b>[ผลาญโลก]</color>ที่ได้จากตรึงนิรันดร์·ไต้เกี้ยวถูกสังหาร จะกระตุ้นเอฟเฟกต์คืนชีพ <color=#b94b4b>[ฐานเทวะขั้น 5]</color>ของธุลีมอด·ซุนเซ็ก โดยเมื่อตรึงนิรันดร์·ไต้เกี้ยวปล่อยสกิลรวมร่างจะกระตุ้นเอฟเฟกต์ปลิดชีพของพรสวรรค์คุ้มครอง<color=#b94b4b>[ผลาญแดน]</color>; ตัวเอง EVA สะสมทุก <color=#b94b4b>2</color> ครั้ง จะฟื้นฟูเลือดให้กับขุนพลฝ่ายเรา <color=#b94b4b>60%</color> ของพลังโจมตีตัวเอง <color=#b94b4b>เพิกเฉยเอฟเฟกต์ห้ามรักษา</color></color>",
+        "mvpm": "2;-300;-150;-200;50;805020;805010",
+        "fall": "",
+        "load": ""
+      },
+      "8050301": {
+        "name": "ทุ่มคิด",
+        "type": 1,
+        "sminfo": "2;5;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 8050301,
+        "desc": "<color=#a37d5f>โจมตีฝ่ายศัตรู<color=#b94b4b>แถวหน้า</color> ทำ M.DMG <color=#b94b4b>100%</color> และมีโอกาส <color=#b94b4b>50%</color> ลดโทสะของเป้าหมาย <color=#b94b4b>1</color> จุด ขณะเดียวกันตัวเองจะได้รับ <color=#b94b4b>[กำหนดแผน]</color> 1 ชั้น ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น</color>",
+        "mvpm": "6;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "8050302": {
+        "name": "รัศมีดาราป้องจิต",
+        "type": 2,
+        "sminfo": "2;6;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 8050302,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color> ทำ M.DMG (<color=#b94b4b>900%</color>/จำนวนเป้าหมายฝ่ายศัตรูที่รอดชีวิต) (เป้าหมายเดี่ยวสูงสุด <color=#b94b4b>400%</color>) และมีโอกาส <color=#b94b4b>50%</color> ร่าย <color=#b94b4b>[ใบ้]</color> 1 ชั้น ต่อเนื่อง <color=#b94b4b>1</color> เทิร์น ใช้สกิลโจมตีเป้าหมายทุกๆ <color=#b94b4b>1</color> คนจะมีโอกาส <color=#b94b4b>[ใบ้]</color>เพิ่ม <color=#b94b4b>10%</color></color>",
+        "mvpm": "6;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "8050401": {
+        "name": "โปรยทาน",
+        "type": 1,
+        "sminfo": "2;7;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 8050401,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>แถวหน้า</color> ทำ P.DMG <color=#b94b4b>100%</color> ตัวเองได้รับ <color=#b94b4b>[ธรรมแห่งฟ้า]</color> <color=#b94b4b>1</color> ชั้น ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น; พร้อมกับมีโอกาส <color=#b94b4b>50%</color> โอนสถานะผิดปกติที่ขจัดได้ <color=#b94b4b>1</color> ชั้นให้กับเป้าหมายที่โจมตี</color>",
+        "mvpm": "5;-150;0",
+        "fall": "",
+        "load": ""
+      },
+      "8050402": {
+        "name": "โชติช่วงเรืองรอง",
+        "type": 2,
+        "sminfo": "2;10;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 8050402,
+        "desc": "<color=#a37d5f>โจมตีศัตรู<color=#b94b4b>ทั้งทีม</color> ทำ M.DMG ใส่ศัตรู <color=#b94b4b>150%</color> และมีโอกาส <color=#b94b4b>50%</color> ร่าย <color=#b94b4b>[ไร้ยุทธ์]</color> 1 ชั้น ต่อเนื่อง <color=#b94b4b>1</color> เทิร์น; พร้อมกับร่าย <color=#b94b4b>[แสงอารักษ์]</color> <color=#b94b4b>30%</color> ของลิมิต HP ให้ฝ่ายเราทั้งทีม<color=#b94b4b>1</color> อัน</color>",
+        "mvpm": "2;-150;0",
+        "fall": "",
+        "load": ""
+      },
+      "8050309": {
+        "name": "ดาวนิรันดร์ส่องฟ้า",
+        "type": 5,
+        "sminfo": "2;11;2000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 8050309,
+        "desc": "<color=#a37d5f>[เอฟเฟกต์แอคทีฟ]: <br/>ในเทิร์นทั่วไปของรัศมีดารา·บังทองและโชติช่วง·เล่าปี่ หักใช้ค่าเทพสลาย <color=#b94b4b>4</color> จุด (หลังออกเทิร์นทั่วไปแล้ว จะได้รับค่าเทพสลาย <color=#b94b4b>1</color> จุด) โจมตีฝ่ายศัตรู<color=#b94b4b>ทั้งทีม</color>ด้วย M.DMG <color=#b94b4b>150%</color>และลดโทสะเป้าหมาย <color=#b94b4b>1</color> จุดและมีโอกาส <color=#b94b4b>50%</color> ลดค่าเทพสลาย <color=#b94b4b>1</color> จุด พร้อมกับมีโอกาส <color=#b94b4b>50%</color> เปลี่ยนสถานะควบคุมที่ขจัดได้อย่างมาก <color=#b94b4b>2</color> ชั้นให้เป็นแบบขจัดไม่ได้ หลังจากนั้นมีโอกาส <color=#b94b4b>50%</color> ทำให้ฝ่ายศัตรูที่มี ATK สูงสุด <color=#b94b4b>2</color> คนด้วยการร่าย <color=#b94b4b>[ปีกวับวาว]</color> 1 ชั้น ต่อเนื่อง <color=#b94b4b>1</color> เทิร์น; หากการโจมตีครั้งนี้สังหารเป้าหมาย ผู้ร่ายหลักจะฟื้นฟูโทสะ <color=#b94b4b>2</color> จุดและค่าเทพสลาย <color=#b94b4b>1</color> จุด ขณะเดียวกันจะล้างสถานะผิดปกติที่ขจัดได้ทั้งหมดของตัวเองและขุนพล<br/>[เอฟเฟกต์พาสซีฟ]: <br/>รัศมีดารา·บังทอง HIT เอฟเฟกต์และ CRIT เพิ่ม <color=#b94b4b>10%</color> โชติช่วง·เล่าปี่ต้านเอฟเฟกต์และเลี่ยงดาเมจเพิ่ม <color=#b94b4b>10%</color> เอฟเฟกต์สเตตัสจะยังคงอยู่แม้จะมีฝ่ายใดฝ่ายหนึ่งออกจากสนามไปแล้ว<br/> จำนวนร่างทองรอดชีวิตที่รัศมีดารา·บังทองอัญเชิญ<color=#b94b4b>+1</color>; ดาเมจร่างทองส่งต่อมีโอกาส <color=#b94b4b>50%</color> เพิกเฉยอมตะและเมื่อได้รับทั้งสอง จะส่งต่อดาเมจและติดเอฟเฟกต์คุณสมบัติ; ทุกครั้งที่ในสนามมีร่างทองที่ตัวเองอัญเชิญ 1 ตัว รัศมีดารา·บังทองเพิ่ม HIT เอฟเฟกต์และดาเมจเพิ่ม <color=#b94b4b>20%</color>; รัศมีดารา·บังทองโอกาสกระตุ้นย้ายดาเมจเพิ่มถึง <color=#b94b4b>100%</color> และเมื่อโชติช่วง·เล่าปี่กระตุ้นจะไม่หักใช้ [กำหนดแผน]<br/>รัศมีดารา·บังทองกระตุ้นไล่ล่า [ฐานเทวะขั้น 3] และ [ฐานเทวะขั้น 10] ของโชติช่วง·เล่าปี่ มีโอกาส <color=#b94b4b>50%</color> แทนที่เป็นสกิล โดยทุกครั้งที่มี [ธรรมแห่งฟ้า] 1 ชั้น มีโอกาสเพิ่ม <color=#b94b4b>10%</color>; เมื่อรัศมีดารา·บังทองถูกโจมตี โชติช่วง·เล่าปี่จะได้รับ [ธรรมแห่งฟ้า] 1 ชั้นและมีโอกาส <color=#b94b4b>100%</color> กระตุ้น [พรสวรรค์ 9 ดาว]; ทุกครั้งที่ในสนามมีร่างดาวรอดชีวิต 1 ตัว โชติช่วง·เล่าปี่จะเพิ่มต้านทานเอฟเฟกต์และเลี่ยงดาเมจ <color=#b94b4b>20%</color><br/>หลังทั้งสองสังหารเป้าหมายแล้ว โชติช่วง·เล่าปี่เปิดใช้เอฟเฟกต์ดาบคู่ 1 เทิร์น; เมื่อขุนพลฝ่ายศัตรูมี [ปีกวับวาว] ที่ร่ายจากทั้งสองตาย จะเพิกเฉยต่อการคืนชีพทันทีและช่วยรบกระตุ้นร่างดาวอัญเชิญ; การโจมตีทั่วไปของโชติช่วง·เล่าปี่กระตุ้นโอนสถานะผิดปกติให้ร่างดาว ทุกชั้นจะหักเลือด <color=#b94b4b>10%</color> ของลิมิต HP ของร่างดาว สูงสุดไม่เกิน <color=#b94b4b>250%</color> ของ ATK ตัวเอง</color>",
+        "mvpm": "2;-150;-50;-200;50;805040;805030",
+        "fall": "",
+        "load": ""
+      },
+      "8050501": {
+        "name": "จิตน้ำแข็ง",
+        "type": 1,
+        "sminfo": "2;4;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 8050501,
+        "desc": "<color=#a37d5f>สุ่มโจมตีฝ่ายศัตรู <color=#b94b4b>3</color> คน ทำ P.DMG <color=#b94b4b>100%</color> ตัวเองได้รับ <color=#b94b4b>[มังกรทมิฬ]</color> <color=#b94b4b>1</color> ชั้น ต่อเนื่อง <color=#b94b4b>2</color> เทิร์น; พร้อมกับมีโอกาส <color=#b94b4b>100%</color> ขจัดสถานะบัฟของเป้าหมายที่ขจัดได้ <color=#b94b4b>1</color> ชั้น</color>",
+        "mvpm": "2;-180;0",
+        "fall": "",
+        "load": ""
+      },
+      "8050502": {
+        "name": "เหวนิรันดร์หนาวมืด",
+        "type": 2,
+        "sminfo": "2;6;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 8050502,
+        "desc": "<color=#a37d5f>ปล่อยสกิลทำช่วงดาเมจ (จำนวนชั้น<color=#b94b4b>[มังกรทมิฬ]</color>ตัวเอง+<color=#b94b4b>6</color>) ด้วยการ<color=#b94b4b>สุ่ม</color>โจมตีเป้าหมายฝ่ายศัตรู ทุกช่วงจะทำ P.DMG <color=#b94b4b>120%</color> เป้าหมายแต่ละรายจะแบกรับสูงสุด <color=#b94b4b>3</color> ช่วง; พร้อมกับมีโอกาส <color=#b94b4b>50%</color> ร่าย <color=#b94b4b>[กระจกหม่น]</color> ใส่เป้าหมาย ต่อเนื่อง <color=#b94b4b>1</color> เทิร์น จากนั้นล้างจำนวนชั้น <color=#b94b4b>[มังกรทมิฬ]</color> ของตัวเอง; หากเป้าหมายเดี่ยวแบกรับมากกว่า <color=#b94b4b>3</color> ครั้ง จะมีโอกาสร่าย <color=#b94b4b>[กระจกหม่น]</color> เพิ่มถึง <color=#b94b4b>100%</color> และทำให้ <color=#b94b4b>100%</color> ของดาเมจครั้งนี้สาดยิงไปให้กับยูนิตใกล้เคียง</color>",
+        "mvpm": "2;-180;0",
+        "fall": "",
+        "load": ""
+      },
+      "8050509": {
+        "name": "เยือกเย็นพิสุทธิ์",
+        "type": 5,
+        "sminfo": "2;5;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 8050509,
+        "desc": "<color=#a37d5f>[เอฟเฟกต์แอคทีฟ]: <br/>ในเทิร์นทั่วไปของเหวเย็น·โจผีและกระเพื่อมใส·เอียนสี หักใช้ค่าเทพสลาย <color=#b94b4b>4</color> จุด (หลังออกเทิร์นทั่วไปแล้ว จะได้รับค่าเทพสลาย <color=#b94b4b>1</color> จุด) โจมตีฝ่ายศัตรู<color=#b94b4b>ทั้งทีม</color>ด้วย P.DMG <color=#b94b4b>150%</color> และขจัดเอฟเฟกต์บัฟเป้าหมาย <color=#b94b4b>1</color> ชั้น พร้อมกับลดเอฟเฟกต์บัฟเป้าหมายอย่างมาก <color=#b94b4b>3</color> อัน <color=#b94b4b>1</color> เทิร์น ลดลงสูงสุด <color=#b94b4b>2</color> เทิร์น จากนั้นมีโอกาส <color=#b94b4b>50%</color> ทำให้ฝ่ายศัตรูที่มี ATK สูงสุด <color=#b94b4b>2</color> คนได้รับ <color=#b94b4b>[ผนึกกฎ]</color> 1 ชั้น ต่อเนื่อง <color=#b94b4b>1</color> เทิร์น; หากการโจมตีครั้งนี้ทำให้เป้าหมายมี HP ต่ำกว่า <color=#b94b4b>50%</color> เป้าหมายจะยืดเวลาสถานะผิดปกติที่ได้จากผู้ที่ร่ายออกไป <color=#b94b4b>1</color> เทิร์น ยืดเวลาสูงสุด <color=#b94b4b>2</color> เทิร์น <br/>[เอฟเฟกต์พาสซีฟ]: <br/>เหวเย็น·โจผี DMG INC และ CRIT เพิ่ม <color=#b94b4b>10%</color> เอฟเฟกต์สเตตัสจะยังคงอยู่แม้จะมีฝ่ายใดฝ่ายหนึ่งออกจากสนามไปแล้ว<br/>สกิลเอฟเฟกต์ของเหวเย็น·โจผีมีลิมิตจำนวนช่วงที่แบกรับของยูนิตเดี่ยวเพิ่มถึง <color=#b94b4b>4</color> และเป้าหมายที่มี <color=#b94b4b>[เหวเย็น]</color> แบกรับเพิ่มเติม<color=#b94b4b>+1</color>; เป้าหมายแบกรับทุก 1 ช่วง พรสวรรค์คุ้มครอง [กฎเยือก] และเงื่อนไขเลือดปลิดชีพพรสวรรค์ยุทธเวท 20 ดาว<color=#b94b4b>+4%</color> สูงสุด<color=#b94b4b>+20%</color>; </color>",
+        "mvpm": "2;-240;-50;-200;60;805060;805050",
+        "fall": "",
+        "load": ""
+      },
+      "400100": {
+        "name": "ไก่เจื้อยแจ้ว",
+        "type": 4,
+        "sminfo": "2;5;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 400100,
+        "desc": "",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "400200": {
+        "name": "สุนัขเสรี",
+        "type": 4,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 400200,
+        "desc": "",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "500100": {
+        "name": "กระต่ายหยกจันทร์",
+        "type": 4,
+        "sminfo": "2;4;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 500100,
+        "desc": "",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "500200": {
+        "name": "ชิงหลวนเมฆา",
+        "type": 4,
+        "sminfo": "2;7;2500",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 500200,
+        "desc": "",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "600100": {
+        "name": "สิงโตรบอำนาจ",
+        "type": 4,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 600100,
+        "desc": "",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "600200": {
+        "name": "เก้าหางหายนะ",
+        "type": 4,
+        "sminfo": "2;4;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 600200,
+        "desc": "",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "600300": {
+        "name": "วานรหิมะคลุ้มคลั่ง",
+        "type": 4,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 600300,
+        "desc": "",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "600400": {
+        "name": "กวางเมตตา",
+        "type": 4,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 600400,
+        "desc": "",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "600500": {
+        "name": "แมงป่องยมโลก",
+        "type": 4,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 600500,
+        "desc": "",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "600600": {
+        "name": "หมีร้ายหฤโหด",
+        "type": 4,
+        "sminfo": "1;6",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 600600,
+        "desc": "",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "600700": {
+        "name": "แมวภูตโคมแห่งพร",
+        "type": 4,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 600700,
+        "desc": "",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "60020100": {
+        "name": "เก้าหางหายนะ",
+        "type": 4,
+        "sminfo": "2;4;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 60020100,
+        "desc": "เมื่อเริ่มการต่อสู้: ลดโทสะฝ่ายศัตรูทั้งทีม 2 จุด ทุกเทิร์นมีโอกาส 50% ในการปล่อย: สุ่มยูนิต 2 คนลดโทสะ 1 จุด (โทสะที่ลดจะไม่ได้ผลกระทบจากเอฟเฟกต์อื่น)",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "60040100": {
+        "name": "กวางเมตตา",
+        "type": 4,
+        "sminfo": "2;4;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 60040100,
+        "desc": "ก่อนเริ่มเทิร์นคี่ เพิ่มโล่ให้ฝ่ายเราทั้งทีม 10% ของ HP (สแต็กไม่ได้) ขณะเดียวกันจะเพิ่มเลี่ยงดาเมจให้ฝ่ายเราทั้งทีม 10% แบบที่ล้างไม่ได้ ต่อเนื่อง 1 เทิร์น",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "600800": {
+        "name": "หมาป่าละโมบว่องไว",
+        "type": 4,
+        "sminfo": "2;4;4000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 600800,
+        "desc": "เมื่อเริ่มการต่อสู้: ลดโทสะฝ่ายศัตรูทั้งทีม 2 จุด ทุกเทิร์นมีโอกาส 50% ในการปล่อย: สุ่มยูนิต 2 คนลดโทสะ 1 จุด (โทสะที่ลดจะไม่ได้ผลกระทบจากเอฟเฟกต์อื่น)",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "700100": {
+        "name": "สกิล",
+        "type": 4,
+        "sminfo": "2;2;6000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 700100,
+        "desc": "เมื่อเริ่มเทิร์นคี่ จะฟื้นฟูโทสะ 4 จุดให้กับเป้าหมายฝ่ายเราที่มีพลังโจมตีสูงสุด 1 คน ขุนพลที่เหลือจะฟื้นฟู 2 จุด (เอฟเฟกต์ฟื้นฟูจะไม่ได้ผลกระทบจากเอฟเฟกต์อื่น) และเพิ่มดาเมจของขุนพลทั้งทีม 10% และดาเมจต่อเนื่อง 10% ต่อเนื่อง 1 เทิร์น",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "700200": {
+        "name": "สกิล",
+        "type": 4,
+        "sminfo": "2;9;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 700200,
+        "desc": "เมื่อเริ่มเทิร์นคี่ จะฟื้นฟูโทสะ 4 จุดให้กับเป้าหมายฝ่ายเราที่มีพลังโจมตีสูงสุด 1 คน ขุนพลที่เหลือจะฟื้นฟู 2 จุด (เอฟเฟกต์ฟื้นฟูจะไม่ได้ผลกระทบจากเอฟเฟกต์อื่น) และเพิ่มดาเมจของขุนพลทั้งทีม 10% และดาเมจต่อเนื่อง 10% ต่อเนื่อง 1 เทิร์น",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "700300": {
+        "name": "สกิล",
+        "type": 4,
+        "sminfo": "2;9;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 700300,
+        "desc": "",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "700400": {
+        "name": "สกิล",
+        "type": 4,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 700400,
+        "desc": "",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "700500": {
+        "name": "สกิล",
+        "type": 4,
+        "sminfo": "2;5;3000",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 700500,
+        "desc": "",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "15040101": {
+        "name": "ธนูไม้",
+        "type": 4,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 15040101,
+        "desc": "",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "15040201": {
+        "name": "เกราะหวาย",
+        "type": 4,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 15040201,
+        "desc": "",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "15050101": {
+        "name": "หลักสันติสุข",
+        "type": 4,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 15050101,
+        "desc": "",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "15050201": {
+        "name": "ดาบเงินโบราณ",
+        "type": 4,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 15050201,
+        "desc": "",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "15060101": {
+        "name": "กระบี่คู่ฟ้าสร้าง",
+        "type": 4,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 15060101,
+        "desc": "",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "15060201": {
+        "name": "ง้าวกรีดนภา",
+        "type": 4,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 15060201,
+        "desc": "",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "15060301": {
+        "name": "ทวนราชันย์",
+        "type": 4,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 15060301,
+        "desc": "",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "15060401": {
+        "name": "ตราหยกแผ่นดิน",
+        "type": 4,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 15060401,
+        "desc": "",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "15060501": {
+        "name": "พัดขนนกจูกัด",
+        "type": 4,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 15060501,
+        "desc": "",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "15060601": {
+        "name": "ตะเกียงเจ็ดดาว",
+        "type": 4,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 15060601,
+        "desc": "",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "15070101": {
+        "name": "สันหลังมังกรสุริยัน",
+        "type": 6,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 15070101,
+        "desc": "",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "15070201": {
+        "name": "แท่นลิขิตฟ้าหมื่นลักษณ์",
+        "type": 6,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 15070201,
+        "desc": "",
+        "mvpm": "1;0;0",
+        "fall": "",
+        "load": ""
+      },
+      "15070301": {
+        "name": "ธนูพิพากรัตติกาล",
+        "type": 6,
+        "sminfo": "1;1",
+        "hact_num": "",
+        "egy": 0,
+        "icon": 15070301,
+        "desc": "",
+        "mvpm": "6;0;0",
+        "fall": "",
+        "load": ""
+      }
+    },
+    "3": {
+      "40011": {
+        "eids": "40010101"
+      },
+      "40021": {
+        "eids": "40020101;40020102"
+      },
+      "50011": {
+        "eids": "50010101;50010102;50010103"
+      },
+      "50021": {
+        "eids": "50020101;50020102;50020103"
+      },
+      "60011": {
+        "eids": "60010101;60010102;60010103"
+      },
+      "60021": {
+        "eids": "60020101;60020102;60020103"
+      },
+      "60031": {
+        "eids": "60030101;60030102"
+      },
+      "60041": {
+        "eids": "60040101;60040102;60040103"
+      },
+      "60051": {
+        "eids": "60050101;60050102;60050103"
+      },
+      "60061": {
+        "eids": "60060101;60060102"
+      },
+      "60071": {
+        "eids": "60070101;60070102"
+      },
+      "1050401": {
+        "eids": "1050400101;1050400102;1050400103"
+      },
+      "1050402": {
+        "eids": "1050400201;1050400202;1050400203;1050400204;1050400205"
+      },
+      "1050211": {
+        "eids": "105020110101;105020110102;105020110103"
+      },
+      "1050212": {
+        "eids": "105020110201;105020110202"
+      },
+      "1050213": {
+        "eids": "105020110203;105020110204;105020110205"
+      },
+      "2050211": {
+        "eids": "205020110101;205020110102;205020110103"
+      },
+      "2050212": {
+        "eids": "205020110204;205020110202;205020110201;205020110203;205020110205"
+      },
+      "4050401": {
+        "eids": "4050400101;4050400102;4050400103;4050400104"
+      },
+      "4050402": {
+        "eids": "4050400201;4050400202"
+      },
+      "6050101": {
+        "eids": "6050100101;6050100102;6050100103"
+      },
+      "6050102": {
+        "eids": "6050100201;6050100202;6050100203"
+      },
+      "6050103": {
+        "eids": "6050100301;6050100302;6050100303"
+      },
+      "6040101": {
+        "eids": "6040100101;6040100102"
+      },
+      "6040102": {
+        "eids": "6040100201;6040100202;6040100203"
+      },
+      "6040103": {
+        "eids": "6040100301;6040100302"
+      },
+      "6050301": {
+        "eids": "6050300101;6050300102;6050300103;6050300104"
+      },
+      "6050302": {
+        "eids": "6050300201;6050300202"
+      },
+      "6050303": {
+        "eids": "6050300301;6050300302"
+      },
+      "6050304": {
+        "eids": "6050300203"
+      },
+      "6030101": {
+        "eids": "6030100101;6030100102;6030100103"
+      },
+      "6030102": {
+        "eids": "6030100201;6030100202;6030100203"
+      },
+      "6030103": {
+        "eids": "6030100301;6030100302;6030100303"
+      },
+      "6030201": {
+        "eids": "6030200101;6030200102"
+      },
+      "6030202": {
+        "eids": "6030200201;6030200202;6030200203;6030200204"
+      },
+      "6030203": {
+        "eids": "6030200301;6030200302;6030200303;6030200304"
+      },
+      "6040201": {
+        "eids": "6040200101;6040200102"
+      },
+      "6040202": {
+        "eids": "6040200201;6040200202;6040200203"
+      },
+      "6040203": {
+        "eids": "6040200301;6040200302;6040200303"
+      },
+      "6050201": {
+        "eids": "6050200101;6050200102;6050200103"
+      },
+      "6050202": {
+        "eids": "6050200204;6050200202;6050200201;6050200203"
+      },
+      "6050203": {
+        "eids": "6050200304;6050200302;6050200301;6050200303"
+      },
+      "6050401": {
+        "eids": "6050400101;6050400102;6050400103"
+      },
+      "6050402": {
+        "eids": "6050400201;6050400202;6050400203"
+      },
+      "6050403": {
+        "eids": "6050400301;6050400302;6050400303"
+      },
+      "2050111": {
+        "eids": "205010110101;205010110102;205010110103"
+      },
+      "2050112": {
+        "eids": "205010110201;205010110202;205010110203"
+      },
+      "4050111": {
+        "eids": "405010110101;405010110102"
+      },
+      "4050112": {
+        "eids": "405010110201;405010110202"
+      },
+      "2050401": {
+        "eids": "2050400101;2050400102;2050400103"
+      },
+      "2050402": {
+        "eids": "2050400201;2050400202;2050400203;2050400204"
+      },
+      "4050411": {
+        "eids": "405040110101;405040110102;405040110103"
+      },
+      "4050412": {
+        "eids": "405040110201;405040110202;405040110203"
+      },
+      "3040311": {
+        "eids": "304030110101;304030110102;304030110103"
+      },
+      "3040312": {
+        "eids": "304030110201;304030110202;304030110203"
+      },
+      "3050401": {
+        "eids": "3050400101;3050400102;3050400103"
+      },
+      "3050402": {
+        "eids": "3050400201;3050400202;3050400203"
+      },
+      "2050101": {
+        "eids": "2050100101;2050100102;2050100103"
+      },
+      "2050102": {
+        "eids": "2050100201;2050100202"
+      },
+      "2050103": {
+        "eids": "2050100301;2050100302"
+      },
+      "2050104": {
+        "eids": "2050100401"
+      },
+      "4050201": {
+        "eids": "4050200101;4050200102;4050200103"
+      },
+      "4050202": {
+        "eids": "4050200201;4050200202"
+      },
+      "4050203": {
+        "eids": "4050200301;4050200302"
+      },
+      "4050204": {
+        "eids": "4050200401"
+      },
+      "4040501": {
+        "eids": "4040500101;4040500102"
+      },
+      "4040502": {
+        "eids": "4040500201;4040500202"
+      },
+      "4040503": {
+        "eids": "4040500301"
+      },
+      "4040504": {
+        "eids": "4040500104"
+      },
+      "4040505": {
+        "eids": "4040500401"
+      },
+      "4040506": {
+        "eids": "4040500303"
+      },
+      "1040101": {
+        "eids": "1040100101;1040100102;1040100103"
+      },
+      "1040102": {
+        "eids": "1040100201;1040100202"
+      },
+      "1040103": {
+        "eids": "1040100301;1040100302"
+      },
+      "1040104": {
+        "eids": "1040100401"
+      },
+      "1040105": {
+        "eids": "1040100303"
+      },
+      "3040401": {
+        "eids": "3040400101;3040400102;3040400103"
+      },
+      "3040402": {
+        "eids": "3040400201;3040400202"
+      },
+      "3040403": {
+        "eids": "3040400301;3040400302"
+      },
+      "3050101": {
+        "eids": "3050100101;3050100102;3050100103"
+      },
+      "3050102": {
+        "eids": "3050100201;3050100202"
+      },
+      "3050103": {
+        "eids": "3050100301;3050100302"
+      },
+      "3050104": {
+        "eids": "3050100401"
+      },
+      "2040101": {
+        "eids": "2040100101;2040100102;2040100103"
+      },
+      "2040102": {
+        "eids": "2040100201;2040100202"
+      },
+      "2040103": {
+        "eids": "2040100301"
+      },
+      "2040104": {
+        "eids": "2040100401"
+      },
+      "2040202": {
+        "eids": "2040200201;2040200202"
+      },
+      "2040203": {
+        "eids": "2040200301;2040200302;2040200303"
+      },
+      "2040204": {
+        "eids": "2040200401"
+      },
+      "1050101": {
+        "eids": "1050100101;1050100102;1050100103"
+      },
+      "1050102": {
+        "eids": "1050100201;1050100202"
+      },
+      "1050103": {
+        "eids": "1050100301;1050100302"
+      },
+      "1050201": {
+        "eids": "1050200101;1050200102;1050200103"
+      },
+      "1050202": {
+        "eids": "1050200201;1050200202"
+      },
+      "1050203": {
+        "eids": "1050200301"
+      },
+      "1050204": {
+        "eids": "1050200401"
+      },
+      "1010101": {
+        "eids": "1010100101;1010100102"
+      },
+      "1010102": {
+        "eids": "1010100201;1010100202;1010100203"
+      },
+      "1010103": {
+        "eids": "1010100301;1010100302"
+      },
+      "1020101": {
+        "eids": "1020100101;1020100102;1020100103"
+      },
+      "1020102": {
+        "eids": "1020100201;1020100202;1020100203"
+      },
+      "1020103": {
+        "eids": "1020100301;1020100302"
+      },
+      "1020201": {
+        "eids": "1020200101;1020200102;1020200103"
+      },
+      "1020202": {
+        "eids": "1020200201;1020200202;1020200203"
+      },
+      "1020203": {
+        "eids": "1020200301;1020200302"
+      },
+      "1030101": {
+        "eids": "1030100101;1030100102"
+      },
+      "1030102": {
+        "eids": "1030100201;1030100202"
+      },
+      "1030103": {
+        "eids": "1030100301;1030100302"
+      },
+      "1030104": {
+        "eids": "1030100401"
+      },
+      "1030201": {
+        "eids": "1030200101;1030200102"
+      },
+      "1030202": {
+        "eids": "1030200201;1030200202"
+      },
+      "1030203": {
+        "eids": "1030200301"
+      },
+      "1030204": {
+        "eids": "1030200401"
+      },
+      "1040201": {
+        "eids": "1040200101;1040200102"
+      },
+      "1040202": {
+        "eids": "1040200201;1040200202"
+      },
+      "1040203": {
+        "eids": "1040200301"
+      },
+      "1040204": {
+        "eids": "1040200401"
+      },
+      "1040205": {
+        "eids": "1040200302"
+      },
+      "1040301": {
+        "eids": "1040300101;1040300102"
+      },
+      "1040302": {
+        "eids": "1040300201;1040300202"
+      },
+      "1040303": {
+        "eids": "1040300301"
+      },
+      "1040304": {
+        "eids": "1040300401"
+      },
+      "1040401": {
+        "eids": "1040400101;1040400102;1040400103"
+      },
+      "1040402": {
+        "eids": "1040400201;1040400202;1040400203"
+      },
+      "1040403": {
+        "eids": "1040400301;1040400302"
+      },
+      "1040501": {
+        "eids": "1040500101;1040500102"
+      },
+      "1040502": {
+        "eids": "1040500201;1040500202"
+      },
+      "1040503": {
+        "eids": "1040500301"
+      },
+      "1040504": {
+        "eids": "1040500401"
+      },
+      "1040505": {
+        "eids": "1040500302"
+      },
+      "1050301": {
+        "eids": "1050300101;1050300102;1050300103;1050300104"
+      },
+      "1050302": {
+        "eids": "1050300201;1050300202"
+      },
+      "1050303": {
+        "eids": "1050300301"
+      },
+      "1050304": {
+        "eids": "1050300401"
+      },
+      "2010101": {
+        "eids": "2010100101;2010100102;2010100103"
+      },
+      "2010102": {
+        "eids": "2010100201;2010100202"
+      },
+      "2010103": {
+        "eids": "2010100301;2010100302"
+      },
+      "2020101": {
+        "eids": "2020100101;2020100102"
+      },
+      "2020102": {
+        "eids": "2020100201;2020100202"
+      },
+      "2020103": {
+        "eids": "2020100301"
+      },
+      "2020104": {
+        "eids": "2020100401"
+      },
+      "2020201": {
+        "eids": "2020200101;2020200102;2020200103"
+      },
+      "2020202": {
+        "eids": "2020200201;2020200202"
+      },
+      "2020203": {
+        "eids": "2020200301"
+      },
+      "2020204": {
+        "eids": "2020200401"
+      },
+      "2020205": {
+        "eids": "2020200302"
+      },
+      "2030101": {
+        "eids": "2030100101;2030100102;2030100103"
+      },
+      "2030102": {
+        "eids": "2030100201;2030100202;2030100203"
+      },
+      "2030103": {
+        "eids": "2030100301;2030100302"
+      },
+      "2030201": {
+        "eids": "2030200101;2030200102;2030200103"
+      },
+      "2030202": {
+        "eids": "2030200201;2030200202"
+      },
+      "2030203": {
+        "eids": "2030200301"
+      },
+      "2030204": {
+        "eids": "2030200401"
+      },
+      "2040301": {
+        "eids": "2040300101;2040300102;2040300103"
+      },
+      "2040302": {
+        "eids": "2040300201;2040300202"
+      },
+      "2040303": {
+        "eids": "2040300301"
+      },
+      "2040304": {
+        "eids": "2040300401"
+      },
+      "2040401": {
+        "eids": "2040400101;2040400102;2040400103"
+      },
+      "2040402": {
+        "eids": "2040400201;2040400202"
+      },
+      "2040403": {
+        "eids": "2040400301"
+      },
+      "2040404": {
+        "eids": "2040400401"
+      },
+      "2040501": {
+        "eids": "2040500101;2040500102;2040500103"
+      },
+      "2040502": {
+        "eids": "2040500201;2040500202"
+      },
+      "2040503": {
+        "eids": "2040500301;2040500302"
+      },
+      "2040504": {
+        "eids": "2040500203"
+      },
+      "2050201": {
+        "eids": "2050200101;2050200102"
+      },
+      "2050202": {
+        "eids": "2050200201;2050200202"
+      },
+      "2050203": {
+        "eids": "2050200301"
+      },
+      "2050204": {
+        "eids": "2050200103"
+      },
+      "2050205": {
+        "eids": "2050200203"
+      },
+      "2050206": {
+        "eids": "2050200302"
+      },
+      "2050301": {
+        "eids": "2050300101;2050300102;2050300103"
+      },
+      "2050302": {
+        "eids": "2050300201;2050300202"
+      },
+      "2050303": {
+        "eids": "2050300301"
+      },
+      "2050304": {
+        "eids": "2050300401"
+      },
+      "3010101": {
+        "eids": "3010100101;3010100102"
+      },
+      "3010102": {
+        "eids": "3010100201;3010100202;3010100203"
+      },
+      "3010103": {
+        "eids": "3010100301;3010100302"
+      },
+      "3020101": {
+        "eids": "3020100101;3020100102"
+      },
+      "3020102": {
+        "eids": "3020100201;3020100202;3020100203"
+      },
+      "3020103": {
+        "eids": "3020100301;3020100302"
+      },
+      "3020201": {
+        "eids": "3020200101;3020200102"
+      },
+      "3020202": {
+        "eids": "3020200201;3020200202;3020200203"
+      },
+      "3020203": {
+        "eids": "3020200301;3020200302"
+      },
+      "3030101": {
+        "eids": "3030100101;3030100102;3030100103"
+      },
+      "3030102": {
+        "eids": "3030100201;3030100202;3030100203"
+      },
+      "3030103": {
+        "eids": "3030100301;3030100302"
+      },
+      "3030201": {
+        "eids": "3030200101;3030200102;3030200103"
+      },
+      "3030202": {
+        "eids": "3030200201;3030200202;3030200203"
+      },
+      "3030203": {
+        "eids": "3030200301;3030200302"
+      },
+      "3040101": {
+        "eids": "3040100101;3040100102"
+      },
+      "3040102": {
+        "eids": "3040100201;3040100202"
+      },
+      "3040103": {
+        "eids": "3040100301"
+      },
+      "3040104": {
+        "eids": "3040100401"
+      },
+      "3040105": {
+        "eids": "3040100302"
+      },
+      "3040201": {
+        "eids": "3040200101;3040200102"
+      },
+      "3040202": {
+        "eids": "3040200201;3040200202"
+      },
+      "3040203": {
+        "eids": "3040200301"
+      },
+      "3040204": {
+        "eids": "3040200401"
+      },
+      "3040205": {
+        "eids": "3040200302"
+      },
+      "3040301": {
+        "eids": "3040300101;3040300102;3040300103"
+      },
+      "3040302": {
+        "eids": "3040300201;3040300202;3040300203"
+      },
+      "3040303": {
+        "eids": "3040300301;3040300302"
+      },
+      "3040501": {
+        "eids": "3040500101;3040500102;3040500103"
+      },
+      "3040502": {
+        "eids": "3040500201;3040500202;3040500203"
+      },
+      "3040503": {
+        "eids": "3040500301;3040500302"
+      },
+      "3050201": {
+        "eids": "3050200101;3050200102;3050200103"
+      },
+      "3050202": {
+        "eids": "3050200201;3050200202"
+      },
+      "3050203": {
+        "eids": "3050200301;3050200302"
+      },
+      "3050204": {
+        "eids": "3050200401"
+      },
+      "3050301": {
+        "eids": "3050300101;3050300102;3050300103"
+      },
+      "3050302": {
+        "eids": "3050300201;3050300202"
+      },
+      "3050303": {
+        "eids": "3050300301;3050300302"
+      },
+      "3050304": {
+        "eids": "3050300401"
+      },
+      "4010101": {
+        "eids": "4010100101;4010100102;4010100103"
+      },
+      "4010102": {
+        "eids": "4010100201;4010100202;4010100203"
+      },
+      "4010103": {
+        "eids": "4010100301;4010100302"
+      },
+      "4010104": {
+        "eids": "4010100303"
+      },
+      "4020101": {
+        "eids": "4020100101;4020100102;4020100103"
+      },
+      "4020102": {
+        "eids": "4020100201;4020100202;4020100203"
+      },
+      "4020103": {
+        "eids": "4020100301;4020100302"
+      },
+      "4020201": {
+        "eids": "4020200101;4020200102"
+      },
+      "4020202": {
+        "eids": "4020200201;4020200202"
+      },
+      "4020203": {
+        "eids": "4020200301;4020200302"
+      },
+      "4020204": {
+        "eids": "4020200401"
+      },
+      "4030101": {
+        "eids": "4030100101;4030100102;4030100103"
+      },
+      "4030102": {
+        "eids": "4030100201;4030100202;4030100203"
+      },
+      "4030103": {
+        "eids": "4030100301;4030100302"
+      },
+      "4030201": {
+        "eids": "4030200101;4030200102"
+      },
+      "4030202": {
+        "eids": "4030200201;4030200202"
+      },
+      "4030203": {
+        "eids": "4030200301"
+      },
+      "4030204": {
+        "eids": "4030200401"
+      },
+      "4040101": {
+        "eids": "4040100101;4040100102;4040100103"
+      },
+      "4040102": {
+        "eids": "4040100201;4040100202"
+      },
+      "4040103": {
+        "eids": "4040100301;4040100302"
+      },
+      "4040104": {
+        "eids": "4040100401"
+      },
+      "4040201": {
+        "eids": "4040200101;4040200102"
+      },
+      "4040202": {
+        "eids": "4040200201;4040200202"
+      },
+      "4040203": {
+        "eids": "4040200301"
+      },
+      "4040204": {
+        "eids": "4040200401"
+      },
+      "4040301": {
+        "eids": "4040300101;4040300102"
+      },
+      "4040302": {
+        "eids": "4040300201;4040300202"
+      },
+      "4040303": {
+        "eids": "4040300301;4040300302"
+      },
+      "4040304": {
+        "eids": "4040300103"
+      },
+      "4040305": {
+        "eids": "4040300203"
+      },
+      "4040306": {
+        "eids": "4040300303"
+      },
+      "4040401": {
+        "eids": "4040400101;4040400102;4040400103"
+      },
+      "4040402": {
+        "eids": "4040400201;4040400202;4040400203"
+      },
+      "4040403": {
+        "eids": "4040400301;4040400302"
+      },
+      "4050101": {
+        "eids": "4050100101;4050100102"
+      },
+      "4050102": {
+        "eids": "4050100201;4050100202"
+      },
+      "4050103": {
+        "eids": "4050100301"
+      },
+      "4050104": {
+        "eids": "4050100401"
+      },
+      "4050301": {
+        "eids": "4050300101;4050300102"
+      },
+      "4050302": {
+        "eids": "4050300201;4050300202"
+      },
+      "4050303": {
+        "eids": "4050300301"
+      },
+      "4050304": {
+        "eids": "4050300401"
+      },
+      "5050101": {
+        "eids": "5050100101;5050100102"
+      },
+      "5050102": {
+        "eids": "5050100201;5050100202"
+      },
+      "5050103": {
+        "eids": "5050100301;5050100302"
+      },
+      "5050104": {
+        "eids": "5050100401"
+      },
+      "5050201": {
+        "eids": "5050200101;5050200102"
+      },
+      "5050202": {
+        "eids": "5050200201;5050200202"
+      },
+      "5050203": {
+        "eids": "5050200301;5050200302"
+      },
+      "9050101": {
+        "eids": "9050100101;9050100102"
+      },
+      "9050102": {
+        "eids": "9050100201;9050100202"
+      },
+      "9050103": {
+        "eids": "9050100301"
+      },
+      "9050104": {
+        "eids": "9050100401"
+      },
+      "5050501": {
+        "eids": "5050500101;5050500102"
+      },
+      "5050502": {
+        "eids": "5050500201;5050500202"
+      },
+      "5050503": {
+        "eids": "5050500301;5050500302"
+      },
+      "5050504": {
+        "eids": "5050500401"
+      },
+      "5050401": {
+        "eids": "5050400101;5050400102;5050400103"
+      },
+      "5050402": {
+        "eids": "5050400201;5050400202"
+      },
+      "5050403": {
+        "eids": "5050400301;5050400302"
+      },
+      "5050601": {
+        "eids": "5050600101;5050600102;5050600103"
+      },
+      "5050602": {
+        "eids": "5050600201;5050600202"
+      },
+      "5050603": {
+        "eids": "5050600301;5050600302"
+      },
+      "5050301": {
+        "eids": "5050300101;5050300102"
+      },
+      "5050302": {
+        "eids": "5050300201;5050300202"
+      },
+      "5050303": {
+        "eids": "5050300301;5050300302"
+      },
+      "5050304": {
+        "eids": "5050300401"
+      },
+      "9050201": {
+        "eids": "9050200101;9050200102;9050200103"
+      },
+      "9050202": {
+        "eids": "9050200201;9050200202"
+      },
+      "9050203": {
+        "eids": "9050200301;9050200302"
+      },
+      "5050701": {
+        "eids": "5050700101;5050700102;5050700103"
+      },
+      "5050702": {
+        "eids": "5050700201;5050700202"
+      },
+      "5050703": {
+        "eids": "5050700301"
+      },
+      "5050704": {
+        "eids": "5050700401"
+      },
+      "9050301": {
+        "eids": "9050300101;9050300102"
+      },
+      "9050302": {
+        "eids": "9050300201;9050300202"
+      },
+      "9050303": {
+        "eids": "9050300301"
+      },
+      "9050304": {
+        "eids": "9050300401"
+      },
+      "5050801": {
+        "eids": "5050800101;5050800102;5050800103"
+      },
+      "5050802": {
+        "eids": "5050800201;5050800202;5050800203"
+      },
+      "5050803": {
+        "eids": "5050800301;5050800302"
+      },
+      "9050401": {
+        "eids": "9050400101;9050400102;9050400103"
+      },
+      "9050402": {
+        "eids": "9050400201;9050400202"
+      },
+      "9050403": {
+        "eids": "9050400301"
+      },
+      "7050101": {
+        "eids": "7050100101;7050100102;7050100103"
+      },
+      "7050102": {
+        "eids": "7050100201;7050100202;7050100203"
+      },
+      "7050103": {
+        "eids": "7050100301;7050100302"
+      },
+      "7050109": {
+        "eids": "7050200502;7050100502;7050100501;7050200501"
+      },
+      "7050201": {
+        "eids": "7050200101;7050200102;7050200103"
+      },
+      "7050202": {
+        "eids": "7050200201;7050200202"
+      },
+      "7050203": {
+        "eids": "7050200301;7050200302"
+      },
+      "9050501": {
+        "eids": "9050500101;9050500102"
+      },
+      "9050502": {
+        "eids": "9050500201;9050500202"
+      },
+      "9050503": {
+        "eids": "9050500401"
+      },
+      "9050504": {
+        "eids": "9050500402"
+      },
+      "7050301": {
+        "eids": "7050300101;7050300102;7050300103"
+      },
+      "7050302": {
+        "eids": "7050300201;7050300202"
+      },
+      "7050303": {
+        "eids": "7050300301;7050300302"
+      },
+      "7050309": {
+        "eids": "7050400502;7050300502;7050300501;7050400501"
+      },
+      "7050401": {
+        "eids": "7050400101;7050400102;7050400103;7050400104"
+      },
+      "7050402": {
+        "eids": "7050400201;7050400202"
+      },
+      "7050403": {
+        "eids": "7050400301;7050400302"
+      },
+      "9050601": {
+        "eids": "9050600101;9050600102"
+      },
+      "9050602": {
+        "eids": "9050600201;9050600202"
+      },
+      "9050603": {
+        "eids": "9050600301"
+      },
+      "9050604": {
+        "eids": "9050600401"
+      },
+      "7050501": {
+        "eids": "7050500101;7050500102"
+      },
+      "7050502": {
+        "eids": "7050500201;7050500202"
+      },
+      "7050503": {
+        "eids": "7050500301;7050500302"
+      },
+      "7050504": {
+        "eids": "7050500401"
+      },
+      "7050509": {
+        "eids": "7050500502;7050600502;7050600501;7050500501"
+      },
+      "7050601": {
+        "eids": "7050600101;7050600102"
+      },
+      "7050602": {
+        "eids": "7050600201;7050600202"
+      },
+      "7050603": {
+        "eids": "7050600301"
+      },
+      "7050604": {
+        "eids": "7050600401"
+      },
+      "6002011": {
+        "eids": "6002010101;6002010102"
+      },
+      "6002012": {
+        "eids": "6002010103;6002010104"
+      },
+      "9050701": {
+        "eids": "9050700101;9050700102"
+      },
+      "9050702": {
+        "eids": "9050700201;9050700202"
+      },
+      "9050703": {
+        "eids": "9050700301"
+      },
+      "9050704": {
+        "eids": "9050700401"
+      },
+      "60081": {
+        "eids": "60080101;60080102"
+      },
+      "7050701": {
+        "eids": "7050700101;7050700102"
+      },
+      "7050702": {
+        "eids": "7050700201;7050700202"
+      },
+      "7050703": {
+        "eids": "7050700301"
+      },
+      "7050704": {
+        "eids": "7050500401"
+      },
+      "7050709": {
+        "eids": "7050800502;7050700502;7050700501;7050800501"
+      },
+      "7050801": {
+        "eids": "7050800101;7050800102"
+      },
+      "7050802": {
+        "eids": "7050800201;7050800202"
+      },
+      "7050803": {
+        "eids": "7050800301"
+      },
+      "7050804": {
+        "eids": "7050800401"
+      },
+      "9050801": {
+        "eids": "9050800101;9050800102"
+      },
+      "9050802": {
+        "eids": "9050800201;9050800202"
+      },
+      "9050803": {
+        "eids": "9050800301"
+      },
+      "9050804": {
+        "eids": "9050800401"
+      },
+      "70011": {
+        "eids": "70010101;70010102"
+      },
+      "70012": {
+        "eids": "70010103;70010104"
+      },
+      "6004011": {
+        "eids": "6004010101;6004010102;6004010103"
+      },
+      "8050101": {
+        "eids": "8050100101;8050100102"
+      },
+      "8050102": {
+        "eids": "8050100201;8050100202"
+      },
+      "8050103": {
+        "eids": "8050100301;8050100302"
+      },
+      "8050104": {
+        "eids": "8050100401"
+      },
+      "8050109": {
+        "eids": "8050100501;8050100502"
+      },
+      "70021": {
+        "eids": "70020101;70020102"
+      },
+      "8050201": {
+        "eids": "8050200101;8050200102"
+      },
+      "8050202": {
+        "eids": "8050200201;8050200202"
+      },
+      "8050203": {
+        "eids": "8050200301"
+      },
+      "8050204": {
+        "eids": "8050200401"
+      },
+      "9051001": {
+        "eids": "9051000101;9051000102"
+      },
+      "9051002": {
+        "eids": "9051000201;9051000202"
+      },
+      "9051003": {
+        "eids": "9051000301"
+      },
+      "9051004": {
+        "eids": "9051000401"
+      },
+      "70031": {
+        "eids": "70030101;70030102"
+      },
+      "15070101": {
+        "eids": "7010101;7010102"
+      },
+      "8050301": {
+        "eids": "8050300101;8050300102;8050300103"
+      },
+      "8050302": {
+        "eids": "8050300201;8050300202"
+      },
+      "8050303": {
+        "eids": "8050300301"
+      },
+      "8050304": {
+        "eids": "8050300401"
+      },
+      "8050309": {
+        "eids": "8050300502;8050400502;8050300501;8050400501"
+      },
+      "70041": {
+        "eids": "70040101;70040102"
+      },
+      "15070201": {
+        "eids": "7020101;7020102"
+      },
+      "15070202": {
+        "eids": "7020103;7020104"
+      },
+      "8050401": {
+        "eids": "8050400101;8050400102;8050400103"
+      },
+      "8050402": {
+        "eids": "8050400201;8050400202"
+      },
+      "8050403": {
+        "eids": "8050400301;8050400302"
+      },
+      "15070301": {
+        "eids": "7030101;7030102"
+      },
+      "8050501": {
+        "eids": "8050500101"
+      },
+      "8050502": {
+        "eids": "8050500201;8050500202"
+      },
+      "8050503": {
+        "eids": "8050500301"
+      },
+      "8050504": {
+        "eids": "8050500401"
+      },
+      "8050505": {
+        "eids": "8050500102;8050500103"
+      },
+      "8050509": {
+        "eids": "8050500502;8050600502;8050500501;8050600501"
+      },
+      "9051101": {
+        "eids": "9051100101;9051100102;9051100103"
+      },
+      "9051102": {
+        "eids": "9051100201;9051100202"
+      },
+      "9051103": {
+        "eids": "9051100301"
+      },
+      "9051104": {
+        "eids": "9051100401"
+      },
+      "70051": {
+        "eids": "70050101;70050102"
+      },
+      "9050901": {
+        "eids": "9050900101;9050900102"
+      },
+      "9050902": {
+        "eids": "9050900201;9050900202"
+      },
+      "9050903": {
+        "eids": "9050900301"
+      },
+      "9050904": {
+        "eids": "9050900401"
+      }
+    },
+    "4": {
+      "2050101": {
+        "id": 2050101
+      },
+      "2050102": {
+        "id": "2050102,2050104"
+      },
+      "2050103": {
+        "id": "2050103,2050104"
+      },
+      "4050201": {
+        "id": 4050201
+      },
+      "4050202": {
+        "id": "4050202,4050204"
+      },
+      "4050203": {
+        "id": 4050203
+      },
+      "4040501": {
+        "id": "4040501,4040504"
+      },
+      "4040502": {
+        "id": "4040502,4040505"
+      },
+      "4040503": {
+        "id": "4040503,4040506"
+      },
+      "1040101": {
+        "id": 1040101
+      },
+      "1040102": {
+        "id": "1040102,1040104"
+      },
+      "1040103": {
+        "id": "1040103,1040105"
+      },
+      "3040401": {
+        "id": 3040401
+      },
+      "3040402": {
+        "id": 3040402
+      },
+      "3040403": {
+        "id": 3040403
+      },
+      "3050101": {
+        "id": 3050101
+      },
+      "3050102": {
+        "id": "3050102,3050104"
+      },
+      "3050103": {
+        "id": 3050103
+      },
+      "2040101": {
+        "id": 2040101
+      },
+      "2040102": {
+        "id": "2040102,2040104"
+      },
+      "2040103": {
+        "id": "2040103,2040104"
+      },
+      "2040201": {
+        "id": 2040202
+      },
+      "2040202": {
+        "id": "2040202,2040204"
+      },
+      "2040203": {
+        "id": 2040203
+      },
+      "1050101": {
+        "id": 1050101
+      },
+      "1050102": {
+        "id": 1050102
+      },
+      "1050103": {
+        "id": 1050103
+      },
+      "1050201": {
+        "id": 1050201
+      },
+      "1050202": {
+        "id": "1050202,1050204"
+      },
+      "1050203": {
+        "id": "1050203,1050204"
+      },
+      "1010101": {
+        "id": 1010101
+      },
+      "1010102": {
+        "id": 1010102
+      },
+      "1010103": {
+        "id": 1010103
+      },
+      "1020101": {
+        "id": 1020101
+      },
+      "1020102": {
+        "id": 1020102
+      },
+      "1020103": {
+        "id": 1020103
+      },
+      "1020201": {
+        "id": 1020201
+      },
+      "1020202": {
+        "id": 1020202
+      },
+      "1020203": {
+        "id": 1020203
+      },
+      "1030101": {
+        "id": "1030101,1030104"
+      },
+      "1030102": {
+        "id": "1030102,1030104"
+      },
+      "1030103": {
+        "id": "1030103,1030104"
+      },
+      "1030201": {
+        "id": "1030201,1030204"
+      },
+      "1030202": {
+        "id": "1030202,1030204"
+      },
+      "1030203": {
+        "id": "1030203,1030204"
+      },
+      "1040201": {
+        "id": "1040201,1040204"
+      },
+      "1040202": {
+        "id": "1040202,1040204"
+      },
+      "1040203": {
+        "id": "1040203,1040205"
+      },
+      "1040301": {
+        "id": "1040301,1040304"
+      },
+      "1040302": {
+        "id": "1040302,1040304"
+      },
+      "1040303": {
+        "id": "1040303,1040304"
+      },
+      "1040401": {
+        "id": 1040401
+      },
+      "1040402": {
+        "id": 1040402
+      },
+      "1040403": {
+        "id": 1040403
+      },
+      "1040501": {
+        "id": "1040501,1040504"
+      },
+      "1040502": {
+        "id": "1040502,1040504"
+      },
+      "1040503": {
+        "id": "1040503,1040505"
+      },
+      "1050301": {
+        "id": "1050301,1050304"
+      },
+      "1050302": {
+        "id": "1050302,1050304"
+      },
+      "1050303": {
+        "id": "1050303,1050304"
+      },
+      "2010101": {
+        "id": 2010101
+      },
+      "2010102": {
+        "id": 2010102
+      },
+      "2010103": {
+        "id": 2010103
+      },
+      "2020101": {
+        "id": "2020101,2020104"
+      },
+      "2020102": {
+        "id": "2020102,2020104"
+      },
+      "2020103": {
+        "id": "2020103,2020104"
+      },
+      "2020201": {
+        "id": 2020201
+      },
+      "2020202": {
+        "id": "2020202,2020204"
+      },
+      "2020203": {
+        "id": "2020203,2020205"
+      },
+      "2030101": {
+        "id": 2030101
+      },
+      "2030102": {
+        "id": 2030102
+      },
+      "2030103": {
+        "id": 2030103
+      },
+      "2030201": {
+        "id": 2030201
+      },
+      "2030202": {
+        "id": "2030202,2030204"
+      },
+      "2030203": {
+        "id": "2030203,2030204"
+      },
+      "2040301": {
+        "id": 2040301
+      },
+      "2040302": {
+        "id": "2040302,2040304"
+      },
+      "2040303": {
+        "id": "2040303,2040304"
+      },
+      "2040401": {
+        "id": 2040401
+      },
+      "2040402": {
+        "id": "2040402,2040404"
+      },
+      "2040403": {
+        "id": "2040403,2040404"
+      },
+      "2040501": {
+        "id": 2040501
+      },
+      "2040502": {
+        "id": "2040502,2040504"
+      },
+      "2040503": {
+        "id": 2040503
+      },
+      "2050201": {
+        "id": "2050201,2050204"
+      },
+      "2050202": {
+        "id": "2050202,2050205"
+      },
+      "2050203": {
+        "id": "2050203,2050206"
+      },
+      "2050301": {
+        "id": 2050301
+      },
+      "2050302": {
+        "id": "2050302,2050304"
+      },
+      "2050303": {
+        "id": "2050303,2050304"
+      },
+      "3010101": {
+        "id": 3010101
+      },
+      "3010102": {
+        "id": 3010102
+      },
+      "3010103": {
+        "id": 3010103
+      },
+      "3020101": {
+        "id": 3020101
+      },
+      "3020102": {
+        "id": 3020102
+      },
+      "3020103": {
+        "id": 3020103
+      },
+      "3020201": {
+        "id": 3020201
+      },
+      "3020202": {
+        "id": 3020202
+      },
+      "3020203": {
+        "id": 3020203
+      },
+      "3030101": {
+        "id": 3030101
+      },
+      "3030102": {
+        "id": 3030102
+      },
+      "3030103": {
+        "id": 3030103
+      },
+      "3030201": {
+        "id": 3030201
+      },
+      "3030202": {
+        "id": 3030202
+      },
+      "3030203": {
+        "id": 3030203
+      },
+      "3040101": {
+        "id": "3040101,3040104"
+      },
+      "3040102": {
+        "id": "3040102,3040104"
+      },
+      "3040103": {
+        "id": "3040103,3040105"
+      },
+      "3040201": {
+        "id": "3040201,3040204"
+      },
+      "3040202": {
+        "id": "3040202,3040204"
+      },
+      "3040203": {
+        "id": "3040203,3040205"
+      },
+      "3040301": {
+        "id": 3040301
+      },
+      "3040302": {
+        "id": 3040302
+      },
+      "3040303": {
+        "id": 3040303
+      },
+      "3040501": {
+        "id": 3040501
+      },
+      "3040502": {
+        "id": 3040502
+      },
+      "3040503": {
+        "id": 3040503
+      },
+      "3050201": {
+        "id": 3050201
+      },
+      "3050202": {
+        "id": "3050202,3050204"
+      },
+      "3050203": {
+        "id": 3050203
+      },
+      "3050301": {
+        "id": 3050301
+      },
+      "3050302": {
+        "id": "3050302,3050304"
+      },
+      "3050303": {
+        "id": "3050303,3050304"
+      },
+      "4010101": {
+        "id": 4010101
+      },
+      "4010102": {
+        "id": 4010102
+      },
+      "4010103": {
+        "id": "4010103,4010104"
+      },
+      "4020101": {
+        "id": 4020101
+      },
+      "4020102": {
+        "id": 4020102
+      },
+      "4020103": {
+        "id": 4020103
+      },
+      "4020201": {
+        "id": "4020201,4020204"
+      },
+      "4020202": {
+        "id": "4020202,4020204"
+      },
+      "4020203": {
+        "id": "4020203,4020204"
+      },
+      "4030101": {
+        "id": 4030101
+      },
+      "4030102": {
+        "id": 4030102
+      },
+      "4030103": {
+        "id": 4030103
+      },
+      "4030201": {
+        "id": "4030201,4030204"
+      },
+      "4030202": {
+        "id": "4030202,4030204"
+      },
+      "4030203": {
+        "id": "4030203,4030204"
+      },
+      "4040101": {
+        "id": 4040101
+      },
+      "4040102": {
+        "id": "4040102,4040104"
+      },
+      "4040103": {
+        "id": 4040103
+      },
+      "4040201": {
+        "id": "4040201,4040204"
+      },
+      "4040202": {
+        "id": "4040202,4040204"
+      },
+      "4040203": {
+        "id": "4040203,4040204"
+      },
+      "4040301": {
+        "id": "4040301,4040304"
+      },
+      "4040302": {
+        "id": "4040302,4040305"
+      },
+      "4040303": {
+        "id": "4040303,4040306"
+      },
+      "4040401": {
+        "id": 4040401
+      },
+      "4040402": {
+        "id": 4040402
+      },
+      "4040403": {
+        "id": 4040403
+      },
+      "4050101": {
+        "id": "4050101,4050104"
+      },
+      "4050102": {
+        "id": "4050102,4050104"
+      },
+      "4050103": {
+        "id": "4050103,4050104"
+      },
+      "4050108": {
+        "id": "4050102,4050104"
+      },
+      "4050109": {
+        "id": "4050102,4050104"
+      },
+      "4050301": {
+        "id": "4050301,4050304"
+      },
+      "4050302": {
+        "id": "4050302,4050304"
+      },
+      "4050303": {
+        "id": "4050303,4050304"
+      },
+      "400100": {
+        "id": 40011
+      },
+      "400200": {
+        "id": 40021
+      },
+      "500100": {
+        "id": 50011
+      },
+      "500200": {
+        "id": 50021
+      },
+      "600100": {
+        "id": 60011
+      },
+      "600200": {
+        "id": 60021
+      },
+      "600300": {
+        "id": 60031
+      },
+      "600400": {
+        "id": 60041
+      },
+      "600500": {
+        "id": 60051
+      },
+      "600600": {
+        "id": 60061
+      },
+      "600700": {
+        "id": 60071
+      },
+      "5050101": {
+        "id": "5050101,5050104"
+      },
+      "5050102": {
+        "id": "5050102,5050104"
+      },
+      "5050103": {
+        "id": 5050103
+      },
+      "5050201": {
+        "id": 5050201
+      },
+      "5050202": {
+        "id": 5050202
+      },
+      "5050203": {
+        "id": 5050203
+      },
+      "9050101": {
+        "id": "9050101,9050104"
+      },
+      "9050102": {
+        "id": 9050102
+      },
+      "9050103": {
+        "id": "9050103,9050104"
+      },
+      "5050501": {
+        "id": "5050501,5050504"
+      },
+      "5050502": {
+        "id": "5050502,5050504"
+      },
+      "5050503": {
+        "id": "5050503,5050504"
+      },
+      "5050401": {
+        "id": 5050401
+      },
+      "5050402": {
+        "id": 5050402
+      },
+      "5050403": {
+        "id": 5050403
+      },
+      "5050601": {
+        "id": 5050601
+      },
+      "5050602": {
+        "id": 5050602
+      },
+      "5050603": {
+        "id": 5050603
+      },
+      "5050301": {
+        "id": "5050301,5050304"
+      },
+      "5050302": {
+        "id": 5050302
+      },
+      "5050303": {
+        "id": 5050303
+      },
+      "9050201": {
+        "id": 9050201
+      },
+      "9050202": {
+        "id": 9050202
+      },
+      "9050203": {
+        "id": 9050203
+      },
+      "5050701": {
+        "id": 5050701
+      },
+      "5050702": {
+        "id": "5050702,5050704"
+      },
+      "5050703": {
+        "id": "5050703,5050704"
+      },
+      "9050301": {
+        "id": "9050301,9050304"
+      },
+      "9050302": {
+        "id": "9050302,9050304"
+      },
+      "9050303": {
+        "id": "9050303,9050304"
+      },
+      "5050801": {
+        "id": 5050801
+      },
+      "5050802": {
+        "id": 5050802
+      },
+      "5050803": {
+        "id": 5050803
+      },
+      "9050401": {
+        "id": 9050401
+      },
+      "9050402": {
+        "id": 9050402
+      },
+      "9050403": {
+        "id": 9050403
+      },
+      "7050101": {
+        "id": 7050101
+      },
+      "7050102": {
+        "id": 7050102
+      },
+      "7050103": {
+        "id": 7050103
+      },
+      "7050109": {
+        "id": 7050109
+      },
+      "7050201": {
+        "id": 7050201
+      },
+      "7050202": {
+        "id": 7050202
+      },
+      "7050203": {
+        "id": 7050203
+      },
+      "9050501": {
+        "id": "9050501,9050503,9050504"
+      },
+      "9050502": {
+        "id": "9050502,9050503,9050504"
+      },
+      "9050503": {
+        "id": 9050503
+      },
+      "7050301": {
+        "id": 7050301
+      },
+      "7050302": {
+        "id": 7050302
+      },
+      "7050303": {
+        "id": 7050303
+      },
+      "7050309": {
+        "id": 7050309
+      },
+      "7050401": {
+        "id": 7050401
+      },
+      "7050402": {
+        "id": 7050402
+      },
+      "7050403": {
+        "id": 7050403
+      },
+      "9050601": {
+        "id": "9050601,9050604"
+      },
+      "9050602": {
+        "id": "9050602,9050604"
+      },
+      "9050603": {
+        "id": "9050603,9050604"
+      },
+      "7050501": {
+        "id": "7050501,7050504"
+      },
+      "7050502": {
+        "id": 7050502
+      },
+      "7050503": {
+        "id": 7050503
+      },
+      "7050509": {
+        "id": 7050509
+      },
+      "7050601": {
+        "id": "7050601,7050604"
+      },
+      "7050602": {
+        "id": 7050602
+      },
+      "7050603": {
+        "id": "7050603,7050604"
+      },
+      "60020100": {
+        "id": "6002011,6002012"
+      },
+      "9050701": {
+        "id": "9050701,9050704"
+      },
+      "9050702": {
+        "id": "9050702,9050704"
+      },
+      "9050703": {
+        "id": "9050703,9050704"
+      },
+      "600800": {
+        "id": 60081
+      },
+      "7050701": {
+        "id": "7050701,7050704"
+      },
+      "7050702": {
+        "id": "7050702,7050704"
+      },
+      "7050703": {
+        "id": "7050703,7050704"
+      },
+      "7050709": {
+        "id": 7050709
+      },
+      "7050801": {
+        "id": "7050801,7050804"
+      },
+      "7050802": {
+        "id": "7050802,7050804"
+      },
+      "7050803": {
+        "id": "7050803,7050804"
+      },
+      "9050801": {
+        "id": "9050801,9050804"
+      },
+      "9050802": {
+        "id": "9050802,9050804"
+      },
+      "9050803": {
+        "id": "9050803,9050804"
+      },
+      "700100": {
+        "id": "70011,70012"
+      },
+      "60040100": {
+        "id": 6004011
+      },
+      "8050101": {
+        "id": "8050101,8050104"
+      },
+      "8050102": {
+        "id": "8050102,8050104"
+      },
+      "8050103": {
+        "id": "8050103,8050104"
+      },
+      "8050109": {
+        "id": 8050109
+      },
+      "700200": {
+        "id": 70021
+      },
+      "8050201": {
+        "id": "8050201,8050204"
+      },
+      "8050202": {
+        "id": "8050202,8050204"
+      },
+      "8050203": {
+        "id": 8050203
+      },
+      "9051001": {
+        "id": "9051001,9051004"
+      },
+      "9051002": {
+        "id": "9051002,9051004"
+      },
+      "9051003": {
+        "id": "9051003,9051004"
+      },
+      "700300": {
+        "id": 70031
+      },
+      "15070101": {
+        "id": 15070101
+      },
+      "8050301": {
+        "id": 8050301
+      },
+      "8050302": {
+        "id": "8050302,8050304"
+      },
+      "8050303": {
+        "id": "8050303,8050304"
+      },
+      "8050309": {
+        "id": 8050309
+      },
+      "700400": {
+        "id": 70041
+      },
+      "15070201": {
+        "id": "15070201,15070202"
+      },
+      "8050401": {
+        "id": 8050401
+      },
+      "8050402": {
+        "id": 8050402
+      },
+      "8050403": {
+        "id": 8050403
+      },
+      "15070301": {
+        "id": 15070301
+      },
+      "8050501": {
+        "id": "8050501,8050505"
+      },
+      "8050502": {
+        "id": "8050502,8050504"
+      },
+      "8050503": {
+        "id": "8050503,8050504"
+      },
+      "8050509": {
+        "id": 8050509
+      },
+      "9051101": {
+        "id": "9051101,9051104"
+      },
+      "9051102": {
+        "id": "9051102,9051104"
+      },
+      "9051103": {
+        "id": "9051103,9051104"
+      },
+      "700500": {
+        "id": 70051
+      },
+      "9050901": {
+        "id": 9050901
+      },
+      "9050902": {
+        "id": "9050902,9050904"
+      },
+      "9050903": {
+        "id": "9050903,9050904"
+      }
+    },
+    "5": {
+      "905010101": {
+        "sk_id": 1,
+        "fas_id": 905010,
+        "fas_star": 1,
+        "sminfo": "2;6;3000",
+        "mvpm": "2;-150;0",
+        "egy": 0
+      },
+      "905010102": {
+        "sk_id": 1,
+        "fas_id": 905010,
+        "fas_star": 2,
+        "sminfo": "2;6;3000",
+        "mvpm": "2;-150;0",
+        "egy": 0
+      },
+      "905010103": {
+        "sk_id": 1,
+        "fas_id": 905010,
+        "fas_star": 3,
+        "sminfo": "2;6;3000",
+        "mvpm": "2;-150;0",
+        "egy": 0
+      },
+      "905010104": {
+        "sk_id": 1,
+        "fas_id": 905010,
+        "fas_star": 4,
+        "sminfo": "2;6;3000",
+        "mvpm": "2;-150;0",
+        "egy": 0
+      },
+      "905010105": {
+        "sk_id": 1,
+        "fas_id": 905010,
+        "fas_star": 5,
+        "sminfo": "2;6;3000",
+        "mvpm": "2;-150;0",
+        "egy": 0
+      },
+      "905010201": {
+        "sk_id": 2,
+        "fas_id": 905010,
+        "fas_star": 1,
+        "sminfo": "2;11;2000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905010202": {
+        "sk_id": 2,
+        "fas_id": 905010,
+        "fas_star": 2,
+        "sminfo": "2;11;2000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905010203": {
+        "sk_id": 2,
+        "fas_id": 905010,
+        "fas_star": 3,
+        "sminfo": "2;11;2000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905010204": {
+        "sk_id": 2,
+        "fas_id": 905010,
+        "fas_star": 4,
+        "sminfo": "2;11;2000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905010205": {
+        "sk_id": 2,
+        "fas_id": 905010,
+        "fas_star": 5,
+        "sminfo": "2;11;2000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905020101": {
+        "sk_id": 1,
+        "fas_id": 905020,
+        "fas_star": 1,
+        "sminfo": "2;5;3000",
+        "mvpm": "6;0;0",
+        "egy": 0
+      },
+      "905020102": {
+        "sk_id": 1,
+        "fas_id": 905020,
+        "fas_star": 2,
+        "sminfo": "2;5;3000",
+        "mvpm": "6;0;0",
+        "egy": 0
+      },
+      "905020103": {
+        "sk_id": 1,
+        "fas_id": 905020,
+        "fas_star": 3,
+        "sminfo": "2;5;3000",
+        "mvpm": "6;0;0",
+        "egy": 0
+      },
+      "905020104": {
+        "sk_id": 1,
+        "fas_id": 905020,
+        "fas_star": 4,
+        "sminfo": "2;5;3000",
+        "mvpm": "6;0;0",
+        "egy": 0
+      },
+      "905020105": {
+        "sk_id": 1,
+        "fas_id": 905020,
+        "fas_star": 5,
+        "sminfo": "2;5;3000",
+        "mvpm": "6;0;0",
+        "egy": 0
+      },
+      "905020201": {
+        "sk_id": 2,
+        "fas_id": 905020,
+        "fas_star": 1,
+        "sminfo": "2;6;3000",
+        "mvpm": "6;0;0",
+        "egy": 0
+      },
+      "905020202": {
+        "sk_id": 2,
+        "fas_id": 905020,
+        "fas_star": 2,
+        "sminfo": "2;6;3000",
+        "mvpm": "6;0;0",
+        "egy": 0
+      },
+      "905020203": {
+        "sk_id": 2,
+        "fas_id": 905020,
+        "fas_star": 3,
+        "sminfo": "2;6;3000",
+        "mvpm": "6;0;0",
+        "egy": 0
+      },
+      "905020204": {
+        "sk_id": 2,
+        "fas_id": 905020,
+        "fas_star": 4,
+        "sminfo": "2;6;3000",
+        "mvpm": "6;0;0",
+        "egy": 0
+      },
+      "905020205": {
+        "sk_id": 2,
+        "fas_id": 905020,
+        "fas_star": 5,
+        "sminfo": "2;6;3000",
+        "mvpm": "6;0;0",
+        "egy": 0
+      },
+      "905030101": {
+        "sk_id": 1,
+        "fas_id": 905030,
+        "fas_star": 1,
+        "sminfo": "2;4;3000",
+        "mvpm": "2;-150;0",
+        "egy": 0
+      },
+      "905030102": {
+        "sk_id": 1,
+        "fas_id": 905030,
+        "fas_star": 2,
+        "sminfo": "2;4;3000",
+        "mvpm": "2;-150;0",
+        "egy": 0
+      },
+      "905030103": {
+        "sk_id": 1,
+        "fas_id": 905030,
+        "fas_star": 3,
+        "sminfo": "2;4;3000",
+        "mvpm": "2;-150;0",
+        "egy": 0
+      },
+      "905030104": {
+        "sk_id": 1,
+        "fas_id": 905030,
+        "fas_star": 4,
+        "sminfo": "2;4;3000",
+        "mvpm": "2;-150;0",
+        "egy": 0
+      },
+      "905030105": {
+        "sk_id": 1,
+        "fas_id": 905030,
+        "fas_star": 5,
+        "sminfo": "2;4;3000",
+        "mvpm": "2;-150;0",
+        "egy": 0
+      },
+      "905030201": {
+        "sk_id": 2,
+        "fas_id": 905030,
+        "fas_star": 1,
+        "sminfo": "2;7;2500",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905030202": {
+        "sk_id": 2,
+        "fas_id": 905030,
+        "fas_star": 2,
+        "sminfo": "2;7;2500",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905030203": {
+        "sk_id": 2,
+        "fas_id": 905030,
+        "fas_star": 3,
+        "sminfo": "2;7;2500",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905030204": {
+        "sk_id": 2,
+        "fas_id": 905030,
+        "fas_star": 4,
+        "sminfo": "2;7;2500",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905030205": {
+        "sk_id": 2,
+        "fas_id": 905030,
+        "fas_star": 5,
+        "sminfo": "2;7;2500",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905040101": {
+        "sk_id": 1,
+        "fas_id": 905040,
+        "fas_star": 1,
+        "sminfo": "2;5;3000",
+        "mvpm": "6;0;0",
+        "egy": 0
+      },
+      "905040102": {
+        "sk_id": 1,
+        "fas_id": 905040,
+        "fas_star": 2,
+        "sminfo": "2;5;3000",
+        "mvpm": "6;0;0",
+        "egy": 0
+      },
+      "905040103": {
+        "sk_id": 1,
+        "fas_id": 905040,
+        "fas_star": 3,
+        "sminfo": "2;5;3000",
+        "mvpm": "6;0;0",
+        "egy": 0
+      },
+      "905040104": {
+        "sk_id": 1,
+        "fas_id": 905040,
+        "fas_star": 4,
+        "sminfo": "2;5;3000",
+        "mvpm": "6;0;0",
+        "egy": 0
+      },
+      "905040105": {
+        "sk_id": 1,
+        "fas_id": 905040,
+        "fas_star": 5,
+        "sminfo": "2;5;3000",
+        "mvpm": "6;0;0",
+        "egy": 0
+      },
+      "905040201": {
+        "sk_id": 2,
+        "fas_id": 905040,
+        "fas_star": 1,
+        "sminfo": "2;6;3000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905040202": {
+        "sk_id": 2,
+        "fas_id": 905040,
+        "fas_star": 2,
+        "sminfo": "2;6;3000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905040203": {
+        "sk_id": 2,
+        "fas_id": 905040,
+        "fas_star": 3,
+        "sminfo": "2;6;3000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905040204": {
+        "sk_id": 2,
+        "fas_id": 905040,
+        "fas_star": 4,
+        "sminfo": "2;6;3000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905040205": {
+        "sk_id": 2,
+        "fas_id": 905040,
+        "fas_star": 5,
+        "sminfo": "2;6;3000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905050101": {
+        "sk_id": 1,
+        "fas_id": 905050,
+        "fas_star": 1,
+        "sminfo": "2;2;6000",
+        "mvpm": "2;0;0",
+        "egy": 0
+      },
+      "905050102": {
+        "sk_id": 1,
+        "fas_id": 905050,
+        "fas_star": 2,
+        "sminfo": "2;2;6000",
+        "mvpm": "2;0;0",
+        "egy": 0
+      },
+      "905050103": {
+        "sk_id": 1,
+        "fas_id": 905050,
+        "fas_star": 3,
+        "sminfo": "2;2;6000",
+        "mvpm": "2;0;0",
+        "egy": 0
+      },
+      "905050104": {
+        "sk_id": 1,
+        "fas_id": 905050,
+        "fas_star": 4,
+        "sminfo": "2;2;6000",
+        "mvpm": "2;0;0",
+        "egy": 0
+      },
+      "905050105": {
+        "sk_id": 1,
+        "fas_id": 905050,
+        "fas_star": 5,
+        "sminfo": "2;2;6000",
+        "mvpm": "2;0;0",
+        "egy": 0
+      },
+      "905050201": {
+        "sk_id": 2,
+        "fas_id": 905050,
+        "fas_star": 1,
+        "sminfo": "2;5;3000",
+        "mvpm": "6;0;0",
+        "egy": 0
+      },
+      "905050202": {
+        "sk_id": 2,
+        "fas_id": 905050,
+        "fas_star": 2,
+        "sminfo": "2;5;3000",
+        "mvpm": "6;0;0",
+        "egy": 0
+      },
+      "905050203": {
+        "sk_id": 2,
+        "fas_id": 905050,
+        "fas_star": 3,
+        "sminfo": "2;5;3000",
+        "mvpm": "6;0;0",
+        "egy": 0
+      },
+      "905050204": {
+        "sk_id": 2,
+        "fas_id": 905050,
+        "fas_star": 4,
+        "sminfo": "2;5;3000",
+        "mvpm": "6;0;0",
+        "egy": 0
+      },
+      "905050205": {
+        "sk_id": 2,
+        "fas_id": 905050,
+        "fas_star": 5,
+        "sminfo": "2;5;3000",
+        "mvpm": "6;0;0",
+        "egy": 0
+      },
+      "905060101": {
+        "sk_id": 1,
+        "fas_id": 905060,
+        "fas_star": 1,
+        "sminfo": "2;2;6000",
+        "mvpm": "2;-50;0",
+        "egy": 0
+      },
+      "905060102": {
+        "sk_id": 1,
+        "fas_id": 905060,
+        "fas_star": 2,
+        "sminfo": "2;2;6000",
+        "mvpm": "2;-50;0",
+        "egy": 0
+      },
+      "905060103": {
+        "sk_id": 1,
+        "fas_id": 905060,
+        "fas_star": 3,
+        "sminfo": "2;2;6000",
+        "mvpm": "2;-50;0",
+        "egy": 0
+      },
+      "905060104": {
+        "sk_id": 1,
+        "fas_id": 905060,
+        "fas_star": 4,
+        "sminfo": "2;2;6000",
+        "mvpm": "2;-50;0",
+        "egy": 0
+      },
+      "905060105": {
+        "sk_id": 1,
+        "fas_id": 905060,
+        "fas_star": 5,
+        "sminfo": "2;2;6000",
+        "mvpm": "2;-50;0",
+        "egy": 0
+      },
+      "905060201": {
+        "sk_id": 2,
+        "fas_id": 905060,
+        "fas_star": 1,
+        "sminfo": "2;6;3000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905060202": {
+        "sk_id": 2,
+        "fas_id": 905060,
+        "fas_star": 2,
+        "sminfo": "2;6;3000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905060203": {
+        "sk_id": 2,
+        "fas_id": 905060,
+        "fas_star": 3,
+        "sminfo": "2;6;3000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905060204": {
+        "sk_id": 2,
+        "fas_id": 905060,
+        "fas_star": 4,
+        "sminfo": "2;6;3000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905060205": {
+        "sk_id": 2,
+        "fas_id": 905060,
+        "fas_star": 5,
+        "sminfo": "2;6;3000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905070101": {
+        "sk_id": 1,
+        "fas_id": 905070,
+        "fas_star": 1,
+        "sminfo": "2;2;6000",
+        "mvpm": "2;-100;0",
+        "egy": 0
+      },
+      "905070102": {
+        "sk_id": 1,
+        "fas_id": 905070,
+        "fas_star": 2,
+        "sminfo": "2;2;6000",
+        "mvpm": "2;-100;0",
+        "egy": 0
+      },
+      "905070103": {
+        "sk_id": 1,
+        "fas_id": 905070,
+        "fas_star": 3,
+        "sminfo": "2;2;6000",
+        "mvpm": "2;-100;0",
+        "egy": 0
+      },
+      "905070104": {
+        "sk_id": 1,
+        "fas_id": 905070,
+        "fas_star": 4,
+        "sminfo": "2;2;6000",
+        "mvpm": "2;-100;0",
+        "egy": 0
+      },
+      "905070105": {
+        "sk_id": 1,
+        "fas_id": 905070,
+        "fas_star": 5,
+        "sminfo": "2;2;6000",
+        "mvpm": "2;-100;0",
+        "egy": 0
+      },
+      "905070201": {
+        "sk_id": 2,
+        "fas_id": 905070,
+        "fas_star": 1,
+        "sminfo": "2;7;3000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905070202": {
+        "sk_id": 2,
+        "fas_id": 905070,
+        "fas_star": 2,
+        "sminfo": "2;7;3000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905070203": {
+        "sk_id": 2,
+        "fas_id": 905070,
+        "fas_star": 3,
+        "sminfo": "2;7;3000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905070204": {
+        "sk_id": 2,
+        "fas_id": 905070,
+        "fas_star": 4,
+        "sminfo": "2;7;3000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905070205": {
+        "sk_id": 2,
+        "fas_id": 905070,
+        "fas_star": 5,
+        "sminfo": "2;7;3000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905080101": {
+        "sk_id": 1,
+        "fas_id": 905080,
+        "fas_star": 1,
+        "sminfo": "2;8;3000",
+        "mvpm": "2;-100;0",
+        "egy": 0
+      },
+      "905080102": {
+        "sk_id": 1,
+        "fas_id": 905080,
+        "fas_star": 2,
+        "sminfo": "2;8;3000",
+        "mvpm": "2;-100;0",
+        "egy": 0
+      },
+      "905080103": {
+        "sk_id": 1,
+        "fas_id": 905080,
+        "fas_star": 3,
+        "sminfo": "2;8;3000",
+        "mvpm": "2;-100;0",
+        "egy": 0
+      },
+      "905080104": {
+        "sk_id": 1,
+        "fas_id": 905080,
+        "fas_star": 4,
+        "sminfo": "2;8;3000",
+        "mvpm": "2;-100;0",
+        "egy": 0
+      },
+      "905080105": {
+        "sk_id": 1,
+        "fas_id": 905080,
+        "fas_star": 5,
+        "sminfo": "2;8;3000",
+        "mvpm": "2;-100;0",
+        "egy": 0
+      },
+      "905080201": {
+        "sk_id": 2,
+        "fas_id": 905080,
+        "fas_star": 1,
+        "sminfo": "2;5;3000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905080202": {
+        "sk_id": 2,
+        "fas_id": 905080,
+        "fas_star": 2,
+        "sminfo": "2;5;3000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905080203": {
+        "sk_id": 2,
+        "fas_id": 905080,
+        "fas_star": 3,
+        "sminfo": "2;5;3000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905080204": {
+        "sk_id": 2,
+        "fas_id": 905080,
+        "fas_star": 4,
+        "sminfo": "2;5;3000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905080205": {
+        "sk_id": 2,
+        "fas_id": 905080,
+        "fas_star": 5,
+        "sminfo": "2;5;3000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905090101": {
+        "sk_id": 1,
+        "fas_id": 905090,
+        "fas_star": 1,
+        "sminfo": "2;4;4000",
+        "mvpm": "3;-220;0",
+        "egy": 0
+      },
+      "905090102": {
+        "sk_id": 1,
+        "fas_id": 905090,
+        "fas_star": 2,
+        "sminfo": "2;4;4000",
+        "mvpm": "3;-220;0",
+        "egy": 0
+      },
+      "905090103": {
+        "sk_id": 1,
+        "fas_id": 905090,
+        "fas_star": 3,
+        "sminfo": "2;4;4000",
+        "mvpm": "3;-220;0",
+        "egy": 0
+      },
+      "905090104": {
+        "sk_id": 1,
+        "fas_id": 905090,
+        "fas_star": 4,
+        "sminfo": "2;4;4000",
+        "mvpm": "3;-220;0",
+        "egy": 0
+      },
+      "905090105": {
+        "sk_id": 1,
+        "fas_id": 905090,
+        "fas_star": 5,
+        "sminfo": "2;4;4000",
+        "mvpm": "3;-220;0",
+        "egy": 0
+      },
+      "905090201": {
+        "sk_id": 2,
+        "fas_id": 905090,
+        "fas_star": 1,
+        "sminfo": "2;5;3000",
+        "mvpm": "3;-350;0",
+        "egy": 0
+      },
+      "905090202": {
+        "sk_id": 2,
+        "fas_id": 905090,
+        "fas_star": 2,
+        "sminfo": "2;5;3000",
+        "mvpm": "3;-350;0",
+        "egy": 0
+      },
+      "905090203": {
+        "sk_id": 2,
+        "fas_id": 905090,
+        "fas_star": 3,
+        "sminfo": "2;5;3000",
+        "mvpm": "3;-350;0",
+        "egy": 0
+      },
+      "905090204": {
+        "sk_id": 2,
+        "fas_id": 905090,
+        "fas_star": 4,
+        "sminfo": "2;5;3000",
+        "mvpm": "3;-350;0",
+        "egy": 0
+      },
+      "905090205": {
+        "sk_id": 2,
+        "fas_id": 905090,
+        "fas_star": 5,
+        "sminfo": "2;5;3000",
+        "mvpm": "3;-350;0",
+        "egy": 0
+      },
+      "905100101": {
+        "sk_id": 1,
+        "fas_id": 905100,
+        "fas_star": 1,
+        "sminfo": "2;3;4000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905100102": {
+        "sk_id": 1,
+        "fas_id": 905100,
+        "fas_star": 2,
+        "sminfo": "2;3;4000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905100103": {
+        "sk_id": 1,
+        "fas_id": 905100,
+        "fas_star": 3,
+        "sminfo": "2;3;4000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905100104": {
+        "sk_id": 1,
+        "fas_id": 905100,
+        "fas_star": 4,
+        "sminfo": "2;3;4000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905100105": {
+        "sk_id": 1,
+        "fas_id": 905100,
+        "fas_star": 5,
+        "sminfo": "2;3;4000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905100201": {
+        "sk_id": 2,
+        "fas_id": 905100,
+        "fas_star": 1,
+        "sminfo": "2;11;3000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905100202": {
+        "sk_id": 2,
+        "fas_id": 905100,
+        "fas_star": 2,
+        "sminfo": "2;11;3000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905100203": {
+        "sk_id": 2,
+        "fas_id": 905100,
+        "fas_star": 3,
+        "sminfo": "2;11;3000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905100204": {
+        "sk_id": 2,
+        "fas_id": 905100,
+        "fas_star": 4,
+        "sminfo": "2;11;3000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905100205": {
+        "sk_id": 2,
+        "fas_id": 905100,
+        "fas_star": 5,
+        "sminfo": "2;11;3000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905110101": {
+        "sk_id": 1,
+        "fas_id": 905110,
+        "fas_star": 1,
+        "sminfo": "2;2;7000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905110102": {
+        "sk_id": 1,
+        "fas_id": 905110,
+        "fas_star": 2,
+        "sminfo": "2;2;7000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905110103": {
+        "sk_id": 1,
+        "fas_id": 905110,
+        "fas_star": 3,
+        "sminfo": "2;2;7000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905110104": {
+        "sk_id": 1,
+        "fas_id": 905110,
+        "fas_star": 4,
+        "sminfo": "2;2;7000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905110105": {
+        "sk_id": 1,
+        "fas_id": 905110,
+        "fas_star": 5,
+        "sminfo": "2;2;7000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905110201": {
+        "sk_id": 2,
+        "fas_id": 905110,
+        "fas_star": 1,
+        "sminfo": "2;3;5000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905110202": {
+        "sk_id": 2,
+        "fas_id": 905110,
+        "fas_star": 2,
+        "sminfo": "2;3;5000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905110203": {
+        "sk_id": 2,
+        "fas_id": 905110,
+        "fas_star": 3,
+        "sminfo": "2;3;5000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905110204": {
+        "sk_id": 2,
+        "fas_id": 905110,
+        "fas_star": 4,
+        "sminfo": "2;3;5000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      },
+      "905110205": {
+        "sk_id": 2,
+        "fas_id": 905110,
+        "fas_star": 5,
+        "sminfo": "2;3;5000",
+        "mvpm": "2;-200;0",
+        "egy": 0
+      }
+    },
+    "6": {
+      "1": {
+        "ratio": 1,
+        "show": ""
+      },
+      "2": {
+        "ratio": 1,
+        "show": ""
+      },
+      "3": {
+        "ratio": 1,
+        "show": ""
+      },
+      "4": {
+        "ratio": 1,
+        "show": ""
+      },
+      "5": {
+        "ratio": 1,
+        "show": "เปิดการประลองอย่างเท่าเทียมกัน: ทั้งสองฝ่ายดาเมจเพิ่ม 20%"
+      },
+      "6": {
+        "ratio": 1,
+        "show": "เปิดการประลองอย่างเท่าเทียมกัน: ทั้งสองฝ่ายดาเมจเพิ่ม 40%"
+      },
+      "7": {
+        "ratio": 1,
+        "show": "เปิดการประลองอย่างเท่าเทียมกัน: ทั้งสองฝ่ายดาเมจเพิ่ม 60%"
+      },
+      "8": {
+        "ratio": 1,
+        "show": "เปิดการประลองอย่างเท่าเทียมกัน: ทั้งสองฝ่ายดาเมจเพิ่ม 80%"
+      },
+      "9": {
+        "ratio": 2,
+        "show": "เปิดการประลองอย่างเท่าเทียมกัน: ทั้งสองฝ่ายดาเมจเพิ่ม 100%"
+      },
+      "10": {
+        "ratio": 2,
+        "show": "เปิดการประลองอย่างเท่าเทียมกัน: ทั้งสองฝ่ายดาเมจเพิ่ม 120%"
+      },
+      "11": {
+        "ratio": 2,
+        "show": "เปิดการประลองอย่างเท่าเทียมกัน: ทั้งสองฝ่ายดาเมจเพิ่ม 140%"
+      },
+      "12": {
+        "ratio": 2,
+        "show": "เปิดการประลองอย่างเท่าเทียมกัน: ทั้งสองฝ่ายดาเมจเพิ่ม 160%"
+      },
+      "13": {
+        "ratio": 2,
+        "show": "เปิดการประลองอย่างเท่าเทียมกัน: ทั้งสองฝ่ายดาเมจเพิ่ม 180%"
+      },
+      "14": {
+        "ratio": 3,
+        "show": "เปิดการประลองอย่างเท่าเทียมกัน: ทั้งสองฝ่ายดาเมจเพิ่ม 200%"
+      },
+      "15": {
+        "ratio": 3,
+        "show": "เปิดการประลองอย่างเท่าเทียมกัน: ทั้งสองฝ่ายดาเมจเพิ่ม 220%"
+      },
+      "16": {
+        "ratio": 3,
+        "show": "เปิดการประลองอย่างเท่าเทียมกัน: ทั้งสองฝ่ายดาเมจเพิ่ม 240%"
+      },
+      "17": {
+        "ratio": 3,
+        "show": "เปิดการประลองอย่างเท่าเทียมกัน: ทั้งสองฝ่ายดาเมจเพิ่ม 260%"
+      },
+      "18": {
+        "ratio": 3,
+        "show": "เปิดการประลองอย่างเท่าเทียมกัน: ทั้งสองฝ่ายดาเมจเพิ่ม 280%"
+      },
+      "19": {
+        "ratio": 4,
+        "show": "เปิดการประลองอย่างเท่าเทียมกัน: ทั้งสองฝ่ายดาเมจเพิ่ม 300%"
+      },
+      "20": {
+        "ratio": 4,
+        "show": "เปิดการประลองอย่างเท่าเทียมกัน: ทั้งสองฝ่ายดาเมจเพิ่ม 300%"
+      }
+    },
+    "7": {
+      "1": {
+        "val": "2,3,8,11,15,20,21,24"
+      }
+    }
+  }
+}
