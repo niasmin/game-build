@@ -1,0 +1,363 @@
+
+103020001.png
+size: 1009,741
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti/role_jia_l_pda
+  rotate: false
+  xy: 973, 460
+  size: 28, 126
+  orig: 28, 126
+  offset: 0, 0
+  index: -1
+shenti/role_jia_l_pdb
+  rotate: false
+  xy: 812, 177
+  size: 46, 123
+  orig: 46, 123
+  offset: 0, 0
+  index: -1
+shenti/role_jia_l_pdc
+  rotate: false
+  xy: 984, 588
+  size: 19, 151
+  orig: 19, 151
+  offset: 0, 0
+  index: -1
+shenti/role_jia_l_pdd
+  rotate: false
+  xy: 860, 147
+  size: 43, 153
+  orig: 43, 153
+  offset: 0, 0
+  index: -1
+shenti/role_jia_r_pda
+  rotate: false
+  xy: 165, 157
+  size: 179, 71
+  orig: 179, 71
+  offset: 0, 0
+  index: -1
+shenti/role_jia_r_pdb
+  rotate: false
+  xy: 384, 255
+  size: 186, 81
+  orig: 186, 81
+  offset: 0, 0
+  index: -1
+shenti/role_jia_r_pdc
+  rotate: false
+  xy: 572, 262
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+shenti/role_jia_r_pdd
+  rotate: false
+  xy: 738, 435
+  size: 98, 158
+  orig: 98, 158
+  offset: 0, 0
+  index: -1
+shenti/role_jia_yao_spa
+  rotate: false
+  xy: 574, 119
+  size: 144, 69
+  orig: 144, 69
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_bozi
+  rotate: false
+  xy: 803, 132
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_kuaa
+  rotate: false
+  xy: 566, 25
+  size: 132, 92
+  orig: 132, 92
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_kuab
+  rotate: false
+  xy: 819, 34
+  size: 60, 96
+  orig: 60, 96
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_kuac
+  rotate: false
+  xy: 482, 60
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_shena
+  rotate: false
+  xy: 2, 180
+  size: 161, 153
+  orig: 161, 153
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_weiboa
+  rotate: false
+  xy: 838, 434
+  size: 68, 159
+  orig: 68, 159
+  offset: 0, 0
+  index: -1
+shenti/role_shenti_weibob
+  rotate: false
+  xy: 908, 449
+  size: 63, 146
+  orig: 63, 146
+  offset: 0, 0
+  index: -1
+shenti/role_shoubi_l_dabia
+  rotate: false
+  xy: 741, 181
+  size: 69, 120
+  orig: 69, 120
+  offset: 0, 0
+  index: -1
+shenti/role_shoubi_l_dabib
+  rotate: false
+  xy: 494, 142
+  size: 78, 111
+  orig: 78, 111
+  offset: 0, 0
+  index: -1
+shenti/role_shoubi_l_dabic
+  rotate: false
+  xy: 312, 6
+  size: 68, 55
+  orig: 68, 55
+  offset: 0, 0
+  index: -1
+shenti/role_shoubi_l_dabid
+  rotate: false
+  xy: 2, 2
+  size: 57, 32
+  orig: 57, 32
+  offset: 0, 0
+  index: -1
+shenti/role_shoubi_l_dabie
+  rotate: false
+  xy: 61, 4
+  size: 62, 30
+  orig: 62, 30
+  offset: 0, 0
+  index: -1
+shenti/role_shoubi_l_jiana
+  rotate: false
+  xy: 905, 162
+  size: 44, 114
+  orig: 44, 114
+  offset: 0, 0
+  index: -1
+shenti/role_shoubi_l_jianb
+  rotate: false
+  xy: 951, 174
+  size: 55, 102
+  orig: 55, 102
+  offset: 0, 0
+  index: -1
+shenti/role_shoubi_r_dabia
+  rotate: false
+  xy: 700, 14
+  size: 117, 87
+  orig: 117, 87
+  offset: 0, 0
+  index: -1
+shenti/role_shoubi_r_dabib
+  rotate: false
+  xy: 738, 303
+  size: 93, 130
+  orig: 93, 130
+  offset: 0, 0
+  index: -1
+shenti/role_shoubi_r_dabic
+  rotate: false
+  xy: 382, 4
+  size: 68, 57
+  orig: 68, 57
+  offset: 0, 0
+  index: -1
+shenti/role_shoubi_r_jiana
+  rotate: false
+  xy: 2, 64
+  size: 149, 114
+  orig: 149, 114
+  offset: 0, 0
+  index: -1
+shenti/role_shoubi_r_jianb
+  rotate: false
+  xy: 881, 10
+  size: 68, 63
+  orig: 68, 63
+  offset: 0, 0
+  index: -1
+shenti/role_touying
+  rotate: false
+  xy: 2, 36
+  size: 122, 26
+  orig: 122, 26
+  offset: 0, 0
+  index: -1
+shenti/role_tui_l_tuia
+  rotate: false
+  xy: 887, 597
+  size: 95, 142
+  orig: 95, 142
+  offset: 0, 0
+  index: -1
+shenti/role_tui_l_tuib
+  rotate: false
+  xy: 833, 302
+  size: 76, 130
+  orig: 76, 130
+  offset: 0, 0
+  index: -1
+shenti/role_tui_l_tuic
+  rotate: false
+  xy: 911, 374
+  size: 96, 73
+  orig: 96, 73
+  offset: 0, 0
+  index: -1
+shenti/role_tui_l_tuid
+  rotate: false
+  xy: 881, 75
+  size: 106, 70
+  orig: 106, 70
+  offset: 0, 0
+  index: -1
+shenti/role_tui_l_tuie
+  rotate: false
+  xy: 238, 16
+  size: 72, 47
+  orig: 72, 47
+  offset: 0, 0
+  index: -1
+shenti/role_tui_r_tuia
+  rotate: false
+  xy: 346, 152
+  size: 146, 101
+  orig: 146, 101
+  offset: 0, 0
+  index: -1
+shenti/role_tui_r_tuib
+  rotate: false
+  xy: 346, 63
+  size: 134, 87
+  orig: 134, 87
+  offset: 0, 0
+  index: -1
+shenti/role_tui_r_tuic
+  rotate: false
+  xy: 911, 278
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+shenti/role_tui_r_tuid
+  rotate: false
+  xy: 720, 103
+  size: 81, 76
+  orig: 81, 76
+  offset: 0, 0
+  index: -1
+tou/role_tou_a_erduo
+  rotate: false
+  xy: 951, 22
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+tou/role_tou_a_lian
+  rotate: false
+  xy: 738, 595
+  size: 147, 144
+  orig: 147, 144
+  offset: 0, 0
+  index: -1
+tou/role_tou_a_liuhaia
+  rotate: false
+  xy: 482, 16
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+tou/role_tou_a_liuhaib
+  rotate: false
+  xy: 165, 230
+  size: 178, 103
+  orig: 178, 103
+  offset: 0, 0
+  index: -1
+tou/role_tou_a_mawei
+  rotate: false
+  xy: 153, 65
+  size: 191, 90
+  orig: 191, 90
+  offset: 0, 0
+  index: -1
+tou/role_tou_a_meia
+  rotate: false
+  xy: 951, 2
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+tou/role_tou_a_meib
+  rotate: false
+  xy: 345, 281
+  size: 23, 52
+  orig: 23, 52
+  offset: 0, 0
+  index: -1
+tou/role_tou_a_yzhua
+  rotate: false
+  xy: 819, 2
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+tou/role_tou_a_yzhub
+  rotate: false
+  xy: 452, 32
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+tou/role_tou_a_yzhuc
+  rotate: false
+  xy: 153, 23
+  size: 83, 40
+  orig: 83, 40
+  offset: 0, 0
+  index: -1
+wuqi/role_wuqi_a_duna
+  rotate: false
+  xy: 384, 338
+  size: 352, 401
+  orig: 352, 401
+  offset: 0, 0
+  index: -1
+wuqi/role_wuqi_a_dunb
+  rotate: false
+  xy: 574, 190
+  size: 165, 70
+  orig: 165, 70
+  offset: 0, 0
+  index: -1
+wuqi/role_wuqi_a_dunc
+  rotate: false
+  xy: 2, 335
+  size: 380, 404
+  orig: 380, 404
+  offset: 0, 0
+  index: -1

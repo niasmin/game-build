@@ -1,0 +1,2403 @@
+{
+  "evidence": {
+    "apk_sha256": "084f08627db63bb34a8b17408c9784f0af4158dc524694091994281a95d75732",
+    "note": "Static APK metadata and recovered client code. Original inventory/rewards/caps remain server-authoritative. Offline implementation should state its service adaptation."
+  },
+  "inventory": {
+    "source_tables": {
+      "item_cfg": "6421b6f8-e583-4f83-a91d-ae6f7e22be45.bin",
+      "comb_cfg": "f5bdb703-71f0-4adf-9403-10e1ff4650e3.bin"
+    },
+    "fixed_usable_items": [
+      {
+        "item_id": 20210501,
+        "name": "หยกมณีเรียกศักดิ์สิทธิ์",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20210600,
+        "name": "ป้ายรับสมัครรับแสง",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20210800,
+        "name": "ป้ายรับสมัครหลับไหล",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20211000,
+        "name": "แกนกลางเหล็กกล้า",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20211200,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            50
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20211201,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20211202,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20211203,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20211400,
+        "name": "ป้ายรับสมัครมุ่งมั่น",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20211500,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            50
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20211501,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20211502,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20211503,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20211600,
+        "name": "ป้ายรับสมัครเปล่งประกาย",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20211700,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            50
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20211701,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20211702,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20211703,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20211800,
+        "name": "แกนกลางเรืองรอง",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20211900,
+        "name": "ป้ายรับสมัครจันทร์มณี",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20212000,
+        "name": "ป้ายรับสมัครมังกรไร้ควบคุม",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20212100,
+        "name": "เฉลิมฉลองแสงสว่าง",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20212200,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            50
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20212201,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20212202,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20212203,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20212300,
+        "name": "ป้ายรับสมัครสะท้านโลกา",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20212401,
+        "name": "ลูกเต๋า",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20212402,
+        "name": "ลูกเต๋าสารพัดนึก",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20212403,
+        "name": "กุญแจลับอัปทอง",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20212500,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            50
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20212501,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20212502,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20212503,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20212600,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            50
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20212601,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20212602,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20212603,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20212700,
+        "name": "ป้ายรับสมัครปราบมาร",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20212800,
+        "name": "แกนกลางมายา",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20213000,
+        "name": "ตะขอทองมังกรแท้",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20213100,
+        "name": "ป้ายรับสมัครคลื่นถาโถม",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20213200,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            50
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20213201,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20213202,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20213203,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20213500,
+        "name": "ปัญญาเบิกจิต",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20213801,
+        "name": "เศษทางลับ",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20213802,
+        "name": "เศษสุสานจักรพรรดิ",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20213900,
+        "name": "ของขวัญงานฉลอง",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            50
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20213901,
+        "name": "ประทัด",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20213902,
+        "name": "โคมไฟสีสัน",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20213903,
+        "name": "ช่อดอกงานฉลอง",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214000,
+        "name": "พลั่วทราย",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            50
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214001,
+        "name": "เปลือกหอย",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214002,
+        "name": "เกล็ดปลาสีรุ้ง",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214003,
+        "name": "หัวใจสมุทรคราม",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214100,
+        "name": "ของขวัญเฉลิมฉลอง",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            50
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214101,
+        "name": "จอกสามขา",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214102,
+        "name": "ตราประทับ",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214103,
+        "name": "กระถางสามขา",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214201,
+        "name": "ทรายมงคล",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214202,
+        "name": "ลูกแก้ว",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214203,
+        "name": "อัญมณีจักรวาล",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214300,
+        "name": "",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214301,
+        "name": "ป้ายรับสมัครทะยานเมฆ",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214302,
+        "name": "ป้ายรับสมัครแหล่งน้ำใส",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214303,
+        "name": "ป้ายรับสมัครมุกจิต",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214304,
+        "name": "ป้ายรับสมัครคลื่นผยอง",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214305,
+        "name": "ป้ายรับสมัครมรรค",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214306,
+        "name": "ป้ายรับสมัครดับสูญ",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214307,
+        "name": "ป้ายรับสมัครเผยความชั่ว",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214308,
+        "name": "ป้ายรับสมัครการุณย์",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214400,
+        "name": "ป้ายรับสมัครจิตเทวะ",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214401,
+        "name": "คะแนนจิตเทวะ",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214500,
+        "name": "กรรไกรตัดกุ้ยฮวา",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            50
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214501,
+        "name": "กุ้ยฮวา",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214502,
+        "name": "น้ำผึ้งหมักกุ้ยฮวา",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214503,
+        "name": "ขนมเปี๊ยะกุ้ยฮวา",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214700,
+        "name": "กุญแจถ้ำฟ้า",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            50
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214701,
+        "name": "ทรายหยก",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214702,
+        "name": "หยกแก้ว",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214703,
+        "name": "เหรียญหยกโมรา",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214800,
+        "name": "หลอมเทวะหยกเทพ",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            100
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214900,
+        "name": "ตั๋วคืนศักดิ์สิทธิ์",
+        "consume_count": 1,
+        "gain": [
+          [
+            1,
+            50
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214901,
+        "name": "ลูกกวาด",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214902,
+        "name": "พายแอปเปิ้ล",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      },
+      {
+        "item_id": 20214903,
+        "name": "โคมฟักทองใหญ่",
+        "consume_count": 1,
+        "gain": [
+          [
+            2,
+            2500
+          ]
+        ],
+        "source_field": "item_cfg.goodsData.use_gain"
+      }
+    ],
+    "sellable_items": [],
+    "sell_evidence": "All4795 rows have sell=0 or empty and sell_price empty; no verified sell-enabled items.",
+    "hero_item_links": [
+      {
+        "item_id": 2105010,
+        "base_id": 105010,
+        "change_id": 1105010,
+        "change_num": 50
+      },
+      {
+        "item_id": 2105020,
+        "base_id": 105020,
+        "change_id": 1105020,
+        "change_num": 50
+      },
+      {
+        "item_id": 2105030,
+        "base_id": 105030,
+        "change_id": 1105030,
+        "change_num": 50
+      },
+      {
+        "item_id": 2104010,
+        "base_id": 104010,
+        "change_id": 1104010,
+        "change_num": 50
+      },
+      {
+        "item_id": 2104020,
+        "base_id": 104020,
+        "change_id": 1104020,
+        "change_num": 50
+      },
+      {
+        "item_id": 2104030,
+        "base_id": 104030,
+        "change_id": 1104030,
+        "change_num": 50
+      },
+      {
+        "item_id": 2104040,
+        "base_id": 104040,
+        "change_id": 1104040,
+        "change_num": 50
+      },
+      {
+        "item_id": 2104050,
+        "base_id": 104050,
+        "change_id": 1104050,
+        "change_num": 50
+      },
+      {
+        "item_id": 2103010,
+        "base_id": 103010,
+        "change_id": 1103010,
+        "change_num": 50
+      },
+      {
+        "item_id": 2103020,
+        "base_id": 103020,
+        "change_id": 1103020,
+        "change_num": 50
+      },
+      {
+        "item_id": 2102010,
+        "base_id": 102010,
+        "change_id": 1102010,
+        "change_num": 30
+      },
+      {
+        "item_id": 2102020,
+        "base_id": 102020,
+        "change_id": 1102020,
+        "change_num": 30
+      },
+      {
+        "item_id": 2101010,
+        "base_id": 101010,
+        "change_id": 1101010,
+        "change_num": 20
+      },
+      {
+        "item_id": 2205010,
+        "base_id": 205010,
+        "change_id": 1205010,
+        "change_num": 50
+      },
+      {
+        "item_id": 2205020,
+        "base_id": 205020,
+        "change_id": 1205020,
+        "change_num": 50
+      },
+      {
+        "item_id": 2205030,
+        "base_id": 205030,
+        "change_id": 1205030,
+        "change_num": 50
+      },
+      {
+        "item_id": 2204010,
+        "base_id": 204010,
+        "change_id": 1204010,
+        "change_num": 50
+      },
+      {
+        "item_id": 2204020,
+        "base_id": 204020,
+        "change_id": 1204020,
+        "change_num": 50
+      },
+      {
+        "item_id": 2204030,
+        "base_id": 204030,
+        "change_id": 1204030,
+        "change_num": 50
+      },
+      {
+        "item_id": 2204040,
+        "base_id": 204040,
+        "change_id": 1204040,
+        "change_num": 50
+      },
+      {
+        "item_id": 2204050,
+        "base_id": 204050,
+        "change_id": 1204050,
+        "change_num": 50
+      },
+      {
+        "item_id": 2203010,
+        "base_id": 203010,
+        "change_id": 1203010,
+        "change_num": 50
+      },
+      {
+        "item_id": 2203020,
+        "base_id": 203020,
+        "change_id": 1203020,
+        "change_num": 50
+      },
+      {
+        "item_id": 2202010,
+        "base_id": 202010,
+        "change_id": 1202010,
+        "change_num": 30
+      },
+      {
+        "item_id": 2202020,
+        "base_id": 202020,
+        "change_id": 1202020,
+        "change_num": 30
+      },
+      {
+        "item_id": 2201010,
+        "base_id": 201010,
+        "change_id": 1201010,
+        "change_num": 20
+      },
+      {
+        "item_id": 2305010,
+        "base_id": 305010,
+        "change_id": 1305010,
+        "change_num": 50
+      },
+      {
+        "item_id": 2305020,
+        "base_id": 305020,
+        "change_id": 1305020,
+        "change_num": 50
+      },
+      {
+        "item_id": 2305030,
+        "base_id": 305030,
+        "change_id": 1305030,
+        "change_num": 50
+      },
+      {
+        "item_id": 2304010,
+        "base_id": 304010,
+        "change_id": 1304010,
+        "change_num": 50
+      },
+      {
+        "item_id": 2304020,
+        "base_id": 304020,
+        "change_id": 1304020,
+        "change_num": 50
+      },
+      {
+        "item_id": 2304030,
+        "base_id": 304030,
+        "change_id": 1304030,
+        "change_num": 50
+      },
+      {
+        "item_id": 2304040,
+        "base_id": 304040,
+        "change_id": 1304040,
+        "change_num": 50
+      },
+      {
+        "item_id": 2304050,
+        "base_id": 304050,
+        "change_id": 1304050,
+        "change_num": 50
+      },
+      {
+        "item_id": 2303010,
+        "base_id": 303010,
+        "change_id": 1303010,
+        "change_num": 50
+      },
+      {
+        "item_id": 2303020,
+        "base_id": 303020,
+        "change_id": 1303020,
+        "change_num": 50
+      },
+      {
+        "item_id": 2302010,
+        "base_id": 302010,
+        "change_id": 1302010,
+        "change_num": 30
+      },
+      {
+        "item_id": 2302020,
+        "base_id": 302020,
+        "change_id": 1302020,
+        "change_num": 30
+      },
+      {
+        "item_id": 2301010,
+        "base_id": 301010,
+        "change_id": 1301010,
+        "change_num": 20
+      },
+      {
+        "item_id": 2405010,
+        "base_id": 405010,
+        "change_id": 1405010,
+        "change_num": 50
+      },
+      {
+        "item_id": 2405020,
+        "base_id": 405020,
+        "change_id": 1405020,
+        "change_num": 50
+      },
+      {
+        "item_id": 2405030,
+        "base_id": 405030,
+        "change_id": 1405030,
+        "change_num": 50
+      },
+      {
+        "item_id": 2404010,
+        "base_id": 404010,
+        "change_id": 1404010,
+        "change_num": 50
+      },
+      {
+        "item_id": 2404020,
+        "base_id": 404020,
+        "change_id": 1404020,
+        "change_num": 50
+      },
+      {
+        "item_id": 2404030,
+        "base_id": 404030,
+        "change_id": 1404030,
+        "change_num": 50
+      },
+      {
+        "item_id": 2404040,
+        "base_id": 404040,
+        "change_id": 1404040,
+        "change_num": 50
+      },
+      {
+        "item_id": 2404050,
+        "base_id": 404050,
+        "change_id": 1404050,
+        "change_num": 50
+      },
+      {
+        "item_id": 2403010,
+        "base_id": 403010,
+        "change_id": 1403010,
+        "change_num": 50
+      },
+      {
+        "item_id": 2403020,
+        "base_id": 403020,
+        "change_id": 1403020,
+        "change_num": 50
+      },
+      {
+        "item_id": 2402010,
+        "base_id": 402010,
+        "change_id": 1402010,
+        "change_num": 30
+      },
+      {
+        "item_id": 2402020,
+        "base_id": 402020,
+        "change_id": 1402020,
+        "change_num": 30
+      },
+      {
+        "item_id": 2401010,
+        "base_id": 401010,
+        "change_id": 1401010,
+        "change_num": 20
+      },
+      {
+        "item_id": 2505010,
+        "base_id": 505010,
+        "change_id": 1505010,
+        "change_num": 50
+      },
+      {
+        "item_id": 2505020,
+        "base_id": 505020,
+        "change_id": 1505020,
+        "change_num": 50
+      },
+      {
+        "item_id": 2505050,
+        "base_id": 505050,
+        "change_id": 1505050,
+        "change_num": 50
+      },
+      {
+        "item_id": 2505040,
+        "base_id": 505040,
+        "change_id": 1505040,
+        "change_num": 50
+      },
+      {
+        "item_id": 2505060,
+        "base_id": 505060,
+        "change_id": 1505060,
+        "change_num": 50
+      },
+      {
+        "item_id": 2505030,
+        "base_id": 505030,
+        "change_id": 1505030,
+        "change_num": 50
+      },
+      {
+        "item_id": 2505070,
+        "base_id": 505070,
+        "change_id": 1505070,
+        "change_num": 50
+      },
+      {
+        "item_id": 2505080,
+        "base_id": 505080,
+        "change_id": 1505080,
+        "change_num": 50
+      },
+      {
+        "item_id": 2705010,
+        "base_id": 705010,
+        "change_id": 1705010,
+        "change_num": 50
+      },
+      {
+        "item_id": 2705020,
+        "base_id": 705020,
+        "change_id": 1705020,
+        "change_num": 50
+      },
+      {
+        "item_id": 2705030,
+        "base_id": 705030,
+        "change_id": 1705030,
+        "change_num": 50
+      },
+      {
+        "item_id": 2705040,
+        "base_id": 705040,
+        "change_id": 1705040,
+        "change_num": 50
+      },
+      {
+        "item_id": 2705050,
+        "base_id": 705050,
+        "change_id": 1705050,
+        "change_num": 50
+      },
+      {
+        "item_id": 2705060,
+        "base_id": 705060,
+        "change_id": 1705060,
+        "change_num": 50
+      },
+      {
+        "item_id": 2705070,
+        "base_id": 705070,
+        "change_id": 1705070,
+        "change_num": 50
+      },
+      {
+        "item_id": 2705080,
+        "base_id": 705080,
+        "change_id": 1705080,
+        "change_num": 50
+      },
+      {
+        "item_id": 2805010,
+        "base_id": 805010,
+        "change_id": 1805010,
+        "change_num": 50
+      },
+      {
+        "item_id": 2805020,
+        "base_id": 805020,
+        "change_id": 1805020,
+        "change_num": 50
+      },
+      {
+        "item_id": 2805030,
+        "base_id": 805030,
+        "change_id": 1805030,
+        "change_num": 50
+      },
+      {
+        "item_id": 2805040,
+        "base_id": 805040,
+        "change_id": 1805040,
+        "change_num": 50
+      },
+      {
+        "item_id": 2805050,
+        "base_id": 805050,
+        "change_id": 1805050,
+        "change_num": 50
+      },
+      {
+        "item_id": 2805060,
+        "base_id": 805060,
+        "change_id": 1805060,
+        "change_num": 50
+      }
+    ],
+    "fixed_fragment_recipes": [
+      {
+        "item_id": 1105010,
+        "num": 50,
+        "hero_id": 105010,
+        "rule": ""
+      },
+      {
+        "item_id": 1105020,
+        "num": 50,
+        "hero_id": 105020,
+        "rule": ""
+      },
+      {
+        "item_id": 1105030,
+        "num": 50,
+        "hero_id": 105030,
+        "rule": ""
+      },
+      {
+        "item_id": 1104010,
+        "num": 50,
+        "hero_id": 104010,
+        "rule": ""
+      },
+      {
+        "item_id": 1104020,
+        "num": 50,
+        "hero_id": 104020,
+        "rule": ""
+      },
+      {
+        "item_id": 1104030,
+        "num": 50,
+        "hero_id": 104030,
+        "rule": ""
+      },
+      {
+        "item_id": 1104040,
+        "num": 50,
+        "hero_id": 104040,
+        "rule": ""
+      },
+      {
+        "item_id": 1104050,
+        "num": 50,
+        "hero_id": 104050,
+        "rule": ""
+      },
+      {
+        "item_id": 1103010,
+        "num": 50,
+        "hero_id": 103010,
+        "rule": ""
+      },
+      {
+        "item_id": 1103020,
+        "num": 50,
+        "hero_id": 103020,
+        "rule": ""
+      },
+      {
+        "item_id": 1102010,
+        "num": 30,
+        "hero_id": 102010,
+        "rule": ""
+      },
+      {
+        "item_id": 1102020,
+        "num": 30,
+        "hero_id": 102020,
+        "rule": ""
+      },
+      {
+        "item_id": 1101010,
+        "num": 20,
+        "hero_id": 101010,
+        "rule": ""
+      },
+      {
+        "item_id": 1205010,
+        "num": 50,
+        "hero_id": 205010,
+        "rule": ""
+      },
+      {
+        "item_id": 1205020,
+        "num": 50,
+        "hero_id": 205020,
+        "rule": ""
+      },
+      {
+        "item_id": 1205030,
+        "num": 50,
+        "hero_id": 205030,
+        "rule": ""
+      },
+      {
+        "item_id": 1204010,
+        "num": 50,
+        "hero_id": 204010,
+        "rule": ""
+      },
+      {
+        "item_id": 1204020,
+        "num": 50,
+        "hero_id": 204020,
+        "rule": ""
+      },
+      {
+        "item_id": 1204030,
+        "num": 50,
+        "hero_id": 204030,
+        "rule": ""
+      },
+      {
+        "item_id": 1204040,
+        "num": 50,
+        "hero_id": 204040,
+        "rule": ""
+      },
+      {
+        "item_id": 1204050,
+        "num": 50,
+        "hero_id": 204050,
+        "rule": ""
+      },
+      {
+        "item_id": 1203010,
+        "num": 50,
+        "hero_id": 203010,
+        "rule": ""
+      },
+      {
+        "item_id": 1203020,
+        "num": 50,
+        "hero_id": 203020,
+        "rule": ""
+      },
+      {
+        "item_id": 1202010,
+        "num": 30,
+        "hero_id": 202010,
+        "rule": ""
+      },
+      {
+        "item_id": 1202020,
+        "num": 30,
+        "hero_id": 202020,
+        "rule": ""
+      },
+      {
+        "item_id": 1201010,
+        "num": 20,
+        "hero_id": 201010,
+        "rule": ""
+      },
+      {
+        "item_id": 1305010,
+        "num": 50,
+        "hero_id": 305010,
+        "rule": ""
+      },
+      {
+        "item_id": 1305020,
+        "num": 50,
+        "hero_id": 305020,
+        "rule": ""
+      },
+      {
+        "item_id": 1305030,
+        "num": 50,
+        "hero_id": 305030,
+        "rule": ""
+      },
+      {
+        "item_id": 1304010,
+        "num": 50,
+        "hero_id": 304010,
+        "rule": ""
+      },
+      {
+        "item_id": 1304020,
+        "num": 50,
+        "hero_id": 304020,
+        "rule": ""
+      },
+      {
+        "item_id": 1304030,
+        "num": 50,
+        "hero_id": 304030,
+        "rule": ""
+      },
+      {
+        "item_id": 1304040,
+        "num": 50,
+        "hero_id": 304040,
+        "rule": ""
+      },
+      {
+        "item_id": 1304050,
+        "num": 50,
+        "hero_id": 304050,
+        "rule": ""
+      },
+      {
+        "item_id": 1303010,
+        "num": 50,
+        "hero_id": 303010,
+        "rule": ""
+      },
+      {
+        "item_id": 1303020,
+        "num": 50,
+        "hero_id": 303020,
+        "rule": ""
+      },
+      {
+        "item_id": 1302010,
+        "num": 30,
+        "hero_id": 302010,
+        "rule": ""
+      },
+      {
+        "item_id": 1302020,
+        "num": 30,
+        "hero_id": 302020,
+        "rule": ""
+      },
+      {
+        "item_id": 1301010,
+        "num": 20,
+        "hero_id": 301010,
+        "rule": ""
+      },
+      {
+        "item_id": 1405010,
+        "num": 50,
+        "hero_id": 405010,
+        "rule": ""
+      },
+      {
+        "item_id": 1405020,
+        "num": 50,
+        "hero_id": 405020,
+        "rule": ""
+      },
+      {
+        "item_id": 1405030,
+        "num": 50,
+        "hero_id": 405030,
+        "rule": ""
+      },
+      {
+        "item_id": 1404010,
+        "num": 50,
+        "hero_id": 404010,
+        "rule": ""
+      },
+      {
+        "item_id": 1404020,
+        "num": 50,
+        "hero_id": 404020,
+        "rule": ""
+      },
+      {
+        "item_id": 1404030,
+        "num": 50,
+        "hero_id": 404030,
+        "rule": ""
+      },
+      {
+        "item_id": 1404040,
+        "num": 50,
+        "hero_id": 404040,
+        "rule": ""
+      },
+      {
+        "item_id": 1404050,
+        "num": 50,
+        "hero_id": 404050,
+        "rule": ""
+      },
+      {
+        "item_id": 1403010,
+        "num": 50,
+        "hero_id": 403010,
+        "rule": ""
+      },
+      {
+        "item_id": 1403020,
+        "num": 50,
+        "hero_id": 403020,
+        "rule": ""
+      },
+      {
+        "item_id": 1402010,
+        "num": 30,
+        "hero_id": 402010,
+        "rule": ""
+      },
+      {
+        "item_id": 1402020,
+        "num": 30,
+        "hero_id": 402020,
+        "rule": ""
+      },
+      {
+        "item_id": 1401010,
+        "num": 20,
+        "hero_id": 401010,
+        "rule": ""
+      },
+      {
+        "item_id": 1505010,
+        "num": 50,
+        "hero_id": 505010,
+        "rule": ""
+      },
+      {
+        "item_id": 1505020,
+        "num": 50,
+        "hero_id": 505020,
+        "rule": ""
+      },
+      {
+        "item_id": 1505030,
+        "num": 50,
+        "hero_id": 505030,
+        "rule": ""
+      },
+      {
+        "item_id": 1505050,
+        "num": 50,
+        "hero_id": 505050,
+        "rule": ""
+      },
+      {
+        "item_id": 1505040,
+        "num": 50,
+        "hero_id": 505040,
+        "rule": ""
+      },
+      {
+        "item_id": 1505060,
+        "num": 50,
+        "hero_id": 505060,
+        "rule": ""
+      },
+      {
+        "item_id": 1505070,
+        "num": 50,
+        "hero_id": 505070,
+        "rule": ""
+      },
+      {
+        "item_id": 1505080,
+        "num": 50,
+        "hero_id": 505080,
+        "rule": ""
+      },
+      {
+        "item_id": 1705010,
+        "num": 50,
+        "hero_id": 705010,
+        "rule": ""
+      },
+      {
+        "item_id": 1705020,
+        "num": 50,
+        "hero_id": 705020,
+        "rule": ""
+      },
+      {
+        "item_id": 1705030,
+        "num": 50,
+        "hero_id": 705030,
+        "rule": ""
+      },
+      {
+        "item_id": 1705040,
+        "num": 50,
+        "hero_id": 705040,
+        "rule": ""
+      },
+      {
+        "item_id": 1705050,
+        "num": 50,
+        "hero_id": 705050,
+        "rule": ""
+      },
+      {
+        "item_id": 1705060,
+        "num": 50,
+        "hero_id": 705060,
+        "rule": ""
+      },
+      {
+        "item_id": 1705070,
+        "num": 50,
+        "hero_id": 705070,
+        "rule": ""
+      },
+      {
+        "item_id": 1705080,
+        "num": 50,
+        "hero_id": 705080,
+        "rule": ""
+      },
+      {
+        "item_id": 1805010,
+        "num": 50,
+        "hero_id": 805010,
+        "rule": ""
+      },
+      {
+        "item_id": 1805020,
+        "num": 50,
+        "hero_id": 805020,
+        "rule": ""
+      },
+      {
+        "item_id": 1805030,
+        "num": 50,
+        "hero_id": 805030,
+        "rule": ""
+      },
+      {
+        "item_id": 1805040,
+        "num": 50,
+        "hero_id": 805040,
+        "rule": ""
+      },
+      {
+        "item_id": 1805050,
+        "num": 50,
+        "hero_id": 805050,
+        "rule": ""
+      },
+      {
+        "item_id": 1805060,
+        "num": 50,
+        "hero_id": 805060,
+        "rule": ""
+      }
+    ],
+    "unsupported": "Random gifts, selectable gifts, timed/resource packs and server-dependent actions need their own exact handlers; do not apply generic consume-all.",
+    "server_messages": {
+      "use_item": 11305,
+      "combine_hero_fragments": 11307,
+      "sell_response": 11308
+    },
+    "client_code": "bagctrl.ts.useItem, useHeroPiece, useHeroPieceBack; globalfunc.getHeroDataByHeroItemId/getHeroDtByPieceId/getPieceNeedCount"
+  },
+  "idle": {
+    "source_table": "9f2c876d-4738-4f57-b6e5-ae15848e76b8.bin (hang_up_cfg)",
+    "display_rate_unit": "per_minute",
+    "displayed_fixed_item_ids": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "tuple_interpretation": "mainlinemdl.getFixedHangIncome maps tuple[0] item ID and tuple[1] rate; the third field is ignored by this client display. Its general server meaning is not asserted.",
+    "default_cap_minutes": 720,
+    "quick_minutes": 120,
+    "cap_source": "hang_up_cfg1[3] used as minutes in mainlinectrl.openHangRwdSucc; actual max_time supplied by16400 response and overrides display cap.",
+    "rounding_note": "Client receives sum_goods from server; a local formula floor(rate*elapsedSeconds/60) is an offline adaptation, not recovered server rounding. Preserve fractional remainder to avoid repeated-claim loss if implementing it.",
+    "base_rate_modifiers": "getFixedHangIncome applies privilege value/10000; hangdetail applies server item_list.rate/10000. Without verified entitlement/state use no bonus.",
+    "server_messages": {
+      "status": 16400,
+      "claim": 16401,
+      "quick_claim": 16402
+    },
+    "status_fields": [
+      "sum_goods",
+      "gain_time",
+      "max_time",
+      "item_list",
+      "fast_count",
+      "repair_count",
+      "cost_count"
+    ],
+    "source_modules": [
+      "mainlinemdl.ts.js.receHangUpData/getFixedHangIncome",
+      "hangdetail.ts.js upData prints /m",
+      "mlhangup.ts.js clamps server time-gain_time to max_time",
+      "mainlinectrl.ts.js n16400/n16401/n16402"
+    ],
+    "constants": {
+      "1": {
+        "id": 1,
+        "val": 1
+      },
+      "2": {
+        "id": 2,
+        "val": 1
+      },
+      "3": {
+        "id": 3,
+        "val": 720
+      },
+      "4": {
+        "id": 4,
+        "val": 1
+      },
+      "5": {
+        "id": 5,
+        "val": 1
+      },
+      "6": {
+        "id": 6,
+        "val": 120
+      },
+      "7": {
+        "id": 7,
+        "val": {
+          "main_guard": "120005",
+          "open_day": "3"
+        }
+      },
+      "8": {
+        "id": 8,
+        "val": "{471,325},{391,300},{311,290},{300,240},{400,250},{500,265},{540,300},{600,340}"
+      },
+      "9": {
+        "id": 9,
+        "val": "{260,270},{340,240},{420,250},{500,265},{540,300},{600,340},{470,325},{390,310},{310,290}"
+      },
+      "10": {
+        "id": 10,
+        "val": 100
+      },
+      "11": {
+        "id": 11,
+        "val": 80
+      },
+      "12": {
+        "id": 12,
+        "val": 1
+      },
+      "13": {
+        "id": 13,
+        "val": {
+          "main_guard": "106010"
+        }
+      },
+      "14": {
+        "id": 14,
+        "val": 15
+      }
+    },
+    "quick_costs": {
+      "1": {
+        "count": 1,
+        "loss": "{1,100}"
+      },
+      "2": {
+        "count": 2,
+        "loss": "{1,200}"
+      },
+      "3": {
+        "count": 3,
+        "loss": "{1,200}"
+      },
+      "4": {
+        "count": 4,
+        "loss": "{1,300}"
+      },
+      "5": {
+        "count": 5,
+        "loss": "{1,300}"
+      },
+      "6": {
+        "count": 6,
+        "loss": "{1,300}"
+      }
+    }
+  },
+  "hero_growth": {
+    "source_table": "fe255aa2-437c-4861-956f-bc32ac81c7ca.bin (hero_cfg)",
+    "level_cost_key": "career *10000 + CURRENT level",
+    "stage_cost_key": "career *100 + CURRENT stage",
+    "max_level": "min(star_level_limits[star].level_max, stage_level_limits[stage].level_max)",
+    "max_stage": "min(star_level_limits[star].stage_max, hero_constants[12].val)",
+    "breakthrough_condition": "level==max_level AND stage<max_stage AND sufficient exact cost items",
+    "stage_level_limits": {
+      "0": {
+        "level_max": 20
+      },
+      "1": {
+        "level_max": 40
+      },
+      "2": {
+        "level_max": 50
+      },
+      "3": {
+        "level_max": 60
+      },
+      "4": {
+        "level_max": 80
+      },
+      "5": {
+        "level_max": 1000
+      }
+    },
+    "stage_costs": {
+      "100": {
+        "career": 1,
+        "stage": 0,
+        "loss": "{2,10000},{20110101,50}",
+        "return": "",
+        "attr": ""
+      },
+      "101": {
+        "career": 1,
+        "stage": 1,
+        "loss": "{2,20000},{20110101,100}",
+        "return": "{2,10000},{20110101,50}",
+        "attr": {
+          "2": "506",
+          "3": "81",
+          "4": "15",
+          "5": "15"
+        }
+      },
+      "102": {
+        "career": 1,
+        "stage": 2,
+        "loss": "{2,40000},{20110101,200}",
+        "return": "{2,30000},{20110101,150}",
+        "attr": {
+          "2": "1350",
+          "3": "216",
+          "4": "41",
+          "5": "41"
+        }
+      },
+      "103": {
+        "career": 1,
+        "stage": 3,
+        "loss": "{2,100000},{20110101,500}",
+        "return": "{2,70000},{20110101,350}",
+        "attr": {
+          "2": "2531",
+          "3": "405",
+          "4": "76",
+          "5": "76"
+        }
+      },
+      "104": {
+        "career": 1,
+        "stage": 4,
+        "loss": "{2,200000},{20110101,1000}",
+        "return": "{2,170000},{20110101,850}",
+        "attr": {
+          "2": "4219",
+          "3": "675",
+          "4": "127",
+          "5": "127"
+        }
+      },
+      "105": {
+        "career": 1,
+        "stage": 5,
+        "loss": "{2,500000},{20110101,2000}",
+        "return": "{2,370000},{20110101,1850}",
+        "attr": {
+          "2": "6750",
+          "3": "1080",
+          "4": "203",
+          "5": "203"
+        }
+      },
+      "200": {
+        "career": 2,
+        "stage": 0,
+        "loss": "{2,10000},{20110101,50}",
+        "return": "",
+        "attr": ""
+      },
+      "201": {
+        "career": 2,
+        "stage": 1,
+        "loss": "{2,20000},{20110101,100}",
+        "return": "{2,10000},{20110101,50}",
+        "attr": {
+          "2": "582",
+          "3": "78",
+          "4": "14",
+          "5": "14"
+        }
+      },
+      "202": {
+        "career": 2,
+        "stage": 2,
+        "loss": "{2,40000},{20110101,200}",
+        "return": "{2,30000},{20110101,150}",
+        "attr": {
+          "2": "1553",
+          "3": "207",
+          "4": "38",
+          "5": "38"
+        }
+      },
+      "203": {
+        "career": 2,
+        "stage": 3,
+        "loss": "{2,100000},{20110101,500}",
+        "return": "{2,70000},{20110101,350}",
+        "attr": {
+          "2": "2911",
+          "3": "388",
+          "4": "72",
+          "5": "72"
+        }
+      },
+      "204": {
+        "career": 2,
+        "stage": 4,
+        "loss": "{2,200000},{20110101,1000}",
+        "return": "{2,170000},{20110101,850}",
+        "attr": {
+          "2": "4852",
+          "3": "647",
+          "4": "120",
+          "5": "120"
+        }
+      },
+      "205": {
+        "career": 2,
+        "stage": 5,
+        "loss": "{2,500000},{20110101,2000}",
+        "return": "{2,370000},{20110101,1850}",
+        "attr": {
+          "2": "7763",
+          "3": "1035",
+          "4": "191",
+          "5": "191"
+        }
+      },
+      "300": {
+        "career": 3,
+        "stage": 0,
+        "loss": "{2,10000},{20110101,50}",
+        "return": "",
+        "attr": ""
+      },
+      "301": {
+        "career": 3,
+        "stage": 1,
+        "loss": "{2,20000},{20110101,100}",
+        "return": "{2,10000},{20110101,50}",
+        "attr": {
+          "2": "506",
+          "3": "57",
+          "4": "18",
+          "5": "18"
+        }
+      },
+      "302": {
+        "career": 3,
+        "stage": 2,
+        "loss": "{2,40000},{20110101,200}",
+        "return": "{2,30000},{20110101,150}",
+        "attr": {
+          "2": "1350",
+          "3": "153",
+          "4": "48",
+          "5": "48"
+        }
+      },
+      "303": {
+        "career": 3,
+        "stage": 3,
+        "loss": "{2,100000},{20110101,500}",
+        "return": "{2,70000},{20110101,350}",
+        "attr": {
+          "2": "2531",
+          "3": "287",
+          "4": "91",
+          "5": "91"
+        }
+      },
+      "304": {
+        "career": 3,
+        "stage": 4,
+        "loss": "{2,200000},{20110101,1000}",
+        "return": "{2,170000},{20110101,850}",
+        "attr": {
+          "2": "4219",
+          "3": "478",
+          "4": "151",
+          "5": "151"
+        }
+      },
+      "305": {
+        "career": 3,
+        "stage": 5,
+        "loss": "{2,500000},{20110101,2000}",
+        "return": "{2,370000},{20110101,1850}",
+        "attr": {
+          "2": "6750",
+          "3": "765",
+          "4": "242",
+          "5": "242"
+        }
+      },
+      "400": {
+        "career": 4,
+        "stage": 0,
+        "loss": "{2,10000},{20110101,50}",
+        "return": "",
+        "attr": ""
+      },
+      "401": {
+        "career": 4,
+        "stage": 1,
+        "loss": "{2,20000},{20110101,100}",
+        "return": "{2,10000},{20110101,50}",
+        "attr": {
+          "2": "582",
+          "3": "71",
+          "4": "15",
+          "5": "15"
+        }
+      },
+      "402": {
+        "career": 4,
+        "stage": 2,
+        "loss": "{2,40000},{20110101,200}",
+        "return": "{2,30000},{20110101,150}",
+        "attr": {
+          "2": "1553",
+          "3": "189",
+          "4": "41",
+          "5": "41"
+        }
+      },
+      "403": {
+        "career": 4,
+        "stage": 3,
+        "loss": "{2,100000},{20110101,500}",
+        "return": "{2,70000},{20110101,350}",
+        "attr": {
+          "2": "2911",
+          "3": "354",
+          "4": "76",
+          "5": "76"
+        }
+      },
+      "404": {
+        "career": 4,
+        "stage": 4,
+        "loss": "{2,200000},{20110101,1000}",
+        "return": "{2,170000},{20110101,850}",
+        "attr": {
+          "2": "4852",
+          "3": "591",
+          "4": "127",
+          "5": "127"
+        }
+      },
+      "405": {
+        "career": 4,
+        "stage": 5,
+        "loss": "{2,500000},{20110101,2000}",
+        "return": "{2,370000},{20110101,1850}",
+        "attr": {
+          "2": "7763",
+          "3": "945",
+          "4": "203",
+          "5": "203"
+        }
+      }
+    },
+    "source_functions": [
+      "heromdl.heroLvLoss",
+      "heromdl.heroStageLoss",
+      "heromdl.maxLevCheck",
+      "heromdl.getHrStageMax",
+      "heromdl.redpoint condition lev==maxLev && stage<getHrStageMax(star)",
+      "heroctrl.opUpTipsSuc displays exact stage losses and current/next caps"
+    ],
+    "server_override_note": "serHeroLvLoss and serHeroStageLoss prefer server-provided loss/stageLoss for a matching record; offline model has only fallback config rules."
+  }
+}

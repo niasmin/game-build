@@ -1,0 +1,28 @@
+{
+  "model_tests": {
+    "passed": 17,
+    "failed": 0,
+    "skipped": 0
+  },
+  "ui": {
+    "passed": [
+      "original currency icons",
+      "idle live timer/claim and original rates",
+      "fullscreen hero detail, skill tabs, exact breakthrough",
+      "new original character103010 animation",
+      "six slots, swap/place and reload persistence",
+      "fixed-use item transaction and original fragment recipe",
+      "formation-driven combat positions and floating damage",
+      "responsive360/390/720/1440 hero screen"
+    ],
+    "page_errors": [],
+    "failed_responses": []
+  },
+  "production": {
+    "base_path": "/game-build/",
+    "device_scale_factor": 2,
+    "all13_original_characters_rendered": true,
+    "page_errors": [],
+    "failed_responses": []
+  }
+}

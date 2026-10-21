@@ -32,6 +32,16 @@ Original artwork retains its original rights; no third-party relicensing is impl
 
 ## Expanded website implementation and validation
 
-The shipped website is the data-driven offline adaptation, not the full original Cocos runtime. It uses74 source-mapped heroes, source item names/factions, source guard order/rewards, source career level-cost/attribute tables and star ceilings, original backgrounds/menu art/font, and original starter-character animations rasterized offline into PNG sheets. `characters.js` draws those sheets without publishing a skeletal-animation runtime. Attack/hit/skill/idle/death clips exist for the3starter characters. Other heroes currently use correctly mapped portraits.
+The shipped website is the data-driven offline adaptation, not the full original Cocos runtime. It uses74 source-mapped heroes, source item names/factions, source guard order/rewards, source career level-cost/attribute tables and star ceilings, original backgrounds/menu art/font, and original starter-character animations rasterized offline into PNG sheets. `characters.js` draws those sheets without publishing a skeletal-animation runtime. Attack/hit/skill/idle/death clips now exist for13heroes whose complete native payloads were found. An all-native-bundle UUID search confirmed61other referenced models are not present as complete payloads. Four actual hero-card illustrations are also available. The browser normalizes per-character visible idle bounds and renders higher-resolution sprite sheets; unsupported heroes retain correctly mapped portrait fallbacks.
 
 Starting purse, local enemy lineup/stat scaling, attack/energy/timing/target selection and deterministic recruitment outcomes remain local design choices. The first2guard reward IDs map to the original young GuanYu/ZhangFei heroes. Formation allows6standard slots, corroborated by recovered `dmblview`. No claim is made that1837battles were played or all original skill effects implemented.
+
+## Version0.3 fidelity improvements
+
+- Full-screen hero chamber uses original background, source rarity colors, actual artwork/animation, stat/skill tabs and a separate owned roster. It is a browser layout adaptation, not a claim of pixel-identical original UI.
+- Formation preserves6explicit positions through swaps, placements, removals, rewards and save reloads. Local battle rendering uses these positions; local single-target simulation prioritizes the front row.
+- Growth now respects `min(starCap,stageCap)` and exact breakthrough costs. Current cumulative stage attributes are added once. Legacy saves without stages infer the least required stage to preserve already-paid levels rather than resetting progress. Final server-stat parity remains unverified.
+- Original item atlas was found across bundle boundaries: logical `jsres` mapping and native `jspre` PLIST/ASTC.190icons have exact numeric mappings and provenance.88whitelisted fixed-use recipes and74fragment recipes are available; the local unique-hero model rejects duplicate-hero fragment conversion. No selling command is invented.
+- Idle income uses only the original displayed IDs2/3/4/5 and their per-minute rates with a720-minute base cap. Local timestamp accrual, integer payouts, fractional carry and stage-change checkpoints are explicitly an offline service adaptation. Original account privileges, authoritative server rounding and time validation are not reproduced.
+
+Further evidence: `docs/APK_INVENTORY_IDLE_GROWTH.md` and `public/data/original-system-rules.json`.

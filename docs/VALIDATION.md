@@ -1,22 +1,21 @@
-# Validation — expanded version0.2
+# Validation — version0.3.0
 
-- `npm test`:7passed,0failed,0skipped. Includes source starter/portrait identity, invalid-save rejection, exact reward parsing, first2battles and original hero unlocks, HP/termination, original costs/star ceilings. Added regression that reward unlocks remain unique and the resulting save reloads correctly.
-- Recovery scripts rerun successfully:40/40JSC and161/161Thai config payloads.
-- Chromium end-to-end passed:
-- login/city original art
-- 74 heroes and sanitized skill text
-- original upgrade costs
-- formation6
-- original sprite animation changes pixels
-- first two battles reward correct heroes/guards
-- recruit250 original cost
-- persistent save reload
-- item inventory
-- profile reset control
-- responsive360/390/720/1440
+`npm test`:17passed,0failed,0skipped. Tests include original source data, exact upgrade/breakthrough costs and caps, migration of previously paid levels, fixed item transactions, original fragment recipes, per-minute offline income/cap/fraction carry, guard checkpoints,6-slot preservation, source hero-reward mappings and local front-row targeting.
 
-No page errors occurred in the end-to-end run. Original animated canvas pixel changes were verified, beyond checking element presence. Screenshot artifacts are in `docs/screenshots`.
+Chromium UI flows passed:
+- original currency icons
+- idle live timer/claim and original rates
+- fullscreen hero detail, skill tabs, exact breakthrough
+- new original character103010 animation
+- six slots, swap/place and reload persistence
+- fixed-use item transaction and original fragment recipe
+- formation-driven combat positions and floating damage
+- responsive360/390/720/1440 hero screen
 
-Separate authentic Cocos runtime rendered the original login screen locally; online gameplay was not validated and that research runtime is not the deployed offline website.
+Production `dist/` was served under `/game-build/` and tested at390×844 with device pixel ratio2. All13available original animated characters rendered; no page errors or failed asset responses occurred. Model and UI evidence is separate: original combat/server behavior is not validated by these tests.
 
-Not validated: original server/account integration, original authoritative damage/targeting/RNG behavior, payment, multiplayer, original save compatibility, all1837battles, or pixel-equivalence of every original screen.
+All65sprite sheets were audited against metadata dimensions and SHA-256 digests. Their idle viewports were visually inspected together to prevent cropped heads/floating feet. Individual hit/skill/death effects for every hero have not received exhaustive visual parity checks.
+
+See `docs/screenshots/release-0.3-hero.png`, `closer-formation.png`, `closer-idle.png`. Source APK evidence/recovery details remain in `RECONSTRUCTION.md` and `APK_INVENTORY_IDLE_GROWTH.md`.
+
+Not validated: original account/server integration, authoritative combat/RNG results, all1837battles, multiplayer/payment, and pixel-equivalence of every APK screen. The13complete character payloads and4hero-card illustrations were confirmed by cross-bundle searches; other referenced payloads are missing from the supplied APK's native members.
